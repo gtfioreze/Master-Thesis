@@ -1,0 +1,68 @@
+\BOOKMARK [0][]{Title.0}{Title}{}% 1
+\BOOKMARK [0][]{Acknowledgments.0}{Acknowledgments}{}% 2
+\BOOKMARK [0][]{Abstract.0}{Abstract}{}% 3
+\BOOKMARK [0][]{Resumo.0}{Resumo}{}% 4
+\BOOKMARK [0][]{index.0}{Index}{}% 5
+\BOOKMARK [1][]{toc.1}{Contents}{index.0}% 6
+\BOOKMARK [1][]{lof.1}{List of Figures}{index.0}% 7
+\BOOKMARK [1][]{lot.1}{List of Tables}{index.0}% 8
+\BOOKMARK [1][]{loac.1}{List of Acronyms}{index.0}% 9
+\BOOKMARK [1][]{los.1}{List of Symbols}{index.0}% 10
+\BOOKMARK [0][]{chapter.1}{1 Introduction}{}% 11
+\BOOKMARK [1][]{section.1.1}{1.1 Motivation}{chapter.1}% 12
+\BOOKMARK [1][]{section.1.2}{1.2 State of The Art}{chapter.1}% 13
+\BOOKMARK [2][]{subsection.1.2.1}{1.2.1 Dummy Subsection A}{section.1.2}% 14
+\BOOKMARK [2][]{subsection.1.2.2}{1.2.2 Dummy Subsection B}{section.1.2}% 15
+\BOOKMARK [1][]{section.1.3}{1.3 Original Contributions}{chapter.1}% 16
+\BOOKMARK [1][]{section.1.4}{1.4 Thesis Outline}{chapter.1}% 17
+\BOOKMARK [0][]{chapter.2}{2 Theoretical Introduction}{}% 18
+\BOOKMARK [1][]{section.2.1}{2.1 Visual Neuroscience: Perception}{chapter.2}% 19
+\BOOKMARK [1][]{section.2.2}{2.2 Brain visual pathways}{chapter.2}% 20
+\BOOKMARK [1][]{section.2.3}{2.3 Receptive fields and tuning}{chapter.2}% 21
+\BOOKMARK [1][]{section.2.4}{2.4 Feedback as a path for contextual information integration}{chapter.2}% 22
+\BOOKMARK [1][]{section.2.5}{2.5 Surround modulation}{chapter.2}% 23
+\BOOKMARK [2][]{subsection.2.5.1}{2.5.1 Suppression and facilitation}{section.2.5}% 24
+\BOOKMARK [2][]{subsection.2.5.2}{2.5.2 Spatial structure of the phenomenon}{section.2.5}% 25
+\BOOKMARK [2][]{subsection.2.5.3}{2.5.3 The motivation: feedback organization rules - uncovering the functions of feedback}{section.2.5}% 26
+\BOOKMARK [0][]{chapter.3}{3 Technology}{}% 27
+\BOOKMARK [1][]{section.3.1}{3.1 Intrinsic signal optical imaging}{chapter.3}% 28
+\BOOKMARK [1][]{section.3.2}{3.2 Calcium indicators and transgenic lines}{chapter.3}% 29
+\BOOKMARK [1][]{section.3.3}{3.3 Two-photon laser scanning microscopy}{chapter.3}% 30
+\BOOKMARK [0][]{chapter.4}{4 Technical Implementations}{}% 31
+\BOOKMARK [1][]{section.4.1}{4.1 System's scheme}{chapter.4}% 32
+\BOOKMARK [1][]{section.4.2}{4.2 Software: Governing machine protocols and stimulus presentation}{chapter.4}% 33
+\BOOKMARK [2][]{subsection.4.2.1}{4.2.1 Retinotopy mapping}{section.4.2}% 34
+\BOOKMARK [2][]{subsection.4.2.2}{4.2.2 Implementation and hardware alterations}{section.4.2}% 35
+\BOOKMARK [2][]{subsection.4.2.3}{4.2.3 Surround modulation spatial structure}{section.4.2}% 36
+\BOOKMARK [2][]{subsection.4.2.4}{4.2.4 Stimulus presentation with psychtoolbox}{section.4.2}% 37
+\BOOKMARK [2][]{subsection.4.2.5}{4.2.5 Optical imaging with Scanimage interface}{section.4.2}% 38
+\BOOKMARK [1][]{section.4.3}{4.3 Hardware: Trigger wiring and two-photon microscopy}{chapter.4}% 39
+\BOOKMARK [2][]{subsection.4.3.1}{4.3.1 Triggering}{section.4.3}% 40
+\BOOKMARK [2][]{subsection.4.3.2}{4.3.2 Two-photon laser microscopy}{section.4.3}% 41
+\BOOKMARK [1][]{section.4.4}{4.4 Instrumentation}{chapter.4}% 42
+\BOOKMARK [0][]{chapter.5}{5 Experimental Methods}{}% 43
+\BOOKMARK [1][]{section.5.1}{5.1 Animals}{chapter.5}% 44
+\BOOKMARK [1][]{section.5.2}{5.2 Visual stimulation}{chapter.5}% 45
+\BOOKMARK [1][]{section.5.3}{5.3 Intrinsic signal optical imaging settings}{chapter.5}% 46
+\BOOKMARK [1][]{section.5.4}{5.4 Session and trial structure}{chapter.5}% 47
+\BOOKMARK [1][]{section.5.5}{5.5 Specifics of the protocol settings and visual stimuli}{chapter.5}% 48
+\BOOKMARK [2][]{subsection.5.5.1}{5.5.1 Receptive Field mapping stimuli}{section.5.5}% 49
+\BOOKMARK [2][]{subsection.5.5.2}{5.5.2 Tunings mapping stimuli}{section.5.5}% 50
+\BOOKMARK [2][]{subsection.5.5.3}{5.5.3 Surround Modulation stimuli}{section.5.5}% 51
+\BOOKMARK [0][]{chapter.6}{6 Analysis}{}% 52
+\BOOKMARK [1][]{section.6.1}{6.1 Pre-processing images}{chapter.6}% 53
+\BOOKMARK [2][]{subsection.6.1.1}{6.1.1 Cropping}{section.6.1}% 54
+\BOOKMARK [2][]{subsection.6.1.2}{6.1.2 Separating planes}{section.6.1}% 55
+\BOOKMARK [1][]{section.6.2}{6.2 Suit2p pipeline}{chapter.6}% 56
+\BOOKMARK [2][]{subsection.6.2.1}{6.2.1 Registration}{section.6.2}% 57
+\BOOKMARK [2][]{subsection.6.2.2}{6.2.2 Selection of regions of interest \(ROIs\)}{section.6.2}% 58
+\BOOKMARK [2][]{subsection.6.2.3}{6.2.3 ROI labelling and quality control}{section.6.2}% 59
+\BOOKMARK [2][]{subsection.6.2.4}{6.2.4 Trace extraction and spike deconvolution}{section.6.2}% 60
+\BOOKMARK [1][]{section.6.3}{6.3 Data treatement}{chapter.6}% 61
+\BOOKMARK [2][]{subsection.6.3.1}{6.3.1 Receptive field mapping}{section.6.3}% 62
+\BOOKMARK [2][]{subsection.6.3.2}{6.3.2 Tuning mapping}{section.6.3}% 63
+\BOOKMARK [2][]{subsection.6.3.3}{6.3.3 Surround modulation protocol}{section.6.3}% 64
+\BOOKMARK [0][]{chapter.7}{7 Results}{}% 65
+\BOOKMARK [0][]{chapter.8}{8 Conclusions and Future Work}{}% 66
+\BOOKMARK [0][]{section*.15}{Bibliography}{}% 67
+\BOOKMARK [0][]{appendix.A}{Appendix A Title of AppendixA}{}% 68

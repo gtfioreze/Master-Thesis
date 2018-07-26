@@ -1,0 +1,33 @@
+\section{Session and trial structure}
+\label{sec:Session-and-trial-structure}
+
+The experimental process of a session comprised three main protocols for each mouse and each of that animal's V1 imaged position: A protocol to establish the receptive fields of the imaged neurons ($\texttt{StimPresProt\_RF}$), another to regard their tuning properties ($\texttt{StimPresProt\_tuning}$) and a last protocol designed for the actual surround modulation examinations ($\texttt{StimPresProt\_RF}$). 
+
+Each protocol involved a pseudorandomized sequence of trials - N repetitions of X trial types. Repetitions of each stimulus type are required in order to enhance the signal to noise ratio of the responses by trial averaging. 
+
+In general, each trial was formed by an initial baseline, a stimulus presentation, and an inter-trial interval (ITI). In both the baseline and the ITI the screen was left at background brightness and contrast level (grey) and its duration was used as buffer time for internal computations and to ensure sufficient Calcium decay from the previous stimulation (from the previous trial in the case of the baseline, and from the same trial in the case of the ITI). A session's total stimuli display duration should not be longer than two hours, as the anesthesia produces cumulative effects in the central nervous system and can start depressing the neuronal responses, impeaching the subsequent study of its relation with the visual stimulation [REFERENCES]. Thus, the durations of these intervals depended on the specific protocol (chapter 4, section d), as a balance between how important was the separation of responses in between trials - the more precise the intended separation, the larger should be the baseline and ITI durations - and how many trial types and trial repetitions were intended - the more trials, the less duration the baseline and ITI should have.
+
+ \begin{table}[H]
+\begin{center}\par
+\scalebox{0.85}{
+\begin{tabular}{c|cccccccccccccccccccccccccc}
+\hline 
+ 
+    
+           & \multicolumn{ 1}{c}{Number of trial types} & Number of repetitions &     baseline (ms) & stimulus (ms)& ITI (ms) \\
+           
+           \hline
+           \hline
+
+RF & 80 & 14 & 0 & 880 & 120 \\
+tuning & 32 & 25 & 5 & 900 & 95 \\
+SM & 124 & 15-20 & 500 & 1000 & 500 \\
+
+\hline
+        
+\end{tabular}}
+ \caption{Protocol configurations regarding session extension and trial durations.}
+    \vspace{-5mm}
+    \label{table:times}
+\end{center}
+\end{table}
