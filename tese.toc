@@ -19,43 +19,43 @@
 \contentsline {section}{\numberline {3.1}Intrinsic signal optical imaging}{6}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Acquiring functional maps of neuronal activity}{6}{subsection.3.1.1}
 \contentsline {subsection}{\numberline {3.1.2}Intrinsic Signal Optical Imaging: the technique}{8}{subsection.3.1.2}
-\contentsline {section}{\numberline {3.2}Calcium indicators and transgenic lines}{8}{section.3.2}
+\contentsline {section}{\numberline {3.2}Calcium indicators and transgenic lines}{9}{section.3.2}
 \contentsline {section}{\numberline {3.3}Two-photon laser scanning microscopy}{10}{section.3.3}
-\contentsline {chapter}{\numberline {4}Technical Implementations}{11}{chapter.4}
-\contentsline {section}{\numberline {4.1}System's scheme}{12}{section.4.1}
-\contentsline {section}{\numberline {4.2}Software: Governing machine protocols and stimulus presentation}{12}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Retinotopy mapping}{12}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Implementation and hardware alterations}{12}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}Surround modulation spatial structure}{12}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}Stimulus presentation with psychtoolbox}{12}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}Optical imaging with Scanimage interface}{12}{subsection.4.2.5}
-\contentsline {section}{\numberline {4.3}Hardware: Trigger wiring and two-photon microscopy}{12}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Triggering}{12}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Two-photon laser microscopy}{12}{subsection.4.3.2}
-\contentsline {section}{\numberline {4.4}Instrumentation}{12}{section.4.4}
-\contentsline {chapter}{\numberline {5}Experimental Methods}{13}{chapter.5}
-\contentsline {section}{\numberline {5.1}Animals}{14}{section.5.1}
-\contentsline {section}{\numberline {5.2}Visual stimulation}{14}{section.5.2}
-\contentsline {section}{\numberline {5.3}Intrinsic signal optical imaging settings}{14}{section.5.3}
-\contentsline {section}{\numberline {5.4}Session and trial structure}{15}{section.5.4}
-\contentsline {section}{\numberline {5.5}Specifics of the protocol settings and visual stimuli}{16}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}Receptive Field mapping stimuli}{16}{subsection.5.5.1}
-\contentsline {subsection}{\numberline {5.5.2}Tunings mapping stimuli}{17}{subsection.5.5.2}
-\contentsline {subsection}{\numberline {5.5.3}Surround Modulation stimuli}{17}{subsection.5.5.3}
-\contentsline {chapter}{\numberline {6}Analysis}{21}{chapter.6}
-\contentsline {section}{\numberline {6.1}Pre-processing images}{22}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Cropping}{22}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Separating planes}{22}{subsection.6.1.2}
-\contentsline {section}{\numberline {6.2}Suit2p pipeline}{22}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Registration}{22}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Selection of regions of interest (ROIs)}{22}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}ROI labelling and quality control}{22}{subsection.6.2.3}
-\contentsline {subsection}{\numberline {6.2.4}Trace extraction and spike deconvolution}{22}{subsection.6.2.4}
-\contentsline {section}{\numberline {6.3}Data treatement}{22}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Receptive field mapping}{22}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Tuning mapping}{22}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}Surround modulation protocol}{22}{subsection.6.3.3}
-\contentsline {chapter}{\numberline {7}Results}{23}{chapter.7}
-\contentsline {chapter}{\numberline {8}Conclusions and Future Work}{25}{chapter.8}
+\contentsline {chapter}{\numberline {4}Technical Implementations}{13}{chapter.4}
+\contentsline {section}{\numberline {4.1}System's scheme}{14}{section.4.1}
+\contentsline {section}{\numberline {4.2}Software: Governing machine protocols and stimulus presentation}{16}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Retinotopy mapping}{16}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Implementation and hardware alterations}{16}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Surround modulation spatial structure}{16}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Stimulus presentation with psychtoolbox}{16}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Optical imaging with Scanimage interface}{16}{subsection.4.2.5}
+\contentsline {section}{\numberline {4.3}Hardware: Trigger wiring and two-photon microscopy}{16}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Triggering}{16}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}Two-photon laser microscopy}{16}{subsection.4.3.2}
+\contentsline {section}{\numberline {4.4}Instrumentation}{16}{section.4.4}
+\contentsline {chapter}{\numberline {5}Experimental Methods}{17}{chapter.5}
+\contentsline {section}{\numberline {5.1}Animals}{18}{section.5.1}
+\contentsline {section}{\numberline {5.2}Visual stimulation}{18}{section.5.2}
+\contentsline {section}{\numberline {5.3}Intrinsic signal optical imaging settings}{18}{section.5.3}
+\contentsline {section}{\numberline {5.4}Session and trial structure}{19}{section.5.4}
+\contentsline {section}{\numberline {5.5}Specifics of the protocol settings and visual stimuli}{20}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Receptive Field mapping stimuli}{20}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Tunings mapping stimuli}{21}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Surround Modulation stimuli}{21}{subsection.5.5.3}
+\contentsline {chapter}{\numberline {6}Analysis}{25}{chapter.6}
+\contentsline {section}{\numberline {6.1}Pre-processing images}{26}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Cropping}{26}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Separating planes}{26}{subsection.6.1.2}
+\contentsline {section}{\numberline {6.2}Suit2p pipeline}{26}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Registration}{26}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Selection of regions of interest (ROIs)}{26}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}ROI labelling and quality control}{26}{subsection.6.2.3}
+\contentsline {subsection}{\numberline {6.2.4}Trace extraction and spike deconvolution}{26}{subsection.6.2.4}
+\contentsline {section}{\numberline {6.3}Data treatement}{26}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Receptive field mapping}{26}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Tuning mapping}{26}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Surround modulation protocol}{26}{subsection.6.3.3}
+\contentsline {chapter}{\numberline {7}Results}{27}{chapter.7}
+\contentsline {chapter}{\numberline {8}Conclusions and Future Work}{29}{chapter.8}
 \contentsline {chapter}{Bibliography}{A-1}{section*.18}
 \contentsline {chapter}{Appendix \numberline {A}Title of AppendixA}{A-1}{appendix.A}
