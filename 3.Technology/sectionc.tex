@@ -1,14 +1,133 @@
-\section{Two-photon laser scanning microscopy}
+\section{Imaging techniques: Two photon laser-scanning microscopy}
 \label{sec:sectionc}
 
-Neuronal phenomena can be relevant in broad scale ranges, both spatially and temporally. With high resolution, sensitivity, contrast and being able to track events over large cortical ranges, two-photon excitation (2PE) laser scanning microscopy provides a way of accessing fluorescent objects, such as the GCaMP6 expressing neurons, by selectively exciting them and detecting the produced light signal. This technique can furthermore be applied to living or intact tissue, with minimal photodamage (phototoxicity and photobleaching). The probability of detecting a signal photon per excitation event is greater than with previous techniques, especially for imaging deep in scattering tissue.
+Investigation of neuronal activity often requires access to deep layers of brain tissue, without compromise of the entire brain structure and while preserving the remaining more superficial layers. Deep ($>500 \mu m$ below the brain surface) optically sectioning in highly scattering tissue, minimally invasive techniques such as two photon laser-scanning microscopy (TPLSM) present an effective solution. 
 
-Two low-energy photons (deep red and near IR) are sent by a focused laser to a fluorophore unit and excite, in combination, the higher-energy electronic transition required for the emission of fluorescent light. 2PE is a nonlinear process, as the absorption rate depends on the squared value of light intensity. This intensity drops quadratically with the distance from the focus. Therefore, if the numerical aperture objective is small enough, this excitation is localized, and the excitation can affect a very small focal volume and produce good 3D contrast and resolution.
+Moreover, neuronal phenomena can be relevant in broad scale ranges, both spatially and temporally. TPLSM presents images with submicron lateral resolution, micron axial resolution and millisecond timescales, appropriate for many neuronal processes, in particular for observing GCaMP6s expressing neurons in V1.
 
-Another advantage of 2PE is in its relation with scattering. As photons enter tissue, they scatter and deviate their paths according to inhomogeneities found in the refractive index of the medium, and this reduces the amount of light delivered to the focus and from the fluorescent molecule to the detection apparatus. However, 2PE uses near IR beams that penetrate tissue better than visible waves (as used in one-photon microscopy); the non-linearity of 2PE also contributes to the reduced scattered photons; and finally, since the excitation is localized, all the fluorescence photons coming from the excited molecule, even if scattered, portray useful signal, not being lost and not contributing to background noise.
+With high resolution, sensitivity, contrast and being able to track events over large cortical ranges, two-photon excitation laser-scanning microscopy provides a way of accessing fluorescent objects, such as the GCaMP6 expressing neurons, by selectively exciting them and detecting the produced light signal. This technique can furthermore be applied to living or intact tissue, with minimal photodamage (phototoxicity and photobleaching). The probability of detecting a signal photon per excitation event is greater than with previous techniques, especially for imaging deep in scattering tissue.
+
+Here, we review other fluorescence imaging techniques that preceded TPLSM and follow with the technical main concepts in the assemblage of a TPLSM system and its optical theoretical fundamentals. The presented functioning principles can aid in the understanding of TPLSM advantages, justifying its use in the research subject of this project, and also serve as an overview of the main possible tools often used in experimental neuroscience imaging research.
+
+
+\subsection{Single-photon Imaging}
+
+Fluorescence microscopy makes use of either artificially introduced or intrinsic molecules in a biological preparation that can be excited by light at a wavelength within these molecules' linear absorption spectrum.
+
+In single-photon imaging, as appropriate light is shined over a preparation, a photon can be absorbed by the molecule, exciting it to a higher electronic state. Then, upon relaxation back to its ground state, the molecule will emit a photon at lower energy and longer wavelength than the excitation light.
+
+Regardless of the focusing of the beam, the fluorescence throughout an entire plane at the same axial coordinate (perpendicular to the incident excitation light) will be virtually constant: The probability of an excitation process (absorption of a photon) is linearly proportional to the excitation light intensity (number of photons incident per unit area). As one approaches the focus of the excitation bean, the light intensity increases as there is less cross-sectional area to distribute the power over, but, in the same proportion, there are also less molecules to excite in that same cross-section. Thus, the fluorescence excitation in single photon imaging results constant across the entire axial reach of the excitation light beam.
+
+\subsection{Direct Imaging}
+
+In direct imaging techniques, or whole-field fluorescent microscopy, the full region of interest is illuminated with excitation light and all of the consequent fluorescent light is collected.
+
+This method allows high data collection rates, depending on the array-detector technology available. However, since the fluorescence origin is not distinguished and out-of-focus planes contribute non-uniformly to the background levels read in a focused plane, axial resolution suffers, as well as signal-to-noise (STN) levels, in relation to more processed techniques.
+
+In fact, adaptations of this technique explore the elimination of out-of-focus planes' fluorescence, by various methods:
+
+\begin{itemize}
+\item deconvoluting images from immediately above and bellow planes from the target images of the focused plane, modelling and subtracting this out-of-focus light from the background levels.
+
+\item projecting a vibrating grating in the preparation plane, with a spacing on the order of the lateral diffraction limit, and using its modulation in time to extract the  part of the signal that is concurrently modulated and that thus corresponds to the target plane.
+
+\item using an interferometry cavity to produce an optical field varying axially and distinguishing in this way the signal coming from each axial plane. However, this method can only be applied in thin preparations.
+\end{itemize}
+
+\subsection{Confocal laser-scanning microscopy}
+
+Laser-scanning microscopy presents better axial resolution than direct imaging. Conversely to direct imaging, in confocal laser-scanning microscopy the light source focuses the excitation light in a target focal volume, instead of illuminating the full region of interest. 
 
 Typically, a laser is focused on a given target plane and scanned over the sample. When an excitation occurs, it is detected by photodetectors. These responses are then summed over some microseconds and mapped to single pixels of an image.
 
-The lasers used for this method should be powerful enough to compensate for the small two-photon cross-sections and produce sufficient signal levels. Moreover, 2PE efficiency increases as the inverse of pulse duration, and the device should thus be suitable for short light pulses. Mode-locked Ytterbium-doped and Cr:forsterite lasers suffice these requirements for the considered wavelengths.
+An incoming collimated laser beam is deflected by two perpendicularly placed rotating mirrors and then focused by a microscope objective onto the biological preparation, in case, a mouse's V1 \textit{in vivo} brain layer.
 
-Objectives are used for the essential focusing of the laser beams. Another important consideration regards the detectors: These should cover large sensitive areas (millimeters), as well as contemplate good gain, quantum efficiency, and other important thresholds. Photomultiplier tubes (PMTs) are usually applied for this purpose.
+The rotation of the two mirrors generates a trajectory in the laser's focused spot in the animal's brain, under a given raster pattern across the region of interest. Then, the fluorescent light produced at the focal volume is collected by a detector as a function of time. Typically, the fluorescence responses are summed over some microseconds corresponding to the time spent by the laser focus at that position and mapped to single pixels of a final raw image : the fluorescence time series is therefore transformed back in the fluorescence function of the corresponding positions in the brain's scanned area. 
+
+Limited to the speed and reliability of the rotating mirrors' angular deflection movement, this method has the disadvantage of reduced acquisition speed compared with direct imaging techniques. 
+
+The axial resolution is improved by preferentially collecting signal from the focused volume and rejecting light coming from out-of-focus planes: The fluorescent light is refocused along the same path as the excitation laser beam and, after being deflected by the scan mirrors, this light is spatially filtered by a pinhole as to only pass light signals from radius corresponding to generation from the illuminated region of the brain. For this reason, this method is only efficient for optically thin preparations: If the light beam is strongly scattered, the pinhole will block deflected beams that in fact originated from the focal volume, and collect deflected light from outside the focal plane, decreasing the STN ratio. 
+
+
+\subsection{Two photon laser-scanning microscopy }
+
+In TPLSM, the laser beam light is at twice the wavelength and half the energy of the light used in one-photon microscopy. Thus, lower-energy photons (deep red and near IR) are sent by a focused laser to a fluorophore unit and can excite, in simultaneous combinations of two, the higher-energy electronic transition required for the emission of fluorescent light. Two photon simultaneous absorption is a nonlinear process, as the absorption rate depends on the squared value of light intensity. This intensity drops quadratically with the distance from the focus. Therefore, if the numerical aperture objective is small enough, this excitation is localized, and the excitation can affect a very small focal volume and produce good 3D contrast and resolution.
+
+In fact, in TPLSM, the total fluorescence generated in a cross-sectional plane, $F_{tot}$, is proportional to the square of the laser beam intensity, $I^2$, and the illuminated area, A. Thus, with P the incident laser power and $I=P/A$, considering that the illuminated area in a given plane scales with the square of the axial distance from that plane to the focal plane, $A \propto z^2$, for z larger than the confocal length, we obtain:
+
+\begin{equation}
+F_ {tot} \propto I^2 A \propto \left( \dfrac{P}{z}\right)^2 \text{ for } z \geqslant z_{confocal}
+\end{equation}
+
+with
+
+\begin{equation}
+z_{confocal}\equiv \dfrac{1}{2 \pi} \dfrac{\lambda _o}{n} \left( \dfrac{n}{NA} \right)^2
+\end{equation}
+
+where n is the optical index of the preparation, $\lambda _0$ the laser's peak excitation wavelength and NA the numerical aperture of the objective.
+
+The integrated fluorescence over $z \geqslant z_{confocal}$ is given by:
+
+\begin{equation}
+2 \int_{z_{confocal}}^{\infty} dz F_{total} \propto  2 \int_{z_{confocal}}^{\infty} dz \left( \dfrac{P}{z}\right)^2 \to constant
+\end{equation}
+
+and the relevant contributions to the collected fluorescence are therefore only from the light within a focal depth $z \geqslant z_{confocal}$, regardless of scattering.
+
+On the other hand, with the single-photon technique, $F_{tot} \propto I A$ for $z \geqslant z_{confocal}$, and the integral diverges:
+
+\begin{equation}
+2 \int_{z_{confocal}}^{\infty} dz F_{total} \propto  2 \int_{z_{confocal}}^{\infty} dz P^2 \to \infty
+\end{equation}
+
+
+Another asset of 2PE methods are its features with scattering processes.
+
+As photons enter tissue in a preparation, they scatter and deviate their paths according to inhomogeneities found in the refractive index of the medium, and this reduces the amount of light both delivered to the focus and emitted from the fluorescent molecule to the detection apparatus. The size of a scattering particle can be parametrized as the elastic scattering length $x = \dfrac{2 \pi r}{\lambda}$, with r its the characteristic length and $\lambda$ the incident light wavelength. The scattering length corresponds to the length over which an incident light's deflection can be neglected.
+
+In summary, 2PE presents four main advantages in this regard, being specially suited for optically thick preparations:
+
+\begin{itemize}
+\item The TPLSM technique uses near IR beams. These wavelengths penetrate tissue with less scattering than visible waves as those used in one-photon microscopy. In this way, 2PE methods deliver excitation light to deeper layers of the preparation more effectively. Furthermore, these waves are less absorbed by biological tissue than blue or UV light.
+\item The non-linearity of 2PE, with the amount of fluorescence generated in an axial plane quadratically decrementing as a function of the distance from the focused plane, also contributes to the reduced collection of scattered photons coming from out-of-focus planes, which would worsen the STN ratio;
+\item Since the excitation is localized, in principle all the fluorescence photons coming from an excited molecule, even if scattered, portray useful signal, not being lost and not contributing to background noise.
+\item Not requiring spatial filtering of the fluorescent beams, a higher collection efficiency is possible for scattering tissue than with confocal microscopy.
+\end{itemize}
+
+Another important characteristic of TPLSM is that with this method the excitation and fluorescence light spectral peaks are separated further than with other techniques, since twice the energy of the fluorophores de-excitation must be delivered by the laser. This simplifies the technicality of distinguishing these light beams. Furthermore, the fluorophores have more energy levels available for absorption, producing a broader spectra of emission light with a single laser source. This allows simultaneous collection of different wavelength fluorescent light, with separated channels revealing the fluorescence behaviour of different molecules. This can be used for simultaneous imaging of neurons and axons, distinct markers and dyes, or multiple genetically induced compounds.
+
+Since the probability of simultaneous absorption of two photons is smaller than single-photon absorption at twice the energy level, the lasers used for this method should be powerful enough to compensate for the small two-photon cross-sections and produce sufficient signal levels. Moreover, the average power levels delivered by the laser should avoid thermal damage of the preparation. Considering that 2PE efficiency and depth penetration increase as the instantaneous power delivered by the laser, hence with the inverse of pulse duration, the device should thus be suitable for short light pulses ($10-100 fsec$). Mode-locked Ytterbium-doped and Cr:forsterite lasers suffice these requirements for the considered wavelengths.
+
+Objectives are used for the essential focusing of the laser beams. Another important consideration regards the detectors: These should cover large sensitive areas (millimeters), as well as contemplate good gain, quantum efficiency, and other important thresholds, depending on preparation being imaged. Photomultiplier tubes (PMTs) are usually applied for this purpose.
+
+TPLSM resolutions, both in depth $\delta z$ and lateral $\delta r$, depend on the confocal length of the system:
+
+\begin{equation}
+\delta z = 4 \pi z_{confocal} = 2 \dfrac{\lambda _0}{n}\left( \dfrac{n}{NA} \right) ^2
+\end{equation}
+
+\begin{equation}
+\delta r = 1.2 \pi \dfrac{NA}{n} z_{confocal} = 0.6 \dfrac{\lambda _0}{n}\left( \dfrac{n}{NA} \right)
+\end{equation}
+
+In the case of the performed experiments, the laser's light was filtered for $\lambda _0 = 920 nm$, the brain tissue preparation's optical index can be approximated to $???$ and the objective's numerical apperture was [SPECIFICS ON THE OBJECTIVE] $NA=???$. This gives $z_{confocal}$ and the resolutions $ \lambda z = ???$ and $\lambda r = ???$. 
+A beam can only be focused as long as $x >> z_{confocal}$. Since in living mouse's neocortex $x ~ 200 \mu m$, TPLSM's beam focus is again virtually not affected by scattering, deeming laser power the only practical restriction for the TPLSM technique.
+
+Photodamage of the nervous tissue and photobleaching of the fluorophores during TPLSM sessions are localized effects whilst in single-photon these effects endure throughout the full light penetrated depth. Furthermore, these effects in TPLSM have been reported to have been increasing at the focus in a non-linear manner with exposition time and light source intensity[REFERENCES]. Thus, regarding the previously discribed strong advantages for TPLSM versus single-photon imaging, for thin preparations, a preference between single- and two-photon imaging techniques is not clearly resolved.
+
+Regarding the selected light source's efficiency, the spectral width of the pulsed laser beam $\Delta \lambda$ should be within the fluorophore molecules' two-photon excitation spectrum. This is given by:
+
+\begin{equation}
+\Delta \lambda ~ \dfrac{\lambda_0 ^2}{c \tau}
+\end{equation} 
+
+with $\lambda_0$ the laser beam's peak wavelength and $\tau$ the temporal width of the pulse. 
+
+For GCaMP6s mice, the proteins absorb optimally at 920 nm. Therefore, the laser beam is set at this peak value and with this being a Ti:Sapphire-based system, temporal widths reach about 10 fsec, producing a wavelength width of  ????, less than the 80nm absorption band with of GCAMP6s fluorophores, VALUE, as desired.
+
+PUT SCHEME
+
+%delivery of laser light (path), reshaping laser light,
+%scheme for scan system, 
+%detection

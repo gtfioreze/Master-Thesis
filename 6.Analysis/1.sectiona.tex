@@ -1,8 +1,14 @@
-\section{Pre-processing images}
+\section{Experiment's outputs}
 \label{sec:sectiona}
 
-\subsection{Cropping}
-\label{subsec:subasectionA}
+Once an experiment is completed, a set of raw images, the corresponding stimuli information and event timings will be available. Corresponding to a protocol, there will be a set of frames for each trial, according to the TPLSM system's scanning speed of $30 Hz$ and the 5 planes being processed ($6 Hz$ per plane). 
+For instance, the RF protocol comprises 1120 trials and the triggers sent from bpod to the imaging computer for dividing  the images come at each 4 trials. There are thus, for this case, 280 sets of images. Since each trial endures for $1s$, each of these sets contains 6 frames for each of the 4 relevant planes, prefacing, for the RF protocol, 24 total frames per trial. In turn, each of these frames contains a $512 \times 512$ pixels image of the fluorescent signals emitted from the animal's brain and detected at that time[IMAGE-WHAT DO THE PIXELS CORRESPOND TO IN SIZE].
+For each of the trial's sets of images, there is the corresponding stimulus information being saved in a Matlab structure: In the case of the RF, the changing feature is the position of the stimulus patch being presented in the screen during that trial, for the Tuning protocol these are the spacial and temporal frequencies as well as the direction of the centred stimulus, and finally for the SM protocol the independent variable is the stimulus type number. Apart from these, also the constant features of the stimuli at each protocol are saved in the same structure. 
+The trial time stamps in bpod's triggering, states and Psychtoolbox's clocked timings from a received trigger to the next are also saved. This allows, in the latter analysis, to confirm and if need correcting the stimulus information in the case of any eventual skipped trials.
+Finally, Scan Image configurations are also saved, in each trial's video header, keeping the information required about the laser's power during that experiment, multiplane settings and read offsets.
 
-\subsection{Separating planes}
-\label{subsec:subbsectionA}
+\section{Images pre-processing: Separating planes and registration}
+\label{sec:sectionb}
+%Leo_Ca_Analyzer
+%Separating planes
+%Registering with Leo with cropped
