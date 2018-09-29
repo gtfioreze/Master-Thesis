@@ -2,25 +2,28 @@
 \addvspace {10\p@ }
 \contentsline {xchapter}{Introduction}{1}{chapter.1}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Theoretical Introduction}{3}{chapter.2}
+\contentsline {xchapter}{Theoretical Introduction}{5}{chapter.2}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Feedback signals from LM to V1 could convey predictive information about a moving object, if we consider that their wiring is biased according to their own tuning. In this example, we consider direction selectivity tuning as the criteria for the feedback wiring. \newline \textbf {Top:} A stimulus (the cat) moving in a given direction (left to right) will activate neurons in V1 with that direction selectivity and with their receptive fields located at the corresponding region where the stimulus is in the subject's visual field at that time $t_0$ (left-side, blue labeled azimuth angle). \newline \textbf {Middle:} These DS left field-of-view corresponding neurons feedforward to neurons whose RF represents the same left-side location in the visual field. These would project back into V1 neurons corresponding to positions on the middle region (green-labeled azimuth angle) activated by the stimulus at $t_1$. \newline \textbf {Down: } These neurons, activated by the stimuli presentation in that visual field region, also connect retinotopically to LM cells with the same direction selectivity. Again, these project to the neurons corresponding to the RF position ahead (right-side, red-labeled azimuth angle), activated by the stimulus at $t_2$). \newline In this way, predictions on the next cat's position, as assumed by the direction it followed at previous times, could be relayed via feedback from LM to V1 neurons. \newline \newline \relax \fontsize {5}{6}\selectfont {Image from the presentation by one of the principal co-authors of \cite {Tiago}, Tiago Marques, under the Champalimaud Internal Seminar Series on October $15^{th}$ 2017, \textit {The functional organization of cortical feedback}.}\relax }}{12}{figure.caption.8}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces LM feedback to V1 functional organization acording to simple geometrical rules. Planes represent retinotopic maps in V1 and LM, while bars represent preferred orientation of the LM neurons. \newline \textbf {Left:} OS inputs have biased wiring towards positions ortogonal to their preferred orientation. \newline \textbf {Right:} DS inputs tend to be wired along the opposite sense to their preferred motion direction. CHECK THIS WORDING \newline \newline \relax \fontsize {5}{6}\selectfont {Images from \cite {Tiago}.}\relax }}{13}{figure.caption.9}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Technology}{5}{chapter.3}
+\contentsline {xchapter}{Technology}{15}{chapter.3}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Technical Implementations}{15}{chapter.4}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces c1}}{16}{figure.caption.8}
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Perspectives of Bpod State Machine device version 0.5, identical parts as in version 0.9, but with fully transparent box container design. Images from Sanworks Bpod wiki page [REFERENCES].\relax }}{20}{figure.caption.9}
+\contentsline {xchapter}{Technical Implementations}{25}{chapter.4}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces c1}}{26}{figure.caption.10}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Perspectives of Bpod State Machine device version 0.5, identical parts as in version 0.9, but with fully transparent box container design. Images from Sanworks Bpod wiki page [REFERENCES].\relax }}{30}{figure.caption.11}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces c1}}{33}{figure.caption.12}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Experimental Methods}{23}{chapter.5}
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Diagram of stimuli group C.\relax }}{30}{figure.caption.14}
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Diagram of stimuli group S1.\relax }}{30}{figure.caption.15}
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Diagram of stimuli group S1C.\relax }}{30}{figure.caption.16}
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Diagram of stimuli group S2.\relax }}{31}{figure.caption.17}
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Diagram of stimuli group S2C.\relax }}{31}{figure.caption.18}
+\contentsline {xchapter}{Experimental Methods}{35}{chapter.5}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Diagram of stimuli group C.\relax }}{42}{figure.caption.17}
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Diagram of stimuli group S1.\relax }}{42}{figure.caption.18}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Diagram of stimuli group S1C.\relax }}{42}{figure.caption.19}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Diagram of stimuli group S2.\relax }}{43}{figure.caption.20}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Diagram of stimuli group S2C.\relax }}{43}{figure.caption.21}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Analysis}{33}{chapter.6}
+\contentsline {xchapter}{Analysis}{45}{chapter.6}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Results}{37}{chapter.7}
+\contentsline {xchapter}{Results}{49}{chapter.7}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Conclusions and Future Work}{39}{chapter.8}
+\contentsline {xchapter}{Conclusions and Future Work}{51}{chapter.8}
 \addvspace {10\p@ }
 \contentsline {xchapter}{Title of AppendixA}{A-1}{appendix.A}

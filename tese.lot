@@ -2,22 +2,22 @@
 \addvspace {10\p@ }
 \contentsline {xchapter}{Introduction}{1}{chapter.1}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Theoretical Introduction}{3}{chapter.2}
+\contentsline {xchapter}{Theoretical Introduction}{5}{chapter.2}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Technology}{5}{chapter.3}
+\contentsline {xchapter}{Technology}{15}{chapter.3}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Technical Implementations}{15}{chapter.4}
+\contentsline {xchapter}{Technical Implementations}{25}{chapter.4}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Experimental Methods}{23}{chapter.5}
-\contentsline {table}{\numberline {5.1}{\ignorespaces Protocol configurations regarding session extension and trial durations.\relax }}{27}{table.caption.10}
-\contentsline {table}{\numberline {5.2}{\ignorespaces Configurations regarding the RF mapping protocol stimuli properties.\relax }}{28}{table.caption.11}
-\contentsline {table}{\numberline {5.3}{\ignorespaces Configurations regarding the tuning mapping protocol stimuli properties.\relax }}{29}{table.caption.12}
-\contentsline {table}{\numberline {5.4}{\ignorespaces Configurations regarding the SM protocol stimuli properties.\relax }}{29}{table.caption.13}
+\contentsline {xchapter}{Experimental Methods}{35}{chapter.5}
+\contentsline {table}{\numberline {5.1}{\ignorespaces Protocol configurations regarding session extension and trial durations.\relax }}{39}{table.caption.13}
+\contentsline {table}{\numberline {5.2}{\ignorespaces Configurations regarding the RF mapping protocol stimuli properties.\relax }}{40}{table.caption.14}
+\contentsline {table}{\numberline {5.3}{\ignorespaces Configurations regarding the tuning mapping protocol stimuli properties.\relax }}{41}{table.caption.15}
+\contentsline {table}{\numberline {5.4}{\ignorespaces Configurations regarding the SM protocol stimuli properties.\relax }}{41}{table.caption.16}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Analysis}{33}{chapter.6}
+\contentsline {xchapter}{Analysis}{45}{chapter.6}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Results}{37}{chapter.7}
+\contentsline {xchapter}{Results}{49}{chapter.7}
 \addvspace {10\p@ }
-\contentsline {xchapter}{Conclusions and Future Work}{39}{chapter.8}
+\contentsline {xchapter}{Conclusions and Future Work}{51}{chapter.8}
 \addvspace {10\p@ }
 \contentsline {xchapter}{Title of AppendixA}{A-1}{appendix.A}
