@@ -3,11 +3,3 @@
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2.1}Motivation and previous system}{\reset@font\mtcSSfont 27}{subsection.4.2.1}}
 {\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.2.2}Bpod Hardware implementation, specifications and alterations}{\reset@font\mtcSSfont 30}{subsection.4.2.2}}
 {\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.3}Software: Governing machine protocols and stimulus presentation}{\reset@font\mtcSfont 31}{section.4.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.1}Implementation and hardware alterations}{\reset@font\mtcSSfont 34}{subsection.4.3.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.2}Stimulus presentation with psychtoolbox}{\reset@font\mtcSSfont 34}{subsection.4.3.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.3.3}Optical imaging with Scanimage interface}{\reset@font\mtcSSfont 34}{subsection.4.3.3}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.4}Hardware: Trigger wiring and two-photon microscopy}{\reset@font\mtcSfont 34}{section.4.4}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.1}Triggering}{\reset@font\mtcSSfont 34}{subsection.4.4.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {4.4.2}Two-photon laser microscopy}{\reset@font\mtcSSfont 34}{subsection.4.4.2}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.5}Instrumentation}{\reset@font\mtcSfont 34}{section.4.5}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {4.6}Technical Implementations: Further work}{\reset@font\mtcSfont 34}{section.4.6}}

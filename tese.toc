@@ -37,38 +37,30 @@
 \contentsline {subsection}{\numberline {4.2.1}Motivation and previous system}{27}{subsection.4.2.1}
 \contentsline {subsection}{\numberline {4.2.2}Bpod Hardware implementation, specifications and alterations}{30}{subsection.4.2.2}
 \contentsline {section}{\numberline {4.3}Software: Governing machine protocols and stimulus presentation}{31}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Implementation and hardware alterations}{34}{subsection.4.3.1}
-\contentsline {subsection}{\numberline {4.3.2}Stimulus presentation with psychtoolbox}{34}{subsection.4.3.2}
-\contentsline {subsection}{\numberline {4.3.3}Optical imaging with Scanimage interface}{34}{subsection.4.3.3}
-\contentsline {section}{\numberline {4.4}Hardware: Trigger wiring and two-photon microscopy}{34}{section.4.4}
-\contentsline {subsection}{\numberline {4.4.1}Triggering}{34}{subsection.4.4.1}
-\contentsline {subsection}{\numberline {4.4.2}Two-photon laser microscopy}{34}{subsection.4.4.2}
-\contentsline {section}{\numberline {4.5}Instrumentation}{34}{section.4.5}
-\contentsline {section}{\numberline {4.6}Technical Implementations: Further work}{34}{section.4.6}
-\contentsline {chapter}{\numberline {5}Experimental Methods}{35}{chapter.5}
-\contentsline {section}{\numberline {5.1}Animals}{36}{section.5.1}
-\contentsline {section}{\numberline {5.2}Visual stimulation}{36}{section.5.2}
-\contentsline {section}{\numberline {5.3}Intrinsic signal optical imaging settings}{36}{section.5.3}
-\contentsline {section}{\numberline {5.4}Session and trial structure}{37}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}TPLSM experimental pipeline}{37}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Stimuli presentation structure}{39}{subsection.5.4.2}
-\contentsline {section}{\numberline {5.5}Specifics of the protocol settings and visual stimuli}{40}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}Receptive Field mapping stimuli}{40}{subsection.5.5.1}
-\contentsline {subsection}{\numberline {5.5.2}Tunings mapping stimuli}{40}{subsection.5.5.2}
-\contentsline {subsection}{\numberline {5.5.3}Surround Modulation stimuli}{41}{subsection.5.5.3}
-\contentsline {chapter}{\numberline {6}Analysis}{45}{chapter.6}
-\contentsline {section}{\numberline {6.1}Experiment's outputs}{46}{section.6.1}
-\contentsline {section}{\numberline {6.2}Images pre-processing: Separating planes and registration}{46}{section.6.2}
-\contentsline {section}{\numberline {6.3}Suit2p pipeline}{46}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Registration}{47}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Selection of regions of interest (ROIs)}{47}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}ROI labelling and quality control}{47}{subsection.6.3.3}
-\contentsline {subsection}{\numberline {6.3.4}Trace extraction and spike deconvolution}{47}{subsection.6.3.4}
-\contentsline {section}{\numberline {6.4}Data treatement}{47}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Receptive field mapping}{47}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}Tuning mapping}{47}{subsection.6.4.2}
-\contentsline {subsection}{\numberline {6.4.3}Surround modulation protocol}{47}{subsection.6.4.3}
-\contentsline {chapter}{\numberline {7}Results}{49}{chapter.7}
-\contentsline {chapter}{\numberline {8}Conclusions and Future Work}{51}{chapter.8}
-\contentsline {chapter}{Bibliography}{A-1}{section*.22}
+\contentsline {chapter}{\numberline {5}Experimental Methods}{37}{chapter.5}
+\contentsline {section}{\numberline {5.1}Animals}{38}{section.5.1}
+\contentsline {section}{\numberline {5.2}Visual stimulation}{38}{section.5.2}
+\contentsline {section}{\numberline {5.3}Intrinsic signal optical imaging settings}{38}{section.5.3}
+\contentsline {section}{\numberline {5.4}Session and trial structure}{39}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}TPLSM experimental pipeline}{39}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Stimuli presentation structure}{41}{subsection.5.4.2}
+\contentsline {section}{\numberline {5.5}Specifics of the protocol settings and visual stimuli}{42}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Receptive Field mapping stimuli}{42}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Tunings mapping stimuli}{42}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Surround Modulation stimuli}{43}{subsection.5.5.3}
+\contentsline {chapter}{\numberline {6}Analysis}{47}{chapter.6}
+\contentsline {section}{\numberline {6.1}Experiment's outputs}{48}{section.6.1}
+\contentsline {section}{\numberline {6.2}Images pre-processing: Separating planes and registration}{48}{section.6.2}
+\contentsline {section}{\numberline {6.3}Suit2p pipeline}{48}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Registration}{49}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}Selection of regions of interest (ROIs)}{49}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}ROI labelling and quality control}{49}{subsection.6.3.3}
+\contentsline {subsection}{\numberline {6.3.4}Trace extraction and spike deconvolution}{49}{subsection.6.3.4}
+\contentsline {section}{\numberline {6.4}Data treatement}{49}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Receptive field mapping}{49}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Tuning mapping}{49}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Surround modulation protocol}{49}{subsection.6.4.3}
+\contentsline {chapter}{\numberline {7}Results}{51}{chapter.7}
+\contentsline {chapter}{\numberline {8}Conclusions and Future Work}{53}{chapter.8}
+\contentsline {chapter}{Bibliography}{A-1}{section*.23}
 \contentsline {chapter}{Appendix \numberline {A}Title of AppendixA}{A-1}{appendix.A}

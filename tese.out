@@ -46,38 +46,30 @@
 \BOOKMARK [2][]{subsection.4.2.1}{4.2.1 Motivation and previous system}{section.4.2}% 46
 \BOOKMARK [2][]{subsection.4.2.2}{4.2.2 Bpod Hardware implementation, specifications and alterations}{section.4.2}% 47
 \BOOKMARK [1][]{section.4.3}{4.3 Software: Governing machine protocols and stimulus presentation}{chapter.4}% 48
-\BOOKMARK [2][]{subsection.4.3.1}{4.3.1 Implementation and hardware alterations}{section.4.3}% 49
-\BOOKMARK [2][]{subsection.4.3.2}{4.3.2 Stimulus presentation with psychtoolbox}{section.4.3}% 50
-\BOOKMARK [2][]{subsection.4.3.3}{4.3.3 Optical imaging with Scanimage interface}{section.4.3}% 51
-\BOOKMARK [1][]{section.4.4}{4.4 Hardware: Trigger wiring and two-photon microscopy}{chapter.4}% 52
-\BOOKMARK [2][]{subsection.4.4.1}{4.4.1 Triggering}{section.4.4}% 53
-\BOOKMARK [2][]{subsection.4.4.2}{4.4.2 Two-photon laser microscopy}{section.4.4}% 54
-\BOOKMARK [1][]{section.4.5}{4.5 Instrumentation}{chapter.4}% 55
-\BOOKMARK [1][]{section.4.6}{4.6 Technical Implementations: Further work}{chapter.4}% 56
-\BOOKMARK [0][]{chapter.5}{5 Experimental Methods}{}% 57
-\BOOKMARK [1][]{section.5.1}{5.1 Animals}{chapter.5}% 58
-\BOOKMARK [1][]{section.5.2}{5.2 Visual stimulation}{chapter.5}% 59
-\BOOKMARK [1][]{section.5.3}{5.3 Intrinsic signal optical imaging settings}{chapter.5}% 60
-\BOOKMARK [1][]{section.5.4}{5.4 Session and trial structure}{chapter.5}% 61
-\BOOKMARK [2][]{subsection.5.4.1}{5.4.1 TPLSM experimental pipeline}{section.5.4}% 62
-\BOOKMARK [2][]{subsection.5.4.2}{5.4.2 Stimuli presentation structure}{section.5.4}% 63
-\BOOKMARK [1][]{section.5.5}{5.5 Specifics of the protocol settings and visual stimuli}{chapter.5}% 64
-\BOOKMARK [2][]{subsection.5.5.1}{5.5.1 Receptive Field mapping stimuli}{section.5.5}% 65
-\BOOKMARK [2][]{subsection.5.5.2}{5.5.2 Tunings mapping stimuli}{section.5.5}% 66
-\BOOKMARK [2][]{subsection.5.5.3}{5.5.3 Surround Modulation stimuli}{section.5.5}% 67
-\BOOKMARK [0][]{chapter.6}{6 Analysis}{}% 68
-\BOOKMARK [1][]{section.6.1}{6.1 Experiment's outputs}{chapter.6}% 69
-\BOOKMARK [1][]{section.6.2}{6.2 Images pre-processing: Separating planes and registration}{chapter.6}% 70
-\BOOKMARK [1][]{section.6.3}{6.3 Suit2p pipeline}{chapter.6}% 71
-\BOOKMARK [2][]{subsection.6.3.1}{6.3.1 Registration}{section.6.3}% 72
-\BOOKMARK [2][]{subsection.6.3.2}{6.3.2 Selection of regions of interest \(ROIs\)}{section.6.3}% 73
-\BOOKMARK [2][]{subsection.6.3.3}{6.3.3 ROI labelling and quality control}{section.6.3}% 74
-\BOOKMARK [2][]{subsection.6.3.4}{6.3.4 Trace extraction and spike deconvolution}{section.6.3}% 75
-\BOOKMARK [1][]{section.6.4}{6.4 Data treatement}{chapter.6}% 76
-\BOOKMARK [2][]{subsection.6.4.1}{6.4.1 Receptive field mapping}{section.6.4}% 77
-\BOOKMARK [2][]{subsection.6.4.2}{6.4.2 Tuning mapping}{section.6.4}% 78
-\BOOKMARK [2][]{subsection.6.4.3}{6.4.3 Surround modulation protocol}{section.6.4}% 79
-\BOOKMARK [0][]{chapter.7}{7 Results}{}% 80
-\BOOKMARK [0][]{chapter.8}{8 Conclusions and Future Work}{}% 81
-\BOOKMARK [0][]{section*.22}{Bibliography}{}% 82
-\BOOKMARK [0][]{appendix.A}{Appendix A Title of AppendixA}{}% 83
+\BOOKMARK [0][]{chapter.5}{5 Experimental Methods}{}% 49
+\BOOKMARK [1][]{section.5.1}{5.1 Animals}{chapter.5}% 50
+\BOOKMARK [1][]{section.5.2}{5.2 Visual stimulation}{chapter.5}% 51
+\BOOKMARK [1][]{section.5.3}{5.3 Intrinsic signal optical imaging settings}{chapter.5}% 52
+\BOOKMARK [1][]{section.5.4}{5.4 Session and trial structure}{chapter.5}% 53
+\BOOKMARK [2][]{subsection.5.4.1}{5.4.1 TPLSM experimental pipeline}{section.5.4}% 54
+\BOOKMARK [2][]{subsection.5.4.2}{5.4.2 Stimuli presentation structure}{section.5.4}% 55
+\BOOKMARK [1][]{section.5.5}{5.5 Specifics of the protocol settings and visual stimuli}{chapter.5}% 56
+\BOOKMARK [2][]{subsection.5.5.1}{5.5.1 Receptive Field mapping stimuli}{section.5.5}% 57
+\BOOKMARK [2][]{subsection.5.5.2}{5.5.2 Tunings mapping stimuli}{section.5.5}% 58
+\BOOKMARK [2][]{subsection.5.5.3}{5.5.3 Surround Modulation stimuli}{section.5.5}% 59
+\BOOKMARK [0][]{chapter.6}{6 Analysis}{}% 60
+\BOOKMARK [1][]{section.6.1}{6.1 Experiment's outputs}{chapter.6}% 61
+\BOOKMARK [1][]{section.6.2}{6.2 Images pre-processing: Separating planes and registration}{chapter.6}% 62
+\BOOKMARK [1][]{section.6.3}{6.3 Suit2p pipeline}{chapter.6}% 63
+\BOOKMARK [2][]{subsection.6.3.1}{6.3.1 Registration}{section.6.3}% 64
+\BOOKMARK [2][]{subsection.6.3.2}{6.3.2 Selection of regions of interest \(ROIs\)}{section.6.3}% 65
+\BOOKMARK [2][]{subsection.6.3.3}{6.3.3 ROI labelling and quality control}{section.6.3}% 66
+\BOOKMARK [2][]{subsection.6.3.4}{6.3.4 Trace extraction and spike deconvolution}{section.6.3}% 67
+\BOOKMARK [1][]{section.6.4}{6.4 Data treatement}{chapter.6}% 68
+\BOOKMARK [2][]{subsection.6.4.1}{6.4.1 Receptive field mapping}{section.6.4}% 69
+\BOOKMARK [2][]{subsection.6.4.2}{6.4.2 Tuning mapping}{section.6.4}% 70
+\BOOKMARK [2][]{subsection.6.4.3}{6.4.3 Surround modulation protocol}{section.6.4}% 71
+\BOOKMARK [0][]{chapter.7}{7 Results}{}% 72
+\BOOKMARK [0][]{chapter.8}{8 Conclusions and Future Work}{}% 73
+\BOOKMARK [0][]{section*.23}{Bibliography}{}% 74
+\BOOKMARK [0][]{appendix.A}{Appendix A Title of AppendixA}{}% 75

@@ -1,11 +1,11 @@
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.1}Experiment's outputs}{\reset@font\mtcSfont 46}{section.6.1}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.2}Images pre-processing: Separating planes and registration}{\reset@font\mtcSfont 46}{section.6.2}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.3}Suit2p pipeline}{\reset@font\mtcSfont 46}{section.6.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3.1}Registration}{\reset@font\mtcSSfont 47}{subsection.6.3.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3.2}Selection of regions of interest (ROIs)}{\reset@font\mtcSSfont 47}{subsection.6.3.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3.3}ROI labelling and quality control}{\reset@font\mtcSSfont 47}{subsection.6.3.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3.4}Trace extraction and spike deconvolution}{\reset@font\mtcSSfont 47}{subsection.6.3.4}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.4}Data treatement}{\reset@font\mtcSfont 47}{section.6.4}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.1}Receptive field mapping}{\reset@font\mtcSSfont 47}{subsection.6.4.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.2}Tuning mapping}{\reset@font\mtcSSfont 47}{subsection.6.4.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.3}Surround modulation protocol}{\reset@font\mtcSSfont 47}{subsection.6.4.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.1}Experiment's outputs}{\reset@font\mtcSfont 48}{section.6.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.2}Images pre-processing: Separating planes and registration}{\reset@font\mtcSfont 48}{section.6.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.3}Suit2p pipeline}{\reset@font\mtcSfont 48}{section.6.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3.1}Registration}{\reset@font\mtcSSfont 49}{subsection.6.3.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3.2}Selection of regions of interest (ROIs)}{\reset@font\mtcSSfont 49}{subsection.6.3.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3.3}ROI labelling and quality control}{\reset@font\mtcSSfont 49}{subsection.6.3.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.3.4}Trace extraction and spike deconvolution}{\reset@font\mtcSSfont 49}{subsection.6.3.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.4}Data treatement}{\reset@font\mtcSfont 49}{section.6.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.1}Receptive field mapping}{\reset@font\mtcSSfont 49}{subsection.6.4.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.2}Tuning mapping}{\reset@font\mtcSSfont 49}{subsection.6.4.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.3}Surround modulation protocol}{\reset@font\mtcSSfont 49}{subsection.6.4.3}}
