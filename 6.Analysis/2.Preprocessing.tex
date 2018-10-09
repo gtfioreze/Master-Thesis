@@ -1,0 +1,30 @@
+\section{Images pre-processing: Separating planes and registration}
+\label{sec:PreProcessing}
+
+Each imaging raw movie intertwines the frames of each of the 4 planes. We used a software developed in the cortical circuits laboratory that parses and enables manipulations and sorting of these movies, across each trial or across each session, through an interactive GUI.
+
+Loading a set of images from the middle of the session to this analyzer GUI, the first step is to project each of its frames in average images per plane. This creates four image averages (one per plane) over those movie frames which clean some of the noise inherent to those trials' acquisition.
+
+These images will then be used, for each plane, as target images in the \textit{registration} phase. This stage is processed in iterative steps:
+
+First, the user chooses a subset of movies around the firstly selected and averaged middle session movie - in this case, 15 movies are initially selected. Then, these movies are registered: The spatial correlations of each of the selected movies frames with the corresponding averaged images are computed. These are then used to correct for spatial shifts in the movies coming from drift while imaging or vascular micromovements, by minimizing the found phase correlations between the target image brightness values in $(x,y)$ and the brightness values at each position of each movie frame in the 2D plane. A relative translative offtset is estimated to best describe the relation between the two images.
+
+Specifically, this phase correlation relies on a spatial frequency description of the data, calculated by fast Fourier transforms (FT). First, a window is selected to minimize edge effects, then the 2D Fourier transform of both images is calculated, as well as the cross-power spectrum $R$ that describes the distribution of power of the signal in different spatial frequency components:
+
+\begin{equation}
+\vec{G}_i = F (g_i(x,y)), G_{target}=F(g_{target}(x,y)) 
+\end{equation}
+
+and, with $\circ$ standing as pairwise multiplication:
+
+\begin{equation}
+R= \dfrac{\vec{G}_i \circ \vec{G}_{target}^*}{|\vec{G}_i \circ \vec{G}_{target}^*|}
+\end{equation}
+
+for each $i$ movie frame, $\vec{G}_i$ being the FT of the $g_i$ brightness function of that movie, and $\vec{G}_{target}$, $g_{target}$ respectively the FT and the brightness function of the target image of the respective plane.
+
+Applying the inverse Fourier transform onto this spectrum then amounts to the normalized cross-correlation function. The peak value of this cross-correlation will be at the coordinates of the estimated shift, and can be found by an interpolation method.
+
+When corrected, this amounts to a new averaged image across the selected and drift-corrected 15 movies. The process is then iteratively repeated, with respectively 25, 50, 100 and finally the full session of movies. These quantities were empirically choosed, as proven sufficient for good registration results in these experimental settings.
+
+This registration ultimately produced full session image averages of the corrected image sets, as well as the transformations to impose on each of the image sets in order to achieve registered, well anchored movies for every plane.

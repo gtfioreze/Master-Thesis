@@ -1,66 +1,67 @@
 \babel@toc {english}{}
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}
-\contentsline {section}{\numberline {1.1}A systems neuroscience question: How does the nervous system perceive the visual world?}{2}{section.1.1}
-\contentsline {section}{\numberline {1.2}State of The Art}{4}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Dummy Subsection A}{4}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Dummy Subsection B}{4}{subsection.1.2.2}
-\contentsline {section}{\numberline {1.3}Original Contributions}{4}{section.1.3}
-\contentsline {section}{\numberline {1.4}Thesis Outline}{4}{section.1.4}
-\contentsline {chapter}{\numberline {2}Theoretical Introduction}{5}{chapter.2}
-\contentsline {section}{\numberline {2.1}Visual Neuroscience: Perception}{6}{section.2.1}
-\contentsline {section}{\numberline {2.2}Brain visual pathways}{6}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}The eye}{6}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Central Visual Pathways}{7}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Feedforward: spatial filtering of natural images}{8}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Feedback pathways and influences}{8}{subsection.2.2.4}
-\contentsline {subsection}{\numberline {2.2.5}Surround modulation in the visual cortex}{9}{subsection.2.2.5}
-\contentsline {section}{\numberline {2.3}Surround modulation remaining questions and project's plan}{10}{section.2.3}
-\contentsline {section}{\numberline {2.4}Receptive fields and tuning}{11}{section.2.4}
-\contentsline {section}{\numberline {2.5}Feedback as a path for contextual information integration}{11}{section.2.5}
-\contentsline {section}{\numberline {2.6}Surround modulation}{11}{section.2.6}
-\contentsline {subsection}{\numberline {2.6.1}Suppression and facilitation}{11}{subsection.2.6.1}
-\contentsline {subsection}{\numberline {2.6.2}Spatial structure of the phenomenon}{11}{subsection.2.6.2}
-\contentsline {subsection}{\numberline {2.6.3}The motivation: feedback organization rules - uncovering the functions of feedback}{11}{subsection.2.6.3}
-\contentsline {chapter}{\numberline {3}Technology}{15}{chapter.3}
-\contentsline {section}{\numberline {3.1}Intrinsic signal optical imaging}{16}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Acquiring functional maps of neuronal activity}{16}{subsection.3.1.1}
-\contentsline {subsection}{\numberline {3.1.2}Intrinsic Signal Optical Imaging: the technique}{18}{subsection.3.1.2}
-\contentsline {section}{\numberline {3.2}Calcium indicators and transgenic lines}{19}{section.3.2}
-\contentsline {section}{\numberline {3.3}Imaging techniques: Two photon laser-scanning microscopy}{20}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Single-photon Imaging}{20}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Direct Imaging}{21}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Confocal laser-scanning microscopy}{21}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Two photon laser-scanning microscopy }{22}{subsection.3.3.4}
-\contentsline {chapter}{\numberline {4}Technical Implementations}{25}{chapter.4}
-\contentsline {section}{\numberline {4.1}System's scheme}{26}{section.4.1}
-\contentsline {section}{\numberline {4.2}Bpod}{27}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Motivation and previous system}{27}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}Bpod Hardware implementation, specifications and alterations}{30}{subsection.4.2.2}
-\contentsline {section}{\numberline {4.3}Software: Governing machine protocols and stimulus presentation}{31}{section.4.3}
-\contentsline {chapter}{\numberline {5}Experimental Methods}{37}{chapter.5}
-\contentsline {section}{\numberline {5.1}Animals}{38}{section.5.1}
-\contentsline {section}{\numberline {5.2}Visual stimulation}{38}{section.5.2}
-\contentsline {section}{\numberline {5.3}Intrinsic signal optical imaging settings}{38}{section.5.3}
-\contentsline {section}{\numberline {5.4}Session and trial structure}{39}{section.5.4}
-\contentsline {subsection}{\numberline {5.4.1}TPLSM experimental pipeline}{39}{subsection.5.4.1}
-\contentsline {subsection}{\numberline {5.4.2}Stimuli presentation structure}{41}{subsection.5.4.2}
-\contentsline {section}{\numberline {5.5}Specifics of the protocol settings and visual stimuli}{42}{section.5.5}
-\contentsline {subsection}{\numberline {5.5.1}Receptive Field mapping stimuli}{42}{subsection.5.5.1}
-\contentsline {subsection}{\numberline {5.5.2}Tunings mapping stimuli}{42}{subsection.5.5.2}
-\contentsline {subsection}{\numberline {5.5.3}Surround Modulation stimuli}{43}{subsection.5.5.3}
-\contentsline {chapter}{\numberline {6}Analysis}{47}{chapter.6}
-\contentsline {section}{\numberline {6.1}Experiment's outputs}{48}{section.6.1}
-\contentsline {section}{\numberline {6.2}Images pre-processing: Separating planes and registration}{48}{section.6.2}
-\contentsline {section}{\numberline {6.3}Suit2p pipeline}{48}{section.6.3}
-\contentsline {subsection}{\numberline {6.3.1}Registration}{49}{subsection.6.3.1}
-\contentsline {subsection}{\numberline {6.3.2}Selection of regions of interest (ROIs)}{49}{subsection.6.3.2}
-\contentsline {subsection}{\numberline {6.3.3}ROI labelling and quality control}{49}{subsection.6.3.3}
-\contentsline {subsection}{\numberline {6.3.4}Trace extraction and spike deconvolution}{49}{subsection.6.3.4}
-\contentsline {section}{\numberline {6.4}Data treatement}{49}{section.6.4}
-\contentsline {subsection}{\numberline {6.4.1}Receptive field mapping}{49}{subsection.6.4.1}
-\contentsline {subsection}{\numberline {6.4.2}Tuning mapping}{49}{subsection.6.4.2}
-\contentsline {subsection}{\numberline {6.4.3}Surround modulation protocol}{49}{subsection.6.4.3}
-\contentsline {chapter}{\numberline {7}Results}{51}{chapter.7}
-\contentsline {chapter}{\numberline {8}Conclusions and Future Work}{53}{chapter.8}
-\contentsline {chapter}{Bibliography}{A-1}{section*.23}
+\contentsline {section}{\numberline {1.1}A systems neuroscience question: How does the nervous system enable perception of the visual world?}{2}{section.1.1}
+\contentsline {section}{\numberline {1.2}Original Contributions}{5}{section.1.2}
+\contentsline {section}{\numberline {1.3}Thesis Outline}{7}{section.1.3}
+\contentsline {chapter}{\numberline {2}Theoretical Introduction}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Brain visual pathways}{10}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}The eye}{10}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Central Visual Pathways}{10}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Feedforward: spatial filtering of natural images}{12}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Feedback pathways and influences}{12}{subsection.2.1.4}
+\contentsline {section}{\numberline {2.2}Surround modulation in the visual cortex}{13}{section.2.2}
+\contentsline {section}{\numberline {2.3}The motivation: feedback organization rules - uncovering the functions of feedback}{14}{section.2.3}
+\contentsline {chapter}{\numberline {3}Technology}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Intrinsic signal optical imaging}{18}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Acquiring functional maps of neuronal activity}{18}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Intrinsic Signal Optical Imaging: the technique}{20}{subsection.3.1.2}
+\contentsline {section}{\numberline {3.2}Calcium indicators and transgenic lines}{21}{section.3.2}
+\contentsline {section}{\numberline {3.3}Imaging techniques: Two photon laser-scanning microscopy}{22}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Single-photon Imaging}{22}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Direct Imaging}{23}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Confocal laser-scanning microscopy}{23}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Two photon laser-scanning microscopy }{24}{subsection.3.3.4}
+\contentsline {chapter}{\numberline {4}Technical Implementations}{27}{chapter.4}
+\contentsline {section}{\numberline {4.1}System's scheme}{28}{section.4.1}
+\contentsline {section}{\numberline {4.2}Bpod}{29}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Motivation and previous system}{29}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Bpod Hardware implementation, specifications and alterations}{32}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}Software: Governing machine protocols and stimulus presentation}{33}{section.4.3}
+\contentsline {chapter}{\numberline {5}Experimental Methods}{39}{chapter.5}
+\contentsline {section}{\numberline {5.1}Animals}{40}{section.5.1}
+\contentsline {section}{\numberline {5.2}Visual stimulation}{40}{section.5.2}
+\contentsline {section}{\numberline {5.3}Intrinsic signal optical imaging settings}{40}{section.5.3}
+\contentsline {section}{\numberline {5.4}Session and trial structure}{42}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}TPLSM experimental pipeline}{42}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}Stimuli presentation structure}{44}{subsection.5.4.2}
+\contentsline {section}{\numberline {5.5}Specifics of the protocol settings and visual stimuli}{44}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Receptive Field mapping stimuli}{45}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Tunings mapping stimuli}{45}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Surround Modulation stimuli}{46}{subsection.5.5.3}
+\contentsline {chapter}{\numberline {6}Analysis}{51}{chapter.6}
+\contentsline {section}{\numberline {6.1}Experiment's outputs}{52}{section.6.1}
+\contentsline {section}{\numberline {6.2}Images pre-processing: Separating planes and registration}{52}{section.6.2}
+\contentsline {section}{\numberline {6.3}Suit2p pipeline}{53}{section.6.3}
+\contentsline {section}{\numberline {6.4}Data treatment}{55}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Receptive field mapping}{56}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}Tuning mapping}{56}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Surround modulation protocol}{56}{subsection.6.4.3}
+\contentsline {section}{\numberline {6.5}Statistical Tests}{56}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}t-tests}{56}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}Rank-sum tests}{56}{subsection.6.5.2}
+\contentsline {subsection}{\numberline {6.5.3}Sign-tests}{56}{subsection.6.5.3}
+\contentsline {subsection}{\numberline {6.5.4}Multivariate comparisons}{56}{subsection.6.5.4}
+\contentsline {chapter}{\numberline {7}Results}{57}{chapter.7}
+\contentsline {section}{\numberline {7.1}RF analysis}{58}{section.7.1}
+\contentsline {section}{\numberline {7.2}Tuning analysis}{59}{section.7.2}
+\contentsline {section}{\numberline {7.3}SM analysis - individual cells}{60}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}DS example cell}{60}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.2}OS example cell}{62}{subsection.7.3.2}
+\contentsline {section}{\numberline {7.4}SM analysis - cell population}{64}{section.7.4}
+\contentsline {subsection}{\numberline {7.4.1}Data ROI groups}{64}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.2}RF center positions and SM protocol center-only: all population and per animal}{65}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.3}Comparisons}{67}{subsection.7.4.3}
+\contentsline {chapter}{\numberline {8}Conclusions and Future Work}{75}{chapter.8}
+\contentsline {section}{\numberline {8.1}Surround modulation remaining questions and project's plan}{76}{section.8.1}
+\contentsline {chapter}{Bibliography}{A-1}{section*.74}
 \contentsline {chapter}{Appendix \numberline {A}Title of AppendixA}{A-1}{appendix.A}
