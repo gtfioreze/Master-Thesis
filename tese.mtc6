@@ -1,12 +1,12 @@
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.1}Experiment's outputs}{\reset@font\mtcSfont 58}{section.6.1}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.2}Images pre-processing: Separating planes and registration}{\reset@font\mtcSfont 58}{section.6.2}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.3}Suit2p pipeline}{\reset@font\mtcSfont 59}{section.6.3}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.4}Data treatment}{\reset@font\mtcSfont 61}{section.6.4}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.1}Receptive field mapping}{\reset@font\mtcSSfont 62}{subsection.6.4.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.2}Tuning mapping}{\reset@font\mtcSSfont 62}{subsection.6.4.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.3}Surround modulation protocol}{\reset@font\mtcSSfont 62}{subsection.6.4.3}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.5}Statistical Tests}{\reset@font\mtcSfont 62}{section.6.5}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.5.1}t-tests}{\reset@font\mtcSSfont 62}{subsection.6.5.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.5.2}Rank-sum tests}{\reset@font\mtcSSfont 62}{subsection.6.5.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.5.3}Sign-tests}{\reset@font\mtcSSfont 62}{subsection.6.5.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.5.4}Multivariate comparisons}{\reset@font\mtcSSfont 62}{subsection.6.5.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.1}Experiment's outputs}{\reset@font\mtcSfont 60}{section.6.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.2}Images pre-processing: Separating planes and registration}{\reset@font\mtcSfont 60}{section.6.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.3}Suit2p pipeline}{\reset@font\mtcSfont 61}{section.6.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.4}Data treatment}{\reset@font\mtcSfont 63}{section.6.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.1}Receptive field mapping}{\reset@font\mtcSSfont 64}{subsection.6.4.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.2}Tuning mapping}{\reset@font\mtcSSfont 64}{subsection.6.4.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.4.3}Surround modulation protocol}{\reset@font\mtcSSfont 64}{subsection.6.4.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {6.5}Statistical Tests}{\reset@font\mtcSfont 64}{section.6.5}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.5.1}t-tests}{\reset@font\mtcSSfont 64}{subsection.6.5.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.5.2}Rank-sum tests}{\reset@font\mtcSSfont 64}{subsection.6.5.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.5.3}Sign-tests}{\reset@font\mtcSSfont 64}{subsection.6.5.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {6.5.4}Multivariate comparisons}{\reset@font\mtcSSfont 64}{subsection.6.5.4}}

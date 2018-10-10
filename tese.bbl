@@ -33,8 +33,8 @@
       \strng{authorbibnamehash}{1e5ee057958d35100cb148788b200705}
       \strng{authornamehash}{1e5ee057958d35100cb148788b200705}
       \strng{authorfullhash}{1e5ee057958d35100cb148788b200705}
-      \field{sortinit}{6}
-      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Neurophysiology, 16, 37–68}
@@ -60,8 +60,8 @@
       \strng{authorbibnamehash}{5d47a956ef131ff7ebdde7fe158f709d}
       \strng{authornamehash}{5d47a956ef131ff7ebdde7fe158f709d}
       \strng{authorfullhash}{5d47a956ef131ff7ebdde7fe158f709d}
-      \field{sortinit}{7}
-      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{In the central nervous system the visual pathway from retina to striate cortex provides an opportunity to observe and compare single unit re- sponses at several distinct levels. Patterns of light stimuli most effective in influencing units at one level may no longer be the most effective at the next. From differences in responses at successive stages in the pathway one may hope to gain some understanding of the part each stage plays in visual perception. By shining small spots of light on the light-adapted cat retina Kuffler (1953) showed that ganglion cells have concentric receptive fields, with an 'on' centre and an 'off ' periphery, or vice versa. The 'on' and 'off' areas within a receptive field were found to be mutually antagonistic, and a spot restricted to the centre of the field was more effective than one covering the whole receptive field (Barlow, FitzHugh {\&} Kuffler, 1957). In the freely moving light- adapted cat it was found that the great majority of cortical cells studied gave little or no response to light stimuli covering most of the animal's visual field, whereas small spots shone in a restricted retinal region often evoked brisk responses (Hubel, 1959). A moving spot of light often produced stronger responses than a stationary one, and sometimes a moving spot gave more activation for one direction than for the opposite. The present investigation, made in acute preparations, includes a study of receptive fields of cells in the cat's striate cortex. Receptive fields of the cells considered in this paper were divided into separate excitatory and inhibitory ('on' and 'off') areas. In this respect they resembled retinal ganglion-cell receptive fields. However, the shape and arrangement of excitatory and inhibitory areas differed strikingly from the concentric pattern found in retinal ganglion cells. An attempt was made to correlate responses to moving stimuli with receptive field arrangements. Some cells could be activated from either eye, and in these binocular interaction was studied.}
@@ -106,8 +106,8 @@
       \strng{authorbibnamehash}{96c148deae04dffd62e77a5b98fafdb0}
       \strng{authornamehash}{96c148deae04dffd62e77a5b98fafdb0}
       \strng{authorfullhash}{96c148deae04dffd62e77a5b98fafdb0}
-      \field{sortinit}{8}
-      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{J. Neurophysiol. 58: 1233-1258}
@@ -373,6 +373,43 @@
       \endverb
       \keyw{contextual effects,horizontal connections,macaque,primary visual cortex,surround suppression,top-down}
     \endentry
+    \entry{Samonds2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8ab1213340c786df1a9c366ad295c388}{%
+           family={Samonds},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=e24462ed2bcdc26c970c64f77aead2a6}{%
+           family={Feese},
+           familyi={F\bibinitperiod},
+           given={B.\bibnamedelimi D.},
+           giveni={B\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=c171bd491e8b2dc9a729d29d56e1dd21}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={T.\bibnamedelimi S.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=bfeb50af0e1a0af42de8136394882a01}{%
+           family={Kuhlman},
+           familyi={K\bibinitperiod},
+           given={S.\bibnamedelimi J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{aa0c92d1c7cb485ad1dd9bae8593d511}
+      \strng{fullhash}{ef257b2a877fec44c83e9aa425b6f017}
+      \strng{bibnamehash}{ef257b2a877fec44c83e9aa425b6f017}
+      \strng{authorbibnamehash}{ef257b2a877fec44c83e9aa425b6f017}
+      \strng{authornamehash}{aa0c92d1c7cb485ad1dd9bae8593d511}
+      \strng{authorfullhash}{ef257b2a877fec44c83e9aa425b6f017}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Neurophysiol., jn.00172.2017}
+      \field{title}{Non-uniform surround suppression of visual responses in mouse V1}
+      \field{year}{2017}
+    \endentry
     \entry{Marques2018}{article}{}
       \name{author}{7}{}{%
         {{hash=a7af6a77a73b0b5bdfe71fef73481af5}{%
@@ -449,6 +486,7 @@
     \endentry
   \enddatalist
   \missing{9Marques2018kk}
+  \missing{Adesnik2012}
   \missing{Allman1985}
   \missing{Anderson2009}
   \missing{Angelucci2002}
@@ -457,8 +495,10 @@
   \missing{Angelucci2014}
   \missing{Bair2003}
   \missing{Barlow1961}
+  \missing{Barth2000}
   \missing{Bergh2010}
   \missing{Blakemore1972}
+  \missing{Born1991}
   \missing{Born2005}
   \missing{Bosking1997}
   \missing{Cannon1991}
@@ -467,14 +507,20 @@
   \missing{Chen2001}
   \missing{Chubb1989}
   \missing{Desimone1987}
+  \missing{Dragoi2000}
+  \missing{Dreher1972}
+  \missing{Field1993}
   \missing{Field2013}
   \missing{GCAMP6}
   \missing{Gilbert1977}
   \missing{Gilbert1996}
   \missing{Girard2001}
+  \missing{Girman1999}
   \missing{Heeger1992}
+  \missing{Heitger1992}
   \missing{Henry2013}
   \missing{Hubel1965}
+  \missing{Hubel1968}
   \missing{Ichida2007}
   \missing{Kapadia1995}
   \missing{Knierim1992}
@@ -483,15 +529,18 @@
   \missing{Li1994}
   \missing{Maffei1976}
   \missing{Malach1993}
+  \missing{Mazurek2014}
   \missing{McAdams2005}
   \missing{McIlwain1964}
   \missing{Meese2004}
   \missing{Muller2003}
   \missing{Nelson1978}
+  \missing{Nienborg2013}
   \missing{Nothdurft2000}
   \missing{Nurminem2014}
   \missing{Nurminem2018}
   \missing{Nurminen2009}
+  \missing{Ohki2005}
   \missing{Pecka2014}
   \missing{Petrov2006}
   \missing{Polat1998}
@@ -500,12 +549,14 @@
   \missing{Sceniak1999}
   \missing{Sceniak2001}
   \missing{Schmidt1997}
+  \missing{Schwabe2010}
   \missing{Self2014}
   \missing{Sengpiel1997}
   \missing{Shushruth2009}
   \missing{Shushruth2012}
   \missing{Sincich2001}
   \missing{Solomon2006}
+  \missing{Somers1998}
   \missing{Sundberg2009}
   \missing{Sushruth2013}
   \missing{TopDown}
@@ -514,6 +565,7 @@
   \missing{Walker1999}
   \missing{Webb2005}
   \missing{Wertheimer1958}
+  \missing{Whichpapershowsthis?}
   \missing{Wolf2014}
   \missing{deAngelis1994}
 \endrefsection

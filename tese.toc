@@ -25,112 +25,134 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.1}SM non-uniformity}{19}{subsection.2.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.3}The motivation: feedback organization rules - uncovering the functions of feedback}{19}{section.2.3}
+\contentsline {section}{\numberline {2.3}The motivation: feedback organization rules - uncovering the functions of feedback}{21}{section.2.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Technology}{23}{chapter.3}
+\contentsline {chapter}{\numberline {3}Technology}{25}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Intrinsic signal optical imaging}{24}{section.3.1}
+\contentsline {section}{\numberline {3.1}Intrinsic signal optical imaging}{26}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Acquiring functional maps of neuronal activity}{24}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.1}Acquiring functional maps of neuronal activity}{26}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Intrinsic Signal Optical Imaging: the technique}{26}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.2}Intrinsic Signal Optical Imaging: the technique}{28}{subsection.3.1.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Calcium indicators and transgenic lines}{27}{section.3.2}
+\contentsline {section}{\numberline {3.2}Calcium indicators and transgenic lines}{29}{section.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Imaging techniques: Two photon laser-scanning microscopy}{28}{section.3.3}
+\contentsline {section}{\numberline {3.3}Imaging techniques: Two photon laser-scanning microscopy}{30}{section.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.1}Single-photon Imaging}{28}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.1}Single-photon Imaging}{30}{subsection.3.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.2}Direct Imaging}{29}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.2}Direct Imaging}{31}{subsection.3.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.3}Confocal laser-scanning microscopy}{29}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.3}Confocal laser-scanning microscopy}{31}{subsection.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.4}Two photon laser-scanning microscopy }{30}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.4}Two photon laser-scanning microscopy }{32}{subsection.3.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Technical Implementations}{33}{chapter.4}
+\contentsline {chapter}{\numberline {4}Technical Implementations}{35}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.1}System's scheme}{34}{section.4.1}
+\contentsline {section}{\numberline {4.1}System's scheme}{36}{section.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.2}Bpod}{35}{section.4.2}
+\contentsline {section}{\numberline {4.2}Bpod}{37}{section.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.1}Motivation and previous system}{35}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.1}Motivation and previous system}{37}{subsection.4.2.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {4.2.2}Bpod Hardware implementation, specifications and alterations}{38}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.2}Bpod Hardware implementation, specifications and alterations}{40}{subsection.4.2.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {4.3}Software: Governing machine protocols and stimulus presentation}{39}{section.4.3}
+\contentsline {section}{\numberline {4.3}Software: Governing machine protocols and stimulus presentation}{41}{section.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Experimental Methods}{45}{chapter.5}
+\contentsline {chapter}{\numberline {5}Experimental Methods}{47}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.1}Animals}{46}{section.5.1}
+\contentsline {section}{\numberline {5.1}Animals}{48}{section.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.2}Visual stimulation}{46}{section.5.2}
+\contentsline {section}{\numberline {5.2}Visual stimulation}{48}{section.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.3}Intrinsic signal optical imaging settings}{46}{section.5.3}
+\contentsline {section}{\numberline {5.3}Intrinsic signal optical imaging settings}{48}{section.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.4}Session and trial structure}{48}{section.5.4}
+\contentsline {section}{\numberline {5.4}Session and trial structure}{50}{section.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.1}TPLSM experimental pipeline}{48}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.1}TPLSM experimental pipeline}{50}{subsection.5.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.4.2}Stimuli presentation structure}{50}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.2}Stimuli presentation structure}{52}{subsection.5.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {5.5}Specifics of the protocol settings and visual stimuli}{50}{section.5.5}
+\contentsline {section}{\numberline {5.5}Specifics of the protocol settings and visual stimuli}{52}{section.5.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.1}Receptive Field mapping stimuli}{51}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.1}Receptive Field mapping stimuli}{53}{subsection.5.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.2}Tunings mapping stimuli}{51}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.2}Tunings mapping stimuli}{53}{subsection.5.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {5.5.3}Surround Modulation stimuli}{52}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.3}Surround Modulation stimuli}{54}{subsection.5.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {6}Analysis}{57}{chapter.6}
+\contentsline {chapter}{\numberline {6}Analysis}{59}{chapter.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.1}Experiment's outputs}{58}{section.6.1}
+\contentsline {section}{\numberline {6.1}Experiment's outputs}{60}{section.6.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.2}Images pre-processing: Separating planes and registration}{58}{section.6.2}
+\contentsline {section}{\numberline {6.2}Images pre-processing: Separating planes and registration}{60}{section.6.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.3}Suit2p pipeline}{59}{section.6.3}
+\contentsline {section}{\numberline {6.3}Suit2p pipeline}{61}{section.6.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.4}Data treatment}{61}{section.6.4}
+\contentsline {section}{\numberline {6.4}Data treatment}{63}{section.6.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.1}Receptive field mapping}{62}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.1}Receptive field mapping}{64}{subsection.6.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.2}Tuning mapping}{62}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.2}Tuning mapping}{64}{subsection.6.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.4.3}Surround modulation protocol}{62}{subsection.6.4.3}
+\contentsline {subsection}{\numberline {6.4.3}Surround modulation protocol}{64}{subsection.6.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {6.5}Statistical Tests}{62}{section.6.5}
+\contentsline {section}{\numberline {6.5}Statistical Tests}{64}{section.6.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.1}t-tests}{62}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.1}t-tests}{64}{subsection.6.5.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.2}Rank-sum tests}{62}{subsection.6.5.2}
+\contentsline {subsection}{\numberline {6.5.2}Rank-sum tests}{64}{subsection.6.5.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.3}Sign-tests}{62}{subsection.6.5.3}
+\contentsline {subsection}{\numberline {6.5.3}Sign-tests}{64}{subsection.6.5.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.5.4}Multivariate comparisons}{62}{subsection.6.5.4}
+\contentsline {subsection}{\numberline {6.5.4}Multivariate comparisons}{64}{subsection.6.5.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Results}{63}{chapter.7}
+\contentsline {chapter}{\numberline {7}Results}{65}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}RF analysis}{64}{section.7.1}
+\contentsline {section}{\numberline {7.1}RF analysis}{66}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Tuning analysis}{65}{section.7.2}
+\contentsline {section}{\numberline {7.2}Tuning analysis}{67}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}SM analysis - individual cells}{66}{section.7.3}
+\contentsline {section}{\numberline {7.3}SM analysis - individual cells}{70}{section.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.1}DS example cell}{66}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.1}DS example cell}{70}{subsection.7.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.2}OS example cell}{68}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.3.2}OS example cell}{72}{subsection.7.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.4}SM analysis - cell population}{70}{section.7.4}
+\contentsline {section}{\numberline {7.4}SM analysis - cell population}{74}{section.7.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.1}Data ROI groups}{70}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.1}Data ROI groups}{74}{subsection.7.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.2}RF center positions and SM protocol center-only: all population and per animal}{71}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.2}RF center positions and SM protocol center-only: all population and per animal}{75}{subsection.7.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.3}Comparisons}{73}{subsection.7.4.3}
+\contentsline {subsection}{\numberline {7.4.3}Comparisons between conditions}{77}{subsection.7.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Conclusions and Future Work}{81}{chapter.8}
+\contentsline {subsubsection}{\numberline {7.4.3.A}Surround number effect}{77}{subsubsection.7.4.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}Surround modulation remaining questions and project's plan}{82}{section.8.1}
+\contentsline {subsubsection}{\numberline {7.4.3.B}Surround position effect}{77}{subsubsection.7.4.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{85}{section*.76}
+\contentsline {subsubsection}{\numberline {7.4.3.C}Surround direction effect}{78}{subsubsection.7.4.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.4.3.D}Surround orientation effect}{79}{subsubsection.7.4.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.4.3.E}Surround orientation alignment effect (position and orientation)}{79}{subsubsection.7.4.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.4.3.F}Center and surround relative orientation effect, with center OS preference}{80}{subsubsection.7.4.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.4.3.G}Interactions between surround orientation alignment and surround-center relative orientation effects}{81}{subsubsection.7.4.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.4.3.H}Interactions between surround orientation alignment, surround-center relative orientation effects and center OS preference}{82}{subsubsection.7.4.3.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.4.3.I}Surround direction alignment effect (direction and position)}{83}{subsubsection.7.4.3.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.4.3.J}Surround and center relative direction effect}{84}{subsubsection.7.4.3.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {7.4.3.K}Interactions between direction alignment, surround-center relative direction effects and center DS preference}{84}{subsubsection.7.4.3.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Conclusions and Future Work}{87}{chapter.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8.1}Surround modulation remaining questions and project's plan}{88}{section.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliography}{91}{section*.78}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Appendix \numberline {A}Title of AppendixA}{A-1}{appendix.A}
