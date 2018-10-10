@@ -1,0 +1,521 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{Kuffler1953}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1e5ee057958d35100cb148788b200705}{%
+           family={Kuffler},
+           familyi={K\bibinitperiod},
+           given={S.\bibnamedelimi W.},
+           giveni={S\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e5ee057958d35100cb148788b200705}
+      \strng{fullhash}{1e5ee057958d35100cb148788b200705}
+      \strng{bibnamehash}{1e5ee057958d35100cb148788b200705}
+      \strng{authorbibnamehash}{1e5ee057958d35100cb148788b200705}
+      \strng{authornamehash}{1e5ee057958d35100cb148788b200705}
+      \strng{authorfullhash}{1e5ee057958d35100cb148788b200705}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Neurophysiology, 16, 37–68}
+      \field{title}{Discharge patterns and functional organization of mammalian retina}
+      \field{year}{1953}
+    \endentry
+    \entry{Hubel1959}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fa3b7298b34eeb25b8c645995f793489}{%
+           family={Hubel},
+           familyi={H\bibinitperiod},
+           given={D.\bibnamedelimi H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=386c018afe899914b8a39c570783ad92}{%
+           family={Wiesel},
+           familyi={W\bibinitperiod},
+           given={T.\bibnamedelimi N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d47a956ef131ff7ebdde7fe158f709d}
+      \strng{fullhash}{5d47a956ef131ff7ebdde7fe158f709d}
+      \strng{bibnamehash}{5d47a956ef131ff7ebdde7fe158f709d}
+      \strng{authorbibnamehash}{5d47a956ef131ff7ebdde7fe158f709d}
+      \strng{authornamehash}{5d47a956ef131ff7ebdde7fe158f709d}
+      \strng{authorfullhash}{5d47a956ef131ff7ebdde7fe158f709d}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the central nervous system the visual pathway from retina to striate cortex provides an opportunity to observe and compare single unit re- sponses at several distinct levels. Patterns of light stimuli most effective in influencing units at one level may no longer be the most effective at the next. From differences in responses at successive stages in the pathway one may hope to gain some understanding of the part each stage plays in visual perception. By shining small spots of light on the light-adapted cat retina Kuffler (1953) showed that ganglion cells have concentric receptive fields, with an 'on' centre and an 'off ' periphery, or vice versa. The 'on' and 'off' areas within a receptive field were found to be mutually antagonistic, and a spot restricted to the centre of the field was more effective than one covering the whole receptive field (Barlow, FitzHugh {\&} Kuffler, 1957). In the freely moving light- adapted cat it was found that the great majority of cortical cells studied gave little or no response to light stimuli covering most of the animal's visual field, whereas small spots shone in a restricted retinal region often evoked brisk responses (Hubel, 1959). A moving spot of light often produced stronger responses than a stationary one, and sometimes a moving spot gave more activation for one direction than for the opposite. The present investigation, made in acute preparations, includes a study of receptive fields of cells in the cat's striate cortex. Receptive fields of the cells considered in this paper were divided into separate excitatory and inhibitory ('on' and 'off') areas. In this respect they resembled retinal ganglion-cell receptive fields. However, the shape and arrangement of excitatory and inhibitory areas differed strikingly from the concentric pattern found in retinal ganglion cells. An attempt was made to correlate responses to moving stimuli with receptive field arrangements. Some cells could be activated from either eye, and in these binocular interaction was studied.}
+      \field{isbn}{0022-3751 (Print)}
+      \field{issn}{01680102}
+      \field{journaltitle}{J. Physiology}
+      \field{number}{4}
+      \field{title}{receptive fields of single neurons in the cat's striate cortex}
+      \field{volume}{148}
+      \field{year}{1959}
+      \field{pages}{574\bibrangedash 591}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1113/jphysiol.2009.174151
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/Asus/Desktop/Disserta{\c{c}}{\~{a}}o/Thesis' Papers/jphysiol01298-0128.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1363130/pdf/jphysiol01298-0128.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1363130/pdf/jphysiol01298-0128.pdf
+      \endverb
+    \endentry
+    \entry{Jones1987}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cc41a85280f381a8f76262b20cd4688a}{%
+           family={Jones},
+           familyi={J\bibinitperiod},
+           given={J.\bibnamedelimi P.},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=ccbb5f81a14519affe7f9209773da368}{%
+           family={Palmer},
+           familyi={P\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{96c148deae04dffd62e77a5b98fafdb0}
+      \strng{fullhash}{96c148deae04dffd62e77a5b98fafdb0}
+      \strng{bibnamehash}{96c148deae04dffd62e77a5b98fafdb0}
+      \strng{authorbibnamehash}{96c148deae04dffd62e77a5b98fafdb0}
+      \strng{authornamehash}{96c148deae04dffd62e77a5b98fafdb0}
+      \strng{authorfullhash}{96c148deae04dffd62e77a5b98fafdb0}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Neurophysiol. 58: 1233-1258}
+      \field{title}{An evaluation of the two-dimensional Gabor filter model of simple receptive fields in cat striate cortex}
+      \field{year}{1987}
+    \endentry
+    \entry{Angelucci2017}{article}{}
+      \name{author}{6}{}{%
+        {{hash=7fdcb7dbac64b92f87757c1263e95e45}{%
+           family={Angelucci},
+           familyi={A\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=a876448c13deb8182d60e08d70c900a2}{%
+           family={Bijanzadeh},
+           familyi={B\bibinitperiod},
+           given={Maryam},
+           giveni={M\bibinitperiod}}}%
+        {{hash=90ed2d2e141ab41b33d4e9f161e5d987}{%
+           family={Nurminen},
+           familyi={N\bibinitperiod},
+           given={Lauri},
+           giveni={L\bibinitperiod}}}%
+        {{hash=f1b9f3ed9ad897fa3643d9fef296fc37}{%
+           family={Federer},
+           familyi={F\bibinitperiod},
+           given={Frederick},
+           giveni={F\bibinitperiod}}}%
+        {{hash=a576174cf06d98929145dcfcb84c0bbc}{%
+           family={Merlin},
+           familyi={M\bibinitperiod},
+           given={Sam},
+           giveni={S\bibinitperiod}}}%
+        {{hash=accd5d45c4174e4e11692bf5b4e26384}{%
+           family={Bressloff},
+           familyi={B\bibinitperiod},
+           given={Paul\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{c396e33cde06af548caaf9d37062a719}
+      \strng{fullhash}{c57050862d53d45213de28d89c1b6ef2}
+      \strng{bibnamehash}{c396e33cde06af548caaf9d37062a719}
+      \strng{authorbibnamehash}{c396e33cde06af548caaf9d37062a719}
+      \strng{authornamehash}{c396e33cde06af548caaf9d37062a719}
+      \strng{authorfullhash}{c57050862d53d45213de28d89c1b6ef2}
+      \field{sortinit}{3}
+      \field{sortinithash}{a4b52e5432884761f50fb9571273b93e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Surround modulation (SM) is a fundamental property of sensory neurons in many species and sensory modalities. SM is the ability of stimuli in the surround of a neuron's receptive field (RF) to modulate (typically suppress) the neuron's response to stimuli simultaneously presented inside the RF, a property thought to underlie optimal coding of sensory information and im-portant perceptual functions. Understanding the circuit and mechanisms for SM can reveal fundamental principles of computations in sensory cortices, from mouse to human. Current debate is centered over whether feedfor-ward or intracortical circuits generate SM, and whether this results from increased inhibition or reduced excitation. Here we present a working hy-pothesis, based on theoretical and experimental evidence, that SM results from feedforward, horizontal, and feedback interactions with local recurrent connections, via synaptic mechanisms involving both increased inhibition and reduced recurrent excitation. In particular, strong and balanced recur-rent excitatory and inhibitory circuits play a crucial role in the computation of SM.}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{4155141183}
+      \field{issn}{0147-006X}
+      \field{journaltitle}{Annual Review of Neuroscience}
+      \field{number}{1}
+      \field{title}{{Circuits and Mechanisms for Surround Modulation in Visual Cortex}}
+      \field{volume}{40}
+      \field{year}{2017}
+      \field{pages}{425\bibrangedash 451}
+      \range{pages}{27}
+      \verb{doi}
+      \verb 10.1146/annurev-neuro-072116-031418
+      \endverb
+      \verb{eprint}
+      \verb 15334406
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/Asus/Desktop/Universidade/5{\textordmasculine} Ano 1{\textordmasculine} Trimestre/ProjMEFT/Report Projeto MEFT/Leopoldo's recomendation/ARN2017.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.annualreviews.org/doi/10.1146/annurev-neuro-072116-031418
+      \endverb
+      \verb{url}
+      \verb http://www.annualreviews.org/doi/10.1146/annurev-neuro-072116-031418
+      \endverb
+    \endentry
+    \entry{Nurminen2014}{article}{}
+      \name{author}{2}{}{%
+        {{hash=90ed2d2e141ab41b33d4e9f161e5d987}{%
+           family={Nurminen},
+           familyi={N\bibinitperiod},
+           given={Lauri},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7fdcb7dbac64b92f87757c1263e95e45}{%
+           family={Angelucci},
+           familyi={A\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{4ea3195635ed813b922efedc4a5b22b6}
+      \strng{fullhash}{4ea3195635ed813b922efedc4a5b22b6}
+      \strng{bibnamehash}{4ea3195635ed813b922efedc4a5b22b6}
+      \strng{authorbibnamehash}{4ea3195635ed813b922efedc4a5b22b6}
+      \strng{authornamehash}{4ea3195635ed813b922efedc4a5b22b6}
+      \strng{authorfullhash}{4ea3195635ed813b922efedc4a5b22b6}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The responses of neurons in primary visual cortex (V1) to stimulation of their receptive field (RF) are modulated by stimuli in the RF surround. This modulation is suppressive when the stimuli in the RF and surround are of similar orientation, but less suppressive or facilitatory when they are cross-oriented. Similarly, in human vision surround stimuli selectively suppress the perceived contrast of a central stimulus. Although the properties of surround modulation have been thoroughly characterized in many species, cortical areas and sensory modalities, its role in perception remains unknown. Here we argue that surround modulation in V1 consists of multiple components having different spatio-temporal and tuning properties, generated by different neural circuits and serving different visual functions. One component arises from LGN afferents, is fast, untuned for orientation, and spatially restricted to the surround region nearest to the RF (the near-surround); its function is to normalize V1 cell responses to local contrast. Intra-V1 horizontal connections contribute a slower, narrowly orientation-tuned component to near-surround modulation, whose function is to increase the coding efficiency of natural images in manner that leads to the extraction of object boundaries. The third component is generated by topdown feedback connections to V1, is fast, broadly orientation-tuned, and extends into the far-surround; its function is to enhance the salience of behaviorally relevant visual features. Far- and near-surround modulation, thus, act as parallel mechanisms: the former quickly detects and guides saccades/attention to salient visual scene locations, the latter segments object boundaries in the scene.}
+      \field{isbn}{1878-5646 (Electronic)$\backslash$r0042-6989 (Linking)}
+      \field{issn}{18785646}
+      \field{journaltitle}{Vision Research}
+      \field{title}{{Multiple components of surround modulation in primary visual cortex: Multiple neural circuits with multiple functions?}}
+      \field{volume}{104}
+      \field{year}{2014}
+      \field{pages}{47\bibrangedash 56}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.visres.2014.08.018
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/Asus/Desktop/Disserta{\c{c}}{\~{a}}o/Tese/Papers on Surround Modulation/1-s2.0-S0042698914002053-main.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/j.visres.2014.08.018
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.visres.2014.08.018
+      \endverb
+      \keyw{Context,Contrast gain,Feedback,Horizontal connections,Natural image statistics,Salience}
+    \endentry
+    \entry{Shushruth2013}{article}{}
+      \name{author}{6}{}{%
+        {{hash=f17f45e6afd11b28ef3c8e2d3263c9c6}{%
+           family={Shushruth},
+           familyi={S\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9985665019aa917b40e87f596c720a0a}{%
+           family={Mangapathy},
+           familyi={M\bibinitperiod},
+           given={Pradeep},
+           giveni={P\bibinitperiod}}}%
+        {{hash=bda1051fda7866e487d8cc26765728e5}{%
+           family={Ichida},
+           familyi={I\bibinitperiod},
+           given={Jennifer\bibnamedelima M},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=accd5d45c4174e4e11692bf5b4e26384}{%
+           family={Bressloff},
+           familyi={B\bibinitperiod},
+           given={Paul\bibnamedelima C.},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=17a90164ff17ce88f2f2e2937e6fc017}{%
+           family={Schwabe},
+           familyi={S\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+        {{hash=7fdcb7dbac64b92f87757c1263e95e45}{%
+           family={Angelucci},
+           familyi={A\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1e5db2601ccd064c5215317e968947b6}
+      \strng{fullhash}{6a4c771f54f61c50929a3ac0acaa697e}
+      \strng{bibnamehash}{1e5db2601ccd064c5215317e968947b6}
+      \strng{authorbibnamehash}{1e5db2601ccd064c5215317e968947b6}
+      \strng{authornamehash}{1e5db2601ccd064c5215317e968947b6}
+      \strng{authorfullhash}{6a4c771f54f61c50929a3ac0acaa697e}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In macaque primary visual cortex (V1) neuronal responses to stimuli inside the receptive field (RF) are modulated by stimuli in the RF surround. This modulation is orientation-specific. Previous studies suggested that for some cells this specificity may not be fixed, but changes with the stimulus orientation presented to the RF. We demonstrate, in recording studies, that this tuning behavior is instead highly prevalent in V1 and, in theoretical work, that it arises only if V1 operates in a regime of strong local recurrence. Strongest surround suppression occurs when the stimuli in the RF and the surround are iso-oriented, and strongest facilitation when the stimuli are cross-oriented. This is the case even when the RF is sub-optimally activated by a stimulus of non- preferred orientation, but only if this stimulus can activate the cell when presented alone. This tuning behavior emerges from the interaction of lateral inhibition (via the surround pathways), which is tuned to the RF's preferred orientation, with weakly-tuned, but strong, local recurrent connections, causing maximal withdrawal of recurrent excitation at the feedforward input orientation. Thus, horizontal and feedback modulation of strong recurrent circuits allows the tuning of contextual effects to change with changing feedforward inputs.}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{6176321972}
+      \field{issn}{15378276}
+      \field{journaltitle}{NIH Public Access}
+      \field{number}{3}
+      \field{title}{{Strong Recurrent Networks Compute the Orientation-Tuning of Surround Modulation in Primate V1}}
+      \field{volume}{31}
+      \field{year}{2013}
+      \field{pages}{477\bibrangedash 479}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1016/j.immuni.2010.12.017.Two-stage
+      \endverb
+      \verb{eprint}
+      \verb NIHMS150003
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/Asus/Desktop/Disserta{\c{c}}{\~{a}}o/Tese/Papers on Surround Modulation/nihms-347886.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Hubel1962}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fa3b7298b34eeb25b8c645995f793489}{%
+           family={Hubel},
+           familyi={H\bibinitperiod},
+           given={D.\bibnamedelimi H.},
+           giveni={D\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=386c018afe899914b8a39c570783ad92}{%
+           family={Wiesel},
+           familyi={W\bibinitperiod},
+           given={T.\bibnamedelimi N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{5d47a956ef131ff7ebdde7fe158f709d}
+      \strng{fullhash}{5d47a956ef131ff7ebdde7fe158f709d}
+      \strng{bibnamehash}{5d47a956ef131ff7ebdde7fe158f709d}
+      \strng{authorbibnamehash}{5d47a956ef131ff7ebdde7fe158f709d}
+      \strng{authornamehash}{5d47a956ef131ff7ebdde7fe158f709d}
+      \strng{authorfullhash}{5d47a956ef131ff7ebdde7fe158f709d}
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Physiol. 160, 106-154}
+      \field{title}{Receptive Fields, binocular interaction and functional architecture in the cat's visual cortex}
+      \field{year}{1962}
+    \endentry
+    \entry{Schwabe2006}{article}{}
+      \name{author}{4}{}{%
+        {{hash=17a90164ff17ce88f2f2e2937e6fc017}{%
+           family={Schwabe},
+           familyi={S\bibinitperiod},
+           given={Lars},
+           giveni={L\bibinitperiod}}}%
+        {{hash=bc24f398d8c32ab1cff5ad6b60aaceb4}{%
+           family={Obermayer},
+           familyi={O\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod}}}%
+        {{hash=7fdcb7dbac64b92f87757c1263e95e45}{%
+           family={Angelucci},
+           familyi={A\bibinitperiod},
+           given={Alessandra},
+           giveni={A\bibinitperiod}}}%
+        {{hash=33c64d3bb82092def5cb1fdf5d07c206}{%
+           family={Bressloff},
+           familyi={B\bibinitperiod},
+           given={Paul\bibnamedelima C},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \strng{namehash}{6de1b0b8401c3f690daace6b260bb357}
+      \strng{fullhash}{a3697b3506338cc92716c3d6bd26d07f}
+      \strng{bibnamehash}{a3697b3506338cc92716c3d6bd26d07f}
+      \strng{authorbibnamehash}{a3697b3506338cc92716c3d6bd26d07f}
+      \strng{authornamehash}{6de1b0b8401c3f690daace6b260bb357}
+      \strng{authorfullhash}{a3697b3506338cc92716c3d6bd26d07f}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The responses ofneurons in sensory cortices are affected by the spatial context within which stimuli are embedded. In the primary visual cortex (V1), orientation-selective responses to stimuli in the receptive field (RF) center are suppressed bysimilarly oriented stimuli in the RF surround. Surround suppression, a likely neural correlate of perceptual figure–ground segregation, is traditionally thought to be generated within V1 by long-range horizontal connections. Recently however, it has been shown that these connections are too short and too slow to mediate fast suppression from distant regions ofthe RF surround. We use an anatomically and physiologically constrained recurrent networkmodel ofmacaqueV1 to showhow interareal feedback connections, which are faster and longer-range than horizontal connections, can generate “far” surround suppression. We provide a novel solution to the puzzle ofhow surround suppression can arise from excitatory feedback axons contacting predominantly excitatory neurons in V1. The basic mechanism involves divergent feedback connections from the far surround targeting pyramidal neurons sending monosynaptic horizontal connections to excitatory and inhib- itory neurons in the RF center. One ofseveral predictions ofour model is that the “suppressive far surround” is not always suppressive, but can facilitate the response ofthe RF center, depending on the amount ofexcitatory drive to the local inhibitors. Our model provides a general mechanism of how top-down feedback signals directly contribute to generating cortical neuron responses to simple sensory stimuli.}
+      \field{journaltitle}{The Journal of Neuroscience}
+      \field{number}{36}
+      \field{title}{{The Role of Feedback in Shaping the Extra-Classical Receptive Field of Cortical Neurons : A Recurrent Network Model}}
+      \field{volume}{26}
+      \field{year}{2006}
+      \field{pages}{9117\bibrangedash 9129}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1523/JNEUROSCI.1253-06.2006
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/Asus/Desktop/Disserta{\c{c}}{\~{a}}o/Thesis' Papers/Schwabe2006.pdf:pdf
+      \endverb
+      \keyw{contextual effects,horizontal connections,macaque,primary visual cortex,surround suppression,top-down}
+    \endentry
+    \entry{Marques2018}{article}{}
+      \name{author}{7}{}{%
+        {{hash=a7af6a77a73b0b5bdfe71fef73481af5}{%
+           family={Marques},
+           familyi={M\bibinitperiod},
+           given={Tiago},
+           giveni={T\bibinitperiod}}}%
+        {{hash=69502ac67c0705066dd3a5f30b5bfc99}{%
+           family={Summers},
+           familyi={S\bibinitperiod},
+           given={Mathew\bibnamedelima T.},
+           giveni={M\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=fe80f4a138de1e948dad4dd0aa461bdd}{%
+           family={Fioreze},
+           familyi={F\bibinitperiod},
+           given={Gabriela},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6e4143d952f3b2cbfe22ac32f8570982}{%
+           family={Fridman},
+           familyi={F\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod}}}%
+        {{hash=141ca832b918de26d513e86f9f0a07e3}{%
+           family={Dias},
+           familyi={D\bibinitperiod},
+           given={Rodrigo\bibnamedelima F.},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=68e18e4df7cd51223e9d178b8bcf030a}{%
+           family={Feller},
+           familyi={F\bibinitperiod},
+           given={Marla\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=fb77d86d2179e28c1e4beba53dbfd06e}{%
+           family={Petreanu},
+           familyi={P\bibinitperiod},
+           given={Leopoldo},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd.}%
+      }
+      \strng{namehash}{2a40bc3a05deae1715d1dacf0b9e08ea}
+      \strng{fullhash}{1f1173441174f65a5de7cca2c6124ce3}
+      \strng{bibnamehash}{2a40bc3a05deae1715d1dacf0b9e08ea}
+      \strng{authorbibnamehash}{2a40bc3a05deae1715d1dacf0b9e08ea}
+      \strng{authornamehash}{2a40bc3a05deae1715d1dacf0b9e08ea}
+      \strng{authorfullhash}{1f1173441174f65a5de7cca2c6124ce3}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Visual motion is an ethologically important stimulus throughout the animal kingdom. In primates, motion perception relies on specific higher-order cortical regions. Although mouse primary visual cortex (V1) and higher-order visual areas show direction-selective (DS) responses, their role in motion perception remains unknown. Here, we tested whether V1 is involved in motion perception in mice. We developed a head-fixed discrimination task in which mice must report their perceived direction of motion from random dot kinematograms (RDKs). After training, mice made around 90{\%} correct choices for stimuli with high coherence and performed significantly above chance for 16{\%} coherent RDKs. Accuracy increased with both stimulus duration and visual field coverage of the stimulus, suggesting that mice in this task integrate motion information in time and space. Retinal recordings showed that thalamically projecting On-Off DS ganglion cells display DS responses when stimulated with RDKs. Two-photon calcium imaging revealed that neurons in layer (L) 2/3 of V1 display strong DS tuning in response to this stimulus. Thus, RDKs engage motion-sensitive retinal circuits as well as downstream visual cortical areas. Contralateral V1 activity played a key role in this motion direction discrimination task because its reversible inactivation with muscimol led to a significant reduction in performance. Neurometric-psychometric comparisons showed that an ideal observer could solve the task with the information encoded in DS L2/3 neurons. Motion discrimination of RDKs presents a powerful behavioral tool for dissecting the role of retino-forebrain circuits in motion processing. Using a head-fixed task, Marques et al. show that mice can discriminate the direction of motion of random dot kinetogram stimuli (RDK). RDKs elicit direction-selective responses in both On-Off DSGCs of the retina and in V1 L2/3 neurons. V1 inactivation impairs task performance, showing that this area plays a key role in motion perception.}
+      \field{issn}{09609822}
+      \field{journaltitle}{Current Biology}
+      \field{number}{11}
+      \field{title}{{A Role for Mouse Primary Visual Cortex in Motion Perception}}
+      \field{volume}{28}
+      \field{year}{2018}
+      \field{pages}{1703\bibrangedash 1713.e6}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1016/j.cub.2018.04.012
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/Asus/Desktop/Disserta{\c{c}}{\~{a}}o/Thesis' Papers/marques2018.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1016/j.cub.2018.04.012
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1016/j.cub.2018.04.012
+      \endverb
+      \keyw{behavior,motion vision,two-photon microscopy,visual cortex}
+    \endentry
+  \enddatalist
+  \missing{9Marques2018kk}
+  \missing{Allman1985}
+  \missing{Anderson2009}
+  \missing{Angelucci2002}
+  \missing{Angelucci2006}
+  \missing{Angelucci2013}
+  \missing{Angelucci2014}
+  \missing{Bair2003}
+  \missing{Barlow1961}
+  \missing{Bergh2010}
+  \missing{Blakemore1972}
+  \missing{Born2005}
+  \missing{Bosking1997}
+  \missing{Cannon1991}
+  \missing{Carandini2012}
+  \missing{Cavanaugh2002a}
+  \missing{Chen2001}
+  \missing{Chubb1989}
+  \missing{Desimone1987}
+  \missing{Field2013}
+  \missing{GCAMP6}
+  \missing{Gilbert1977}
+  \missing{Gilbert1996}
+  \missing{Girard2001}
+  \missing{Heeger1992}
+  \missing{Henry2013}
+  \missing{Hubel1965}
+  \missing{Ichida2007}
+  \missing{Kapadia1995}
+  \missing{Knierim1992}
+  \missing{Lamme1995}
+  \missing{Levitt2002}
+  \missing{Li1994}
+  \missing{Maffei1976}
+  \missing{Malach1993}
+  \missing{McAdams2005}
+  \missing{McIlwain1964}
+  \missing{Meese2004}
+  \missing{Muller2003}
+  \missing{Nelson1978}
+  \missing{Nothdurft2000}
+  \missing{Nurminem2014}
+  \missing{Nurminem2018}
+  \missing{Nurminen2009}
+  \missing{Pecka2014}
+  \missing{Petrov2006}
+  \missing{Polat1998}
+  \missing{Roberts2007}
+  \missing{SManisotropy}
+  \missing{Sceniak1999}
+  \missing{Sceniak2001}
+  \missing{Schmidt1997}
+  \missing{Self2014}
+  \missing{Sengpiel1997}
+  \missing{Shushruth2009}
+  \missing{Shushruth2012}
+  \missing{Sincich2001}
+  \missing{Solomon2006}
+  \missing{Sundberg2009}
+  \missing{Sushruth2013}
+  \missing{TopDown}
+  \missing{Transgenic}
+  \missing{Vinje2000}
+  \missing{Walker1999}
+  \missing{Webb2005}
+  \missing{Wertheimer1958}
+  \missing{Wolf2014}
+  \missing{deAngelis1994}
+\endrefsection
+\endinput
+

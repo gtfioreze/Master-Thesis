@@ -1,9 +1,9 @@
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.1}RF analysis}{\reset@font\mtcSfont 58}{section.7.1}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.2}Tuning analysis}{\reset@font\mtcSfont 59}{section.7.2}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.3}SM analysis - individual cells}{\reset@font\mtcSfont 60}{section.7.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.3.1}DS example cell}{\reset@font\mtcSSfont 60}{subsection.7.3.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.3.2}OS example cell}{\reset@font\mtcSSfont 62}{subsection.7.3.2}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.4}SM analysis - cell population}{\reset@font\mtcSfont 64}{section.7.4}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.4.1}Data ROI groups}{\reset@font\mtcSSfont 64}{subsection.7.4.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.4.2}RF center positions and SM protocol center-only: all population and per animal}{\reset@font\mtcSSfont 65}{subsection.7.4.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.4.3}Comparisons}{\reset@font\mtcSSfont 67}{subsection.7.4.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.1}RF analysis}{\reset@font\mtcSfont 64}{section.7.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.2}Tuning analysis}{\reset@font\mtcSfont 65}{section.7.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.3}SM analysis - individual cells}{\reset@font\mtcSfont 66}{section.7.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.3.1}DS example cell}{\reset@font\mtcSSfont 66}{subsection.7.3.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.3.2}OS example cell}{\reset@font\mtcSSfont 68}{subsection.7.3.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.4}SM analysis - cell population}{\reset@font\mtcSfont 70}{section.7.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.4.1}Data ROI groups}{\reset@font\mtcSSfont 70}{subsection.7.4.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.4.2}RF center positions and SM protocol center-only: all population and per animal}{\reset@font\mtcSSfont 71}{subsection.7.4.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.4.3}Comparisons}{\reset@font\mtcSSfont 73}{subsection.7.4.3}}

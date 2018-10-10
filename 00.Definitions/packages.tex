@@ -15,6 +15,9 @@
 \typeout{--------------------------------------------------------------}
 \typeout{}
 
+\usepackage[backend=biber, style=nature, sorting=none]{biblatex}
+\addbibresource{02.biblio.bib}
+
 % Defines an additional alphabet... not required in most cases
 % ------------------------------------------------------------
 % \DeclareMathAlphabet{\mathpzc}{OT1}{pzc}{m}{it}
@@ -103,7 +106,7 @@
 % The two packages are not compatible, and you should use one of the two. Notice however that the
 % IEEE BiBTeX stylesheet is imcompatible with the natbib package. If using the IEEE format, use the 
 % cite package instead
-\usepackage[square,numbers,sort&compress]{natbib}
+%\usepackage[square,numbers,sort&compress]{natbib}
 %\usepackage{cite}
 
 % PACKAGE acronyum
