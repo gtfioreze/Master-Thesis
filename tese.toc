@@ -113,46 +113,46 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {7.2}Tuning analysis}{67}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}SM analysis - individual cells}{70}{section.7.3}
+\contentsline {section}{\numberline {7.3}SM analysis - individual cells}{69}{section.7.3}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.3.1}DS example cell}{70}{subsection.7.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.2}OS example cell}{72}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.3.2}OS example cell}{74}{subsection.7.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.4}SM analysis - cell population}{74}{section.7.4}
+\contentsline {section}{\numberline {7.4}SM analysis - cells population}{76}{section.7.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.1}Data ROI groups}{74}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.1}Data ROI groups}{76}{subsection.7.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.2}RF center positions and SM protocol center-only: all population and per animal}{75}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.2}RF center positions and SM protocol center-only: all population and per animal}{78}{subsection.7.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.3}Comparisons between conditions}{77}{subsection.7.4.3}
+\contentsline {subsection}{\numberline {7.4.3}Comparisons between conditions}{80}{subsection.7.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.A}Surround number effect}{77}{subsubsection.7.4.3.1}
+\contentsline {subsubsection}{\numberline {7.4.3.A}Surround number effect}{80}{subsubsection.7.4.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.B}Surround position effect}{77}{subsubsection.7.4.3.2}
+\contentsline {subsubsection}{\numberline {7.4.3.B}Surround position effect}{81}{subsubsection.7.4.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.C}Surround direction effect}{78}{subsubsection.7.4.3.3}
+\contentsline {subsubsection}{\numberline {7.4.3.C}Surround direction effect}{82}{subsubsection.7.4.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.D}Surround orientation effect}{79}{subsubsection.7.4.3.4}
+\contentsline {subsubsection}{\numberline {7.4.3.D}Surround orientation effect}{82}{subsubsection.7.4.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.E}Surround orientation alignment effect (position and orientation)}{79}{subsubsection.7.4.3.5}
+\contentsline {subsubsection}{\numberline {7.4.3.E}Surround orientation alignment effect (position and orientation)}{83}{subsubsection.7.4.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.F}Center and surround relative orientation effect, with center OS preference}{80}{subsubsection.7.4.3.6}
+\contentsline {subsubsection}{\numberline {7.4.3.F}Center and surround relative orientation effect, with center OS preference}{83}{subsubsection.7.4.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.G}Interactions between surround orientation alignment and surround-center relative orientation effects}{81}{subsubsection.7.4.3.7}
+\contentsline {subsubsection}{\numberline {7.4.3.G}Interactions between surround orientation alignment and surround-center relative orientation effects}{84}{subsubsection.7.4.3.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.H}Interactions between surround orientation alignment, surround-center relative orientation effects and center OS preference}{82}{subsubsection.7.4.3.8}
+\contentsline {subsubsection}{\numberline {7.4.3.H}Interactions between surround orientation alignment, surround-center relative orientation effects and center OS preference}{85}{subsubsection.7.4.3.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.I}Surround direction alignment effect (direction and position)}{83}{subsubsection.7.4.3.9}
+\contentsline {subsubsection}{\numberline {7.4.3.I}Surround direction alignment effect (direction and position)}{87}{subsubsection.7.4.3.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.J}Surround and center relative direction effect}{84}{subsubsection.7.4.3.10}
+\contentsline {subsubsection}{\numberline {7.4.3.J}Surround and center relative direction effect}{87}{subsubsection.7.4.3.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.K}Interactions between direction alignment, surround-center relative direction effects and center DS preference}{84}{subsubsection.7.4.3.11}
+\contentsline {subsubsection}{\numberline {7.4.3.K}Interactions between direction alignment, surround-center relative direction effects and center DS preference}{88}{subsubsection.7.4.3.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Conclusions and Future Work}{87}{chapter.8}
+\contentsline {chapter}{\numberline {8}Conclusions and Future Work}{89}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {8.1}Surround modulation remaining questions and project's plan}{88}{section.8.1}
+\contentsline {section}{\numberline {8.1}Surround modulation remaining questions and project's plan}{90}{section.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{91}{section*.78}
+\contentsline {chapter}{Bibliography}{93}{section*.78}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Appendix \numberline {A}Title of AppendixA}{A-1}{appendix.A}

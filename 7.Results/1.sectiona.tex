@@ -36,11 +36,12 @@ Analysing plane by plane, for each animal and session (example planes in figure 
 Two of the sessions showed very high elevation RFs, and were thus discarded for subsequent analysis, leaving 2772 measured RF cells and a total of 3728 cells ($74\%$ fitted RFs) to be analysed in regards to SM effects.
 
 \begin{figure}[H] \centering \includegraphics[width=13cm,height=13cm,keepaspectratio]{Figures/7.Results/rf/ellipsesAnimal4pos2andpos5.png} 
-\caption{Superimposed 2D gaussian ellipsoidal fits for each neuron in the same plane. Two planes from two different animals are presented as examples.}
+\caption{Superimposed 2D gaussian ellipsoidal fits for each neuron in the same plane. Two planes from two different sessions with the same animal are presented as examples.}
 \label{ellipses}
 \end{figure}
 
 \section{Tuning analysis}
+\label{tuningresults}
 
 To validate bpod's tuning protocol, the selected neurons were analysed in regards to their direction (8 directions), spatial (2) and temporal (2) frequencies tuning selectivity.
 
@@ -55,7 +56,7 @@ Statistical significance is assessed with vector-based Hotelling's $t^2$-tests w
  
  For any orientation, if the responses to a given orientation are significantly higher than responses to any other orientation, then the former is called the neuron's preferred orientation. This differential effect can be measured with an orientation selectivity index (OSI), for the preferred orientation response in the considered space. With  $R_{pref_or}$ the responses to the preferred orientation and $R_{orth}$ the responses to the orientation orthogonal to the preferred:
 \begin{equation}
-\text{OSI}= \dfrac{R_{pref_or} - R_{orth}}{R_{pref_or} + R_{orth}}
+\text{OSI}= \dfrac{R_{pref\_or} - R_{orth}}{R_{pref_or} + R_{orth}}
 \end{equation}
 
 Similarly, in the direction space, a preferred direction can also be determined for neurons that have significantly higher responses in one direction than they do in the null direction relative to the former. A DSI can be computed, for the direction doublet:
@@ -64,72 +65,150 @@ Similarly, in the direction space, a preferred direction can also be determined 
 \text{DSI}=\dfrac{R_{pref} - R_{null}}{R_{pref} + R_{null}}
 \end{equation}
 
-In regards to the spatial and frequency tuning, here we used a restricted $(2 \times 2)$ space and found as expected (\cite{Whichpapershowsthis?}) that for most cells, in this space, the preferred spatial frequency was of 0.04 cycles per degree and the preferred temporal frequency was at 1 Hz.
+In regards to the spatial and frequency tuning, here we used a restricted $(2 \times 2)$ space and found as expected (\cite{Whichpapershowsthis?}) that for most cells, in this space, the preferred spatial frequency was of 0.04 cycles per degree and the preferred temporal frequency was at 1 Hz. These were the frequency specifications used in both the RF protocol and the SM protocol.
 
-Here, we present two example cell responses for the different stimulus conditions in the tuning protocol: an OS cell (figure \ref{tuninganalysisDS}) and a DS cell (figure \ref{tuninganalysisOS}).
+Here, we present two example cell responses for the different stimulus conditions in the tuning protocol: an OS cell (figure \ref{tuninganalysisOS}) and a DS cell (figure \ref{tuninganalysisDS}).
 
 \begin{figure}[H] \centering \includegraphics[width=12cm,height=12cm,keepaspectratio]{Figures/7.Results/tuning/MF379_pos2_p3_ROI0051.png} 
-%\caption{rf Positions all}
+\caption{Tuning analysis for an example OS cell.}
 \label{tuninganalysisOS}
 \end{figure}
 
 \begin{figure}[H] \centering \includegraphics[width=12.5cm,height=12.5cm,keepaspectratio]{Figures/7.Results/tuning/CM006_pos1_p4_ROI0138.png} 
-%\caption{rf Positions all}
+\caption{Tuning analysis for an example DS cell.}
 \label{tuninganalysisDS}
 \end{figure}
 
 \section{SM analysis - individual cells}
+
+SM analysis started with the mapping of responses during the protocol to corresponding stimuli types, from the 124 possible ones. During the experiments, 20 repetitions were held for most sessions. However, in the analysis, it was noticeable that responses [GET IMAGE] decreased a lot in the second part of the protocol, possibly due to anaesthesia cumulative effects and/or adaptation to the stimuli. Therefore, to prevent from adding noise to averaged measurements, the subsequent analysis was using only the 10 first repetitions of each trial type.
+
+We start with individual cell example analysis, and present hereby two example cells' SM main effects.
+
 \subsection{DS example cell}
+\label{DSexamplecell}
 
+We first consider, for simplification, a DS example cell: This cell only responds significantly to one of the four center directions used in this protocol.
 
-\begin{figure}[H] \centering \includegraphics[width=12.5cm,height=12.5cm,keepaspectratio]{Figures/7.Results/individualSM/roi 29 mf379 pos5/roi29.png} 
-%\caption{rf Positions all}
+Baseline-subtracted response strength for each trial by order of appearance can be plotted against time (stimulus onset at 0.5s), showing no visible structure (image \ref{individualDStrials}, left). 
+Trials were then averaged by trial type and these were ordered in a given structure:
+
+\begin{itemize}
+\item \textbf{[1:4]} S1T, at the four directions (up, temporal, down, nasal); 
+\item \textbf{[5:8]} C, analogous to above; 
+\item \textbf{[9:12]} S1B, analogous to above;
+\item \textbf{[13:16]} S1L, analogous to above;
+\item \textbf{[17:20]} S1R, analogous to above; 
+21:36 S1T+C, with first quarter (21:24) center up and surround in the 4 directions (up, temporal, down, nasal), second quarter (25:28) center temporal and surround in the 4 directions, third quarter (29:32) center down and surround in the 4 directions, and fourth quarter (33:36) center nasal and surround in the 4 directions;
+\item \textbf{[37:52]} S1B+C, analogous to above;
+\item \textbf{[53:68]} S1L+C, analogous to above;
+\item \textbf{[69:84]} S1R+C, analogous to above;
+\item \textbf{[85:100]} S2H+C, with first quarter (85:100) center up and the two horizontally positioned surrounds in the same of 4 directions (up, temporal, down, nasal), second quarter (89:92) center temporal and surrounds in the same of 4 directions, third quarter (93:96) center down and surrounds in the same of 4 directions, and fourth quarter (97:100) center nasal and surrounds in the the same of 4 directions;
+\item \textbf{[101:104]} S2H, at the four directions (up, temporal, down, nasal);
+\item \textbf{[105:120]} S2V+C, with first quarter (105:108) center up and the two vertically positioned surrounds in the same of 4 directions (up, temporal, down, nasal), second quarter (109:112) center temporal and surrounds in the same of 4 directions, third quarter (113:116) center down and surrounds in the same of 4 directions, and fourth quarter (117:120) center nasal and surrounds in the the same of 4 directions;
+\item \textbf{[121:124]} S2V, at the four directions (up, temporal, down, nasal);
+\end{itemize}
+
+With this, when plotted per trial type average baseline-subtracted responses over repetitions as a function of time (figure \ref{individualDStrials}, right), we can denote that given sets of stimuli types evoke higher responses than others, with stronger spike responses being usually relative to the direction selective center-only response and to the four contiguous sets of the same center preferred direction with surround, as expected. Moreover, we also denote that responses are fixed to stimulus onset, validating appropriate synchronization in the experimental setup.
+
+\begin{figure}[H] \centering \includegraphics[width=12.5cm,height=12.5cm,keepaspectratio]{Figures/7.Results/individualSM/roi_29_mf379_pos5/roi29.png} 
+\caption{SM protocol responses (dF/F) over time (s), for the example DS cell. Responses were baseline subtracted (0.5s) and stimulus onset centered at 0s.
+\newline \textbf{Left:} 1240 trial responses (10 repetitions, 124 trial types) as chronologically presented to the subjects, over the trial length. No structure is apparent.
+\newline \textbf{Right:} Averaged repetition responses per trial type, ordered as determined on the text subsection \ref{DSexamplecell} over the trial length. Consistent structure is visible.}
+\label{individualDStrials}
 \end{figure}
 
-\begin{figure}[H] \centering \includegraphics[width=12.5cm,height=12.5cm,keepaspectratio]{Figures/7.Results/individualSM/roi 29 mf379 pos5/justcenter.png} 
-%\caption{rf Positions all}
+Then we assess trial type responses within a given organization: First we show C stimuli responses, then S1 stimuli responses, and finally move to S1+C response profiles. We leave S2+C and S2 analysis for the population analysis section, focusing here on validating this protocol's analysis and interpreting the more simple found results in individual example cells.
+
+In figure \ref{DSexamplecellcenter}, we observe that this cell portrays a large response to up center stimulation, but the responses for other directions are not substancial. This is a DS cell with up preferred direction. Figure \ref{DSexamplecellsurround} shows that surround-only stimulation did not hold any significant response for this cell, as required for this SM study.
+
+\begin{figure}[H] \centering \includegraphics[width=9cm,height=9cm,keepaspectratio]{Figures/7.Results/individualSM/roi_29_mf379_pos5/justcenter.png} 
+\caption{Mean repetition trial response profiles for C conditions in the DS example cell, over trial time. The responses were baseline subtracted and the stimulus onset was centered at 0s. Only the up center gratings direction evoked substantial significant responses.}
+\label{DSexamplecellcenter}
 \end{figure}
 
-\begin{figure}[H] \centering \includegraphics[width=12.5cm,height=12.5cm,keepaspectratio]{Figures/7.Results/individualSM/roi 29 mf379 pos5/justsurrscol.png} 
-%\caption{rf Positions all}
+\begin{figure}[H] \centering \includegraphics[width=10cm,height=10cm,keepaspectratio]{Figures/7.Results/individualSM/roi_29_mf379_pos5/justsurrscol.png} 
+\caption{Mean repetition trial response profiles for S1 conditions in the DS example cell, over trial time. The responses were baseline subtracted and the onset was at 0s. No significant responses were present for this surround-only condition, as intended for SM analysis.
+\label{DSexamplecellsurrounds}}
 \end{figure}
 
-\begin{figure}[H] \centering \includegraphics[width=14cm,height=12.5cm,keepaspectratio]{Figures/7.Results/individualSM/roi 29 mf379 pos5/surroundresponses.png} 
-%\caption{rf Positions all}
+In figure \ref{DSexamplecellSM} some SM results are shown. Only when center grating stimulation was on the up direction did any significant response hold (bottom panels, for horizontally positioned surrounds with non up-oriented center stimulation; for simplicity not shown here, the same lack of responses was found for vertically positioned surrounds with non up-oriented center stimuli).
+
+In this case, only surround suppression was present. Qualitatively, highest suppression is manifested for when surround stimulation is on the right, going in the down direction, followed by when it is also on the right, but going in the up direction and when it is going nasally in the top position.
+
+\begin{figure}[H] \centering \includegraphics[width=14cm,height=12.5cm,keepaspectratio]{Figures/7.Results/individualSM/roi_29_mf379_pos5/surroundresponses.png} 
+\caption{S1+C effects for each center direction condition, averaged over 10 repetitions, over trial time, for the DS example cell. The responses were baseline subtracted and the onset was at 0s. For comparisons, responses for center-only condition are represented as gray curves in each plot.
+\newline \textbf{Top:} S1L+C, S1R+C, S1T+C and S1B+C respectively at each column, for up center condition. For each, surround gratings can be going temporally (blue curve), nasally (yellow curve), up (purple curve) or down (green curve).
+\newline \textbf{Bottom:} S1L+C and S1R+C responses for center going temporally (left module), down (middle module) or nasally (right module). S1T+C and S1B+C responses are not shown here, as they portray similar non-responsive profiles.}
+\label{DSexamplecellSM}
 \end{figure}
 
-\begin{figure}[H] \centering \includegraphics[width=12.5cm,height=12.5cm,keepaspectratio]{Figures/7.Results/individualSM/roi 29 mf379 pos5/averagecenters.png} 
-%\caption{rf Positions all}
+Averaging the S1+C conditions over all of the center directions we find small responses and slight suppression average results (figure \ref{DSexamplecellaverage}), as these were diluted by the very little responses of this cell for other than up-directions. Suppression effects show the same qualitative results as above, but these were smaller than for the non-averaged center-up conditions; Over the population, facilitatory effects were rare, so this preliminary analysis did suggest (as realized with more examples and population analysis) that further analysis should be confined to the responsive center conditions, for minimizing noise additions to the results.
+
+\begin{figure}[H] \centering \includegraphics[width=12.5cm,height=12.5cm,keepaspectratio]{Figures/7.Results/individualSM/roi_29_mf379_pos5/averagecenters.png} 
+\caption{Average responses for S1L+C (left panels) and S1R+C (right panels) conditions over all of the center directions.
+\label{DSexamplecellaverage}}
 \end{figure}
 
 \subsection{OS example cell}
 
-\begin{figure}[H] \centering \includegraphics[width=12.5cm,height=12.5cm,keepaspectratio]{Figures/7.Results/individualSM/roi 46 mf379 pos2/roi46.png} 
-%\caption{rf Positions all}
+We present now the same sort of analysis for an OS example cell.
+
+Again, in figure \ref{individualOStrials}, we see that plotting responses ordered chronologically does not show a response structure, but when these spikes are organized in the same manner as explained in the above subsection, evident structure appears.
+
+\begin{figure}[H] \centering \includegraphics[width=12.5cm,height=12.5cm,keepaspectratio]{Figures/7.Results/individualSM/roi_46_mf379_pos2/roi46.png} 
+\caption{SM protocol responses (dF/F) over time (s), for the example OS cell. The responses were baseline subtracted (0.5s) and the stimulus onset was at 0s.
+\newline \textbf{Left:} 1240 trial responses (10 repetitions, 124 trial types) as chronologically presented to the subjects, over the trial length. No structure is apparent.
+\newline \textbf{Right:} Averaged repetition responses per trial type, ordered as determined on the text subsection \ref{DSexamplecell} over the trial length. Consistent structure is visible. \label{individualOStrials}}
 \end{figure}
 
-\begin{figure}[H] \centering \includegraphics[width=12.5cm,height=12.5cm,keepaspectratio]{Figures/7.Results/individualSM/roi 46 mf379 pos2/center.png} 
-%\caption{rf Positions all}
+We follow with the center only stimulation responses over the trial length (figure \ref{OSexamplecellcenter}). The cell is noticeably OS, with horizontal preferred orientation. As with the previous cell, no S1 condition held significant non-null responses, as intended for these SM analysis.
+
+\begin{figure}[H] \centering \includegraphics[width=9cm,height=9cm,keepaspectratio]{Figures/7.Results/individualSM/roi_46_mf379_pos2/center.png} 
+\caption{Mean repetition trial response profiles for C conditions in the OS example cell, over trial time. The responses were baseline subtracted and the stimulus onset was centered at 0s. The temporal and nasal center gratings directions evoked substantial significant responses, deeming the horizontal orientation the preferred orientation of this OS cell.}
+\label{OSexamplecellcenter}
 \end{figure}
 
-\begin{figure}[H] \centering \includegraphics[width=12.5cm,height=12.5cm,keepaspectratio]{Figures/7.Results/individualSM/roi 46 mf379 pos2/surrs.png} 
-%\caption{rf Positions all}
+In regards to the SM results, figure \ref{OSexamplecellSM} shows the most relevant profiles for this cell - for center going temporally or nasally. Other center direction conditions held no significant substantial  responses. 
+
+In this case, the cell was barely suppressed by the surround, with the most noticeable effect being a facilitation one, for the center gratings going nasally, surround on top conditions, with surround going either nasally or temporally. As will be shown in the next section, these facilitatory effects were rare across the analysed population.
+
+\begin{figure}[H] \centering \includegraphics[width=12.5cm,height=12.5cm,keepaspectratio]{Figures/7.Results/individualSM/roi_46_mf379_pos2/surrs.png} 
+\caption{S1+C effects for each center direction condition, averaged over 10 repetitions, over trial time, for the OS example cell. The responses were baseline subtracted and the onset was at 0s. For comparisons, responses for center-only condition are represented as gray curves in each plot.
+\newline \textbf{Left:} Modules for center temporal conditions, with horizontally positioned surrounds (top) and vertically positioned surrounds (bottom).   For each, surround gratings can be going temporally (blue curve), nasally (yellow curve), up (purple curve) or down (green curve).
+\newline \textbf{Left:} Modules for center nasal conditions, with horizontally positioned surrounds (top) and vertically positioned surrounds (bottom). 
+\label{OSexamplecellSM}}
 \end{figure}
 
-\section{SM analysis - cell population}
+\section{SM analysis - cells population}
+
+After last section's scattered analysis, we follow with more general, systematic analysis, by investigating average effects on all of the cells population.
 
 \subsection{Data ROI groups}
 
+Firstly, we divide the available ROIs into different group classes.
+
+In total, 2728 cells' trace responses were extracted from Suit2p pipeline (see section \ref{sec:Suit2ppipeline}).  From these, 2869 cells were responsive to some visual stimulation, as assessed with paired t-tests over the differences between responses for stimulation and baseline times(p<0.05), for any of the trial types. Within these, 897 cells were significantly responsive to at least one of the center-only conditions (assessed with the same statistical test). This was the first condition for the cell to be SM analysed. These values are showed to scale on figure \ref{groups1}.
+
 \begin{figure}[H] \centering \includegraphics[width=5cm,height=5cm,keepaspectratio]{Figures/7.Results/data/ROIvisualCenter.png} 
-%\caption{rf Positions all}
+\caption{Scaled depiction of cell numbers for each responsiveness group condition: ROIs selected by Suit2p pipeline (blue), visually responsive ROIs (red) and center-only condition(s) responsive ROIs (green).}
+\label{groups1}
 \end{figure}
+
+Within this last group of center-responsive ROIs, cells could also be divided in OS cells (n=472) and DS cells (n=371). Some DS cells were also OS cells (n=243). The remaining 600 cells were not found orientation selective. These assessments were made as described in section \ref{sec:tuningresults}, but using the data set from the SM protocol's center only conditions. A scaled cell numbers diagram is presented in figure \ref{groups2}.
+OS and DS cells were separately analysed in some relevant comparison cases in section \ref{sec:comparisons}.
 
 \begin{figure}[H] \centering \includegraphics[width=5cm,height=5cm,keepaspectratio]{Figures/7.Results/data/centerOSDS.png} 
-%\caption{rf Positions all}
+\caption{Scaled depiction of cell numbers for each selectivity condition:Center responsive cells (blue), OS cells (red) and DS cells (green).}
+\label{groups2}
 \end{figure}
 
+For all of the SM analysis, cells ought to be responsive to at least one of the center conditions, but were also conservatively required to hold no significant response for any of the relevant surround only conditions. In this way, we could be sure that independently of the receptive field measurements of each cell, the portrayed effects were in fact surround modulatory effects.
+The majority (n=788) of the center responsive cells did not respond to any of the surrounds, showing that for these sessions the stimuli responses were well centred. For some of the analysis, we were able to loosen the requirements: There were 812 cells responding to the center and not to the horizontally positioned surrounds, while 864 cells responded to the center and not to the vertically positioned surrounds. This groups were again assessed with the same statistical t-tests. These groups were used when analysis was projected in only one of the surround's position axis. Figure \ref{groups3} shows a cell numbers diagram for each of these conditions on the left, and the same simplified but scaled diagram on the right.
+
 \begin{figure}[H] \centering \includegraphics[width=15cm,height=15cm,keepaspectratio]{Figures/7.Results/data/SMdata.png} 
-%\caption{rf Positions all}
+\caption{Diagram of cell numbers for each center and surround responsiveness condition, with detailed most relevant values (left) and scaled (right): Center responsive cells (blue), no S1L stimuli conditions responsive cells (yellow), no S1R stimuli conditions responsive cells (green), no S1T stimuli conditions responsive cells (red) and no S1B stimuli conditions responsive cells (green).}
+\label{groups3}
 \end{figure}
 
 \subsection{RF center positions and SM protocol center-only: all population and per animal}
@@ -183,6 +262,7 @@ Here, we present two example cell responses for the different stimulus condition
 \end{figure}
 
 \subsection{Comparisons between conditions}
+\label{sec:comparisons}
 
 \subsubsection{Surround number effect}
 
@@ -263,6 +343,33 @@ Here, we present two example cell responses for the different stimulus condition
 %\caption{26_popPlots_VisROIs_Cor_2SalignmentAngle} 
 \end{figure}
 
+%\begin{table}[H]
+%\begin{center}\par
+%\scalebox{0.85}{
+%\begin{tabular}{c|cccccccccccccccccccccccccc}
+%\hline 
+% 
+%    
+%\multicolumn{1}{c}{Feature} & Value \\
+%           
+%           \hline
+%           \hline
+%
+%\multicolumn{1}{c}{stimulus size (º)} & 30 \\
+%\multicolumn{1}{c}{stimulus center (º)} & [0, 0] \\
+%\multicolumn{1}{c}{stim directions (º)} & [0 45 90 135 180 225 270 315] \\
+%\multicolumn{1}{c}{spatial frequency (/º)} & [0.02 0.04] \\
+%\multicolumn{1}{c}{temporal frequency (Hz)}& [0.5 1] \\
+%\multicolumn{1}{c}{dark, stim, background light} & [0 204 102] \\
+%\hline
+%        
+%\end{tabular}}
+% \caption{Configurations regarding the tuning mapping protocol stimuli properties.}
+%    \vspace{-5mm}
+%    \label{table:tuning}
+%\end{center}
+%\end{table}
+
 \subsubsection{Interactions between surround orientation alignment, surround-center relative orientation effects and center OS preference}
 
 \begin{figure}[H] \centering \includegraphics[width=11cm,height=11cm,keepaspectratio]{Figures/7.Results/population/sel/diagrams/13.png} 
@@ -310,6 +417,33 @@ Here, we present two example cell responses for the different stimulus condition
 \begin{figure}[H] \centering \includegraphics[width=11cm,height=11cm,keepaspectratio]{Figures/7.Results/population/sel/diagrams/21.png} 
 %\caption{13_popPlots_VisROIs_CprefDir_Snumber} 
 \end{figure}
+
+%\begin{table}[H]
+%\begin{center}\par
+%\scalebox{0.85}{
+%\begin{tabular}{c|cccccccccccccccccccccccccc}
+%\hline 
+% 
+%    
+%\multicolumn{1}{c}{Feature} & Value \\
+%           
+%           \hline
+%           \hline
+%
+%\multicolumn{1}{c}{stimulus size (º)} & 30 \\
+%\multicolumn{1}{c}{stimulus center (º)} & [0, 0] \\
+%\multicolumn{1}{c}{stim directions (º)} & [0 45 90 135 180 225 270 315] \\
+%\multicolumn{1}{c}{spatial frequency (/º)} & [0.02 0.04] \\
+%\multicolumn{1}{c}{temporal frequency (Hz)}& [0.5 1] \\
+%\multicolumn{1}{c}{dark, stim, background light} & [0 204 102] \\
+%\hline
+%        
+%\end{tabular}}
+% \caption{Configurations regarding the tuning mapping protocol stimuli properties.}
+%    \vspace{-5mm}
+%    \label{table:tuning}
+%\end{center}
+%\end{table}
 
 %outros
 %
