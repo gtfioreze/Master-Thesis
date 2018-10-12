@@ -29,11 +29,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Technology}{23}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Intrinsic signal optical imaging}{23}{section.3.1}
+\contentsline {section}{\numberline {3.1}Imaging techniques and intrinsic signals: acquiring functional maps of neuronal activity}{23}{section.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.1}Acquiring functional maps of neuronal activity}{23}{subsection.3.1.1}
-\defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1.2}Intrinsic Signal Optical Imaging: the technique}{25}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.1}Intrinsic Signal Optical Imaging: the technique}{25}{subsection.3.1.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}Calcium indicators and transgenic lines}{26}{section.3.2}
 \defcounter {refsection}{0}\relax 
@@ -45,7 +43,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.3.3}Confocal laser-scanning microscopy}{29}{subsection.3.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3.4}Two photon laser-scanning microscopy }{29}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.4}Two photon laser-scanning microscopy }{30}{subsection.3.3.4}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {4}Technical Implementations}{33}{chapter.4}
 \defcounter {refsection}{0}\relax 
@@ -153,6 +151,6 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {8.1}Surround modulation remaining questions and project's plan}{89}{section.8.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{91}{section*.78}
+\contentsline {chapter}{Bibliography}{91}{section*.79}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Appendix \numberline {A}Title of AppendixA}{A-1}{appendix.A}

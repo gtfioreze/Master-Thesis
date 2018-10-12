@@ -1,7 +1,4 @@
-\section{Intrinsic signal optical imaging}
-\label{sec:sectiona}
-
-\subsection{Acquiring functional maps of neuronal activity}
+\section{Imaging techniques and intrinsic signals: acquiring functional maps of neuronal activity}
 
 Neuronal activity can comprise the generation and propagation of action potentials, postsynaptic ion fluxes and potentials, neurotransmission, synaptic vesicle recycling, among other processes allocating cerebral cortex energy, along with the maintenance of glial and neuronal resting potentials. Furthermore, the cortex presents activity evoked by sensory stimuli or motor processes, but cortical populations of neurons also show spontaneous coordinated patterns of spiking activity, non-related to any sensory input or motor output.
 
@@ -10,45 +7,41 @@ In regards to the evoked activity, investigating the organizational and function
  
 % INTRODUCTION This patterns appear in slow-wave sleep, anesthesia and quiet wakefulness[REFERENCES], and the observed patterns are thought to be involved in internal processes, such as memory consolidation, mental imagery, behavioral variability or hallucinations [REFERENCES]. 
 
-The classical approaches developed to this end study animal's brain's \textit{in vivo} by exploring electrophysiological principles: by placing electrodes inside the individual's scalp, one can extracellularly record single cells' electrical activity in a direct manner and access neuron's voltage fluctuations. Multi-unit recordings are also possible through this method. 
+The classical approaches developed to this end study animal's brain's \textit{in vivo} by exploring electrophysiological principles (for an historical overview, \cite{Verkhratsky2006}): by placing electrodes inside the individual's scalp, one can extracellularly record single cells' electrical activity in a direct manner and access neuron's voltage fluctuations. Multi-unit recordings are also possible through this method  .
 
-Other techniques include the 2-deoxy-D-glucose (2DG) autoradiographic method [SOKOLOFF ET AL, 1977] to find and measure glucose consumption in the brain. These metabolic alterations are associated to changes in functional activity and thus an acumulation of the radiolabeled 2DG, representing the integrated rate of glucose consumption, marks the activated areas of the brain.
+%Other techniques include the 2-deoxy-D-glucose (2DG) autoradiographic method (\cite{Sokoloff1977}) to find and measure glucose consumption in the brain. These metabolic alterations are associated to changes in functional activity and thus an acumulation of the radiolabeled 2DG, representing the integrated rate of glucose consumption, marks the activated areas of the brain; similarly, fluorescent dyes can be used.
 
-DYES...
-
-However, many experimental goals require extensive simultaneous recordings while these techniques require  long combersome experiments to cover large areas of the cortex. Moreover, electrophysiological mapping methods introduce considerable sampling bias in the recordings as well as poor spacial resolution ($~1 cm$), while 2-DG maps can only be analysed \textit{post-mortem}, allowing only one experimental session per animal, and can only label two stimulus at the maximum.
+However, many experimental goals require simultaneous recordings of extensive brain regions, while these techniques require long complex experiments to cover large areas of the cortex. Moreover, electrophysiological mapping methods introduce considerable sampling bias in the recordings as well as poor spacial resolution ($~1 cm^3$).
 
 Imaging techniques such as functional magnetic resonance imaging (fMRI), near-infrared spectroscopy (NIRS) and intrinsic signal optical imaging (ISOI) introduce less invasive means to simultaneously access larger regions of the brain while the subject is being presented to stimuli and also enable longitudal studies by repeated imaging sessions with the same individual animal. These methods are based on variations of optically measurable properties of physiological processes associated with neuronal activity.
 
-NIRS....
+Slow reflectance light signals are intrinsically relayed from the surface of the striate cortex due to hemodynamic responses that correlate with neuronal activity (\cite{Cohen1973}). Neuronal firing or transmission induces blood changes - neurovascular coupling, \cite{Villringer1995}- that produce a light reflectance change.
 
-Intrinsic signal optical imaging (ISOI) enables the visualization of alterations in intrinsic optical properties of neuronal tissues, as a response to neuronal activity.
+Neuronal activity requires the hydrolysis of ATP and the oxy-hemoglobin (the protein hemoglobin in red blood cells binded to oxygen) molecules in the capillaries provide the majority of the oxygen used to regenerate ATP via glucose metabolism. Thus, an active brain region is associated with a finely localized increase in oxygen demand and thus a local rise in deoxy-hemoglobin (deoxygenated hemoglobin) and a depletion in oxy-hemoglobin concentrations. This is followed by an hemodynamic response of locally increased blood flow in the capilaries and dilatation of the closeby arteries to replenish and sufice the oxygen requirements (\cite{Grinvald1986)}, \cite{Frostig1990}).
 
-Slow reflectance light signals are intrinsicly relayed from the surface of the striate cortex due to hemodynamic responses[REFERENCES] that correlate with neuronal activity. Neuronal firing induces blood changes - neurovascular coupling - that produce a light reflectance change.
+In this neurally active situation, the hemodynamic response imposes a light reflectance variation, resulting from three major sources of intrinsic signal: the changes in blood volume (\cite{Grinvald1986)},\cite{Frostig1990}), blood oxygenation (\cite{Vanzetta1999}) and light scattering (\cite{HillKeynes1949}).
 
-Neuronal activity requires the hydrolysis of ATP and the oxy-hemoglobin (the protein hemoglobin in red blood cells binded to oxygen) molecules in the capillaries provide the majority of the oxygen used to regenerate ATP via glucose metabolism. Thus, an active brain region is associated with a finely localized increase in oxygen demand and thus a local rise in deoxy-hemoglobin (deoxygenated hemoglobin) and a depletion in oxy-hemoglobin concentrations. This is followed by an hemodynamic response of locally increased blood flow in the capilaries and dilatation of the closeby arteries to replenish and sufice the oxygen requirements.
+The blood volume component of the signal is the least spatially confined of the three factors but can nevertheless yield functional maps alone - for instance, with the injection of fluorescence dyes into the bloodstream (\cite{Frostig1990}).
 
-In this neuronally active situation, the hemodynamic response imposes a light reflectance variation, resulting from three major sources: the changes in blood volume, blood oxygenation and light scattering.
+The oxymetry signal is used for instance in fMRI techniques that identify the areas of the brain to which more oxygenated blood is being driven to, relying on how the magnetic properties of more and less oxygenated blood differ. A $1-2s$ delayed rise in oxygenation is associated to more active cells and brain usage. However, depending on the magnetic field intensity, this technique can have limited spatial resolution, as it relies on the transition phase that is also associated with the dilatation of arterioles adjoining the original activity sites, which can cause signal artifacts.
 
-The blood volume component of the signal is the least spatially confined of the three factors, but can nevertheless yield alone functional maps, with the injection of fluorescence dyes into the bloodstream [REFERENCE].
+On the other hand, light scattering changes enable precise temporal and spatial functional mappings of neuronal activity. Higher neuronal activity increases light scattering due to factors like ion movement, capillary expansion or neurotransmitter release (for a review,\cite{Cohen1973}). This increase peaks within $2-3 s$ of the stimulus onset.
 
-The oxymetry signal is used for instance in fMRI techniques that identify the areas of the brain to which more oxygenated blood is being driven to, relying on how the magnetic properties of more and less oxygenated blood differ. A $1-2s$ delayed rise in oxygenation is associated to more active cells and brain usage. However, depending on the magnetic field intensity, this technique can have limited spatial resolution, as it relies on the transition phase that is also associated with the dilatation of arterioles adjoining the original activity sites which can cause signal artifacts.
+With these physiological events optical properties' intrinsic changes, one can extract the optical signals that correlate with that variance and thus with neuronal activity, using different imaging methods.
 
-On the other hand, light scattering changes (REFERENCES) allow for precise temporal and spatial functional mappings of neuronal activity. Higher neuronal activity increases light scattering due to factors like (REFERENCES COHEN 1973). This increase peaks within 2-3 s of the stimulus onset.
-
-With these physiological events optical properties' changes, one can extract the optical signals that correlate with that variance and thus with neuronal activity. Since about $13\%$ of the energy consumption is used for maintenance of the resting state and the greater parcel of the cortical metabolized ATP costs are for action potential propagation (about $47\%$) [REFERENCES], with the remainder for processes related to synaptic transmission, the intrinsic signal has the major contribution from an oxymetry factor that relates to those inhibitory or subtreshold excitatory input processes.
+%Since about $13\%$ of the energy consumption is estimated to be used for maintenance of the resting state and the greater parcel $47\%$ of the cortical metabolized ATP costs for action potential propagation, with the remainder for processes related to synaptic transmission (\cite{Attwell2001}), the intrinsic signal has the major contribution from an oxymetry factor that relates to those inhibitory or subtreshold excitatory input processes.
 
 \subsection{Intrinsic Signal Optical Imaging: the technique}
 
-In the technique used in this work, ISOI, the signal brings about information on the oxy-hemoglobin concentrations during neuronal activity. This method is utilized as one of the best balances in spatial resolution and simultaneous coverage of different brain areas.
+In the technique used in this work, ISOI (\cite{Grinvald1986}), the intrinsic signal is used to bring about information on the oxy-hemoglobin concentrations during neuronal activity. This method is regarded as one of the most advanced methods for a balance in spatial resolution and simultaneous coverage of different brain areas.
 
 Illumination by a stable output source at the red wavelenght level of $540 nm$ optimally excites the oxygenated blood flow, while the de-oxygenated blood reflects less light at this wavelength [REFERENCES]. 
 
 These differentiated properties enable the mapping of the most active, de-oxygenated brain areas at the time of the initial local deoxy-hemoglobin increase, since these regions will reflect less red light than the inactive, amply oxygenated cerebral areas.
 
-ISOI utilizes this principle in brain areas which can be reached by light (around $500 \mu m$ maximum). In an animal with a window implantation and illumination of its primary cortex surface, one can record the brain area with a charge-coupled device (CCD) camera to monitor the changes in the reflected light signal from each region of the primary cortex of the subject while this animal is presented to stimuli. In this way, one obtains maps that make correspond the stimulation that the subject receives - visual, somatosensory, auditory [REFERENCES]- to the observed refleted light signal profile at that time interval and in that brain region, whitin some relatively high temporal ($80 ms$) and spatial resolutions (in the order of $100 \mu m$) [REFERENCES].
+ISOI utilizes this principle in brain areas which can be reached by light (around $500 \mu m$ maximum). In an animal with a window implantation and illumination of its primary cortex surface, one can record the brain area with a charge-coupled device (CCD) camera to monitor the changes in the reflected light signal from each region of the primary cortex of the subject while this animal is presented to stimuli. In this way, one obtains maps that make correspond the stimulation that the subject receives - visual, somatosensory, auditory [REFERENCES]- to the observed refleted light signal profile at that time interval and in that brain region, within relatively high temporal $80 ms$ \cite{Lu2017} and spatial resolutions in the order of $100 \mu m$ \cite{Grinvald1986}.
 
-For both anesthetized and awake animals, the typical ISOI signal follows a tri-phasic structure: An initial dip, a negative peak at about 4-6s after stimulus onset, and a large rebound [GET REFERENCES].[GET IMAGE] 
+For both anaesthetized and awake animals, the typical ISOI signal follows a tri-phasic structure: An initial dip, a negative peak at about 4-6s after stimulus onset, and a large rebound [GET REFERENCES].[GET IMAGE] 
 
 The signals' information is extracted by calculating differences between the reflectances of the imaged brain area at unstimulated baselines and post stimulation time points. For each stimulus, multiple repetitions are held and the respective signals averaged across the same time points.
 

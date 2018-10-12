@@ -33,8 +33,8 @@
       \strng{authorbibnamehash}{1e5ee057958d35100cb148788b200705}
       \strng{authornamehash}{1e5ee057958d35100cb148788b200705}
       \strng{authorfullhash}{1e5ee057958d35100cb148788b200705}
-      \field{sortinit}{9}
-      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of Neurophysiology, 16, 37–68}
@@ -484,6 +484,331 @@
       \endverb
       \keyw{behavior,motion vision,two-photon microscopy,visual cortex}
     \endentry
+    \entry{Grinvald1986}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6e8078873cd3488bee430fdb319ee56a}{%
+           family={Grinvald},
+           familyi={G\bibinitperiod},
+           given={Amiram},
+           giveni={A\bibinitperiod}}}%
+        {{hash=be26a471c45866bd398203d0b89f7674}{%
+           family={Lieke},
+           familyi={L\bibinitperiod},
+           given={Edmund},
+           giveni={E\bibinitperiod}}}%
+        {{hash=ed1fa7e6489555893b8324a93721c7fa}{%
+           family={Frostig},
+           familyi={F\bibinitperiod},
+           given={Ron\bibnamedelima D.},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=e58be428bd19dc847e1d4734f22d5ae0}{%
+           family={Gilbert},
+           familyi={G\bibinitperiod},
+           given={Charles\bibnamedelima D.},
+           giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=4a1e8977ab6d87911520005a9174e2fc}{%
+           family={Wiesel},
+           familyi={W\bibinitperiod},
+           given={Torsten\bibnamedelima N.},
+           giveni={T\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \strng{namehash}{05997114541b9e0fd4ea922d6824d6c1}
+      \strng{fullhash}{ecf8c30d734fc65c8f51bfab5ead51c2}
+      \strng{bibnamehash}{ecf8c30d734fc65c8f51bfab5ead51c2}
+      \strng{authorbibnamehash}{ecf8c30d734fc65c8f51bfab5ead51c2}
+      \strng{authornamehash}{05997114541b9e0fd4ea922d6824d6c1}
+      \strng{authorfullhash}{ecf8c30d734fc65c8f51bfab5ead51c2}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Optical imaging of cortical activity offers several advantages over conventional electrophysiological and anatomical techniques. One can map a relatively large region, obtain successive maps to different stimuli in the same cortical area and follow variations in response over time. In the intact mammalian brain this imaging has been accomplished with the aid of voltage sensitive dyes. However, it has been known for many years that some intrinsic changes in the optical properties of the tissue are dependent on electrical or metabolic activity. Here we show that these changes can be used to study the functional architecture of cortex. Optical maps of whisker barrels in the rat and the orientation columns in the cat visual cortex, obtained by reflection measurements of the intrinsic signal, were confirmed with voltage sensitive dyes or by electrophysiological recordings. In addition, we describe an intrinsic signal originating from small arteries which can be used to investigate the communication between local neuronal activity and the microvasculature. One advantage of the method is that it is non-invasive and does not require dyes, a clear benefit for clinical applications.}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{0028-0836 (Print)$\backslash$r0028-0836 (Linking)}
+      \field{issn}{00280836}
+      \field{journaltitle}{Nature}
+      \field{number}{6095}
+      \field{title}{{Functional architecture of cortex revealed by optical imaging of intrinsic signals}}
+      \field{volume}{324}
+      \field{year}{1986}
+      \field{pages}{361\bibrangedash 364}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1038/324361a0
+      \endverb
+      \verb{eprint}
+      \verb arXiv:1011.1669v3
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/Asus/Desktop/Disserta{\c{c}}{\~{a}}o/Thesis' Papers/grinvald1986.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Lu2017}{article}{}
+      \name{author}{4}{}{%
+        {{hash=5f5092145c32c4b00912c7536e4bca7e}{%
+           family={Lu},
+           familyi={L\bibinitperiod},
+           given={Haidong\bibnamedelima D.},
+           giveni={H\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=293c31f46eb012efc4b2449215c92484}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Gang},
+           giveni={G\bibinitperiod}}}%
+        {{hash=26b85fea2427c418c32b9002bac28690}{%
+           family={Cai},
+           familyi={C\bibinitperiod},
+           given={Junjie},
+           giveni={J\bibinitperiod}}}%
+        {{hash=0198717bd770538e523f065e4e783cfd}{%
+           family={Roe},
+           familyi={R\bibinitperiod},
+           given={Anna\bibnamedelima W.},
+           giveni={A\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \strng{namehash}{ce6b219af31fd8492b5ce786f95cccb4}
+      \strng{fullhash}{d984c22c592f9c453a7f93240d70f438}
+      \strng{bibnamehash}{d984c22c592f9c453a7f93240d70f438}
+      \strng{authorbibnamehash}{d984c22c592f9c453a7f93240d70f438}
+      \strng{authornamehash}{ce6b219af31fd8492b5ce786f95cccb4}
+      \strng{authorfullhash}{d984c22c592f9c453a7f93240d70f438}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Hemodynamic-based brain imaging techniques are typically incapable of monitoring brain activity with both high spatial and high temporal resolutions. In this study, we have used intrinsic signal optical imaging (ISOI), a relatively high spatial resolution imaging technique, to examine the temporal resolution of the hemodynamic signal. We imaged V1 responses in anesthetized monkey to a moving light spot. Movies of cortical responses clearly revealed a focus of hemodynamic response traveling across the cortical surface. Importantly, at different locations along the cortical trajectory, response timecourses maintained a similar tri-phasic shape and shifted sequentially across cortex with a predictable delay. We calculated the time between distinguishable timecourses and found that the temporal resolution of the signal at which two events can be reliably distinguished is about 80 milliseconds. These results suggest that hemodynamic-based imaging is suitable for detecting ongoing cortical events at high spatial resolution and with temporal resolution relevant for behavioral studies.}
+      \field{issn}{10959572}
+      \field{journaltitle}{NeuroImage}
+      \field{title}{{Intrinsic signal optical imaging of visual brain activity: Tracking of fast cortical dynamics}}
+      \field{volume}{148}
+      \field{year}{2017}
+      \field{pages}{160\bibrangedash 168}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.neuroimage.2017.01.006
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/Asus/Desktop/Disserta{\c{c}}{\~{a}}o/Thesis' Papers/Intrinsic2017.pdf:pdf
+      \endverb
+      \keyw{Intrinsic signal optical imaging,Monkey,Temporal resolution,V1,Visual cortex}
+    \endentry
+    \entry{Lin2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=97a5238494281bf7bd08e33f0ecd61e2}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Michael\bibnamedelima Z.},
+           giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod}}}%
+        {{hash=dffa47d60fde55eeed471a49f6c3fa3e}{%
+           family={Schnitzer},
+           familyi={S\bibinitperiod},
+           given={Mark\bibnamedelima J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \strng{namehash}{30cee548c963a3970d87aa8c6c1dc16b}
+      \strng{fullhash}{30cee548c963a3970d87aa8c6c1dc16b}
+      \strng{bibnamehash}{30cee548c963a3970d87aa8c6c1dc16b}
+      \strng{authorbibnamehash}{30cee548c963a3970d87aa8c6c1dc16b}
+      \strng{authornamehash}{30cee548c963a3970d87aa8c6c1dc16b}
+      \strng{authorfullhash}{30cee548c963a3970d87aa8c6c1dc16b}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Experimental efforts to understand how the brain represents, stores and processes information require high-fidelity recordings of multiple different forms of neural activity within functional circuits. Thus, creating improved technologies for large-scale recordings of neural activity in the live brain is a crucial goal in neuroscience. Over the past two decades, the combination of optical microscopy and genetically encoded fluorescent indicators has become a widespread means of recording neural activity in nonmammalian and mammalian nervous systems, transforming brain research in the process. In this review, we describe and assess different classes of fluorescent protein indicators of neural activity. We first discuss general considerations in optical imaging and then present salient characteristics of representative indicators. Our focus is on how indicator characteristics relate to their use in living animals and on likely areas of future progress.}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{1546-1726 (Electronic)$\backslash$r1097-6256 (Linking)}
+      \field{issn}{15461726}
+      \field{journaltitle}{Nature Neuroscience}
+      \field{number}{9}
+      \field{title}{{Genetically encoded indicators of neuronal activity}}
+      \field{volume}{19}
+      \field{year}{2016}
+      \field{pages}{1142\bibrangedash 1153}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1038/nn.4359
+      \endverb
+      \verb{eprint}
+      \verb 15334406
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/Asus/Desktop/Universidade/5{\textordmasculine} Ano 1{\textordmasculine} Trimestre/ProjMEFT/Report Projeto MEFT/Leopoldo's recomendation/LinSchnitzer2016.pdf:pdf
+      \endverb
+    \endentry
+    \entry{Chen2013}{article}{}
+      \name{author}{13}{}{%
+        {{hash=06f93e8474feec9dd6a801302817003d}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Tsai-Wen},
+           giveni={T\bibinithyphendelim W\bibinitperiod}}}%
+        {{hash=67a6010bd13cdab8b3747932befeabfa}{%
+           family={Wardill},
+           familyi={W\bibinitperiod},
+           given={Trevor\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=4ecf6f19fcc21ef32abbea3a7f2a885c}{%
+           family={Sun},
+           familyi={S\bibinitperiod},
+           given={Yi},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=fa0918260ef34c6db4384bc024ff7501}{%
+           family={Pulver},
+           familyi={P\bibinitperiod},
+           given={Stefan\bibnamedelima R.},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=cab155db8bad4b412047a7bc8ea464f5}{%
+           family={Renninger},
+           familyi={R\bibinitperiod},
+           given={Sabine\bibnamedelima L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=1c1e4f8288e51cf435bc258e30acdb61}{%
+           family={Baohan},
+           familyi={B\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ce1966eea72702df0b7043705d3b8594}{%
+           family={Schreiter},
+           familyi={S\bibinitperiod},
+           given={Eric\bibnamedelima R.},
+           giveni={E\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=47f520a3de096c158e069e91c44b17c2}{%
+           family={Kerr},
+           familyi={K\bibinitperiod},
+           given={Rex\bibnamedelima A.},
+           giveni={R\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=e3102ce6112ea1f1e8ff22bc92234af3}{%
+           family={Orger},
+           familyi={O\bibinitperiod},
+           given={Michael\bibnamedelima B.},
+           giveni={M\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=3ef65fa6bd69cf17ae117dad07c03ce5}{%
+           family={Jayaraman},
+           familyi={J\bibinitperiod},
+           given={Vivek},
+           giveni={V\bibinitperiod}}}%
+        {{hash=b6d93fd682e4547cb6cae2be983f76ac}{%
+           family={Looger},
+           familyi={L\bibinitperiod},
+           given={Loren\bibnamedelima L.},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=b2cbb31e2d44cbba758618ce79c34b22}{%
+           family={Svoboda},
+           familyi={S\bibinitperiod},
+           given={Karel},
+           giveni={K\bibinitperiod}}}%
+        {{hash=dbb5b3e5ac20bf60b282a460f92513ac}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Douglas\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{e45a900a18c9c15416f333d9e2143c5b}
+      \strng{fullhash}{574237ea07f549453f4ca6aeec009f7c}
+      \strng{bibnamehash}{e45a900a18c9c15416f333d9e2143c5b}
+      \strng{authorbibnamehash}{e45a900a18c9c15416f333d9e2143c5b}
+      \strng{authornamehash}{e45a900a18c9c15416f333d9e2143c5b}
+      \strng{authorfullhash}{574237ea07f549453f4ca6aeec009f7c}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Fluorescent calcium sensors are widely used to image neural activity. Using structure-based mutagenesis and neuron-based screening, we developed a family of ultrasensitive protein calcium sensors (GCaMP6) that outperformed other sensors in cultured neurons and in zebrafish, flies and mice in vivo. In layer 2/3 pyramidal neurons of the mouse visual cortex, GCaMP6 reliably detected single action potentials in neuronal somata and orientation-tuned synaptic calcium transients in individual dendritic spines. The orientation tuning of structurally persistent spines was largely stable over timescales of weeks. Orientation tuning averaged across spine populations predicted the tuning of their parent cell. Although the somata of GABAergic neurons showed little orientation tuning, their dendrites included highly tuned dendritic segments (5-40-µm long). GCaMP6 sensors thus provide new windows into the organization and dynamics of neural circuits over multiple spatial and temporal scales.}
+      \field{eprinttype}{arXiv}
+      \field{isbn}{0028-0836}
+      \field{issn}{0028-0836}
+      \field{journaltitle}{Nature}
+      \field{number}{7458}
+      \field{title}{{Ultrasensitive fluorescent proteins for imaging neuronal activity}}
+      \field{volume}{499}
+      \field{year}{2013}
+      \field{pages}{295\bibrangedash 300}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1038/nature12354
+      \endverb
+      \verb{eprint}
+      \verb arXiv:1011.1669v3
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/Asus/Desktop/Universidade/5{\textordmasculine} Ano 1{\textordmasculine} Trimestre/ProjMEFT/Report Projeto MEFT/Leopoldo's recomendation/Tsai2013.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nature.com/doifinder/10.1038/nature12354
+      \endverb
+      \verb{url}
+      \verb http://www.nature.com/doifinder/10.1038/nature12354
+      \endverb
+    \endentry
+    \entry{Dana2014}{article}{}
+      \name{author}{8}{}{%
+        {{hash=ed9b8593555efe3802f48fe90c7a35b3}{%
+           family={Dana},
+           familyi={D\bibinitperiod},
+           given={Hod},
+           giveni={H\bibinitperiod}}}%
+        {{hash=035da3f2f464466ca5a02acf51c376ee}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Tsai\bibnamedelima Wen},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=95dbc4fb062dd2234e5c7aaea429219b}{%
+           family={Hu},
+           familyi={H\bibinitperiod},
+           given={Amy},
+           giveni={A\bibinitperiod}}}%
+        {{hash=1a49a6762a3f8df7c4f6cae2a9e744cd}{%
+           family={Shields},
+           familyi={S\bibinitperiod},
+           given={Brenda\bibnamedelima C.},
+           giveni={B\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=eb80f3e343308f9d45577cb0a35af0cc}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Caiying},
+           giveni={C\bibinitperiod}}}%
+        {{hash=b6d93fd682e4547cb6cae2be983f76ac}{%
+           family={Looger},
+           familyi={L\bibinitperiod},
+           given={Loren\bibnamedelima L.},
+           giveni={L\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=dbb5b3e5ac20bf60b282a460f92513ac}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={Douglas\bibnamedelima S.},
+           giveni={D\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=b2cbb31e2d44cbba758618ce79c34b22}{%
+           family={Svoboda},
+           familyi={S\bibinitperiod},
+           given={Karel},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{a6bb3b103083441faa77d89278720e45}
+      \strng{fullhash}{609bf9674c8c8f3d31c81705303ebd5d}
+      \strng{bibnamehash}{a6bb3b103083441faa77d89278720e45}
+      \strng{authorbibnamehash}{a6bb3b103083441faa77d89278720e45}
+      \strng{authornamehash}{a6bb3b103083441faa77d89278720e45}
+      \strng{authorfullhash}{609bf9674c8c8f3d31c81705303ebd5d}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Genetically-encoded calcium indicators (GECIs) facilitate imaging activity of genetically defined neuronal populations in vivo. The high intracellular GECI concentrations required for in vivo imaging are usually achieved by viral gene transfer using adeno-associated viruses. Transgenic expression of GECIs promises important advantages, including homogeneous, repeatable, and stable expression without the need for invasive virus injections. Here we present the generation and characterization of transgenic mice expressing the GECIs GCaMP6s or GCaMP6f under the Thy1 promoter. We quantified GCaMP6 expression across brain regions and neurons and compared to other transgenic mice and AAV-mediated expression. We tested three mouse lines for imaging in the visual cortex in vivo and compared their performance to mice injected with AAV expressing GCaMP6. Furthermore, we show that GCaMP6 Thy1 transgenic mice are useful for long-term, high-sensitivity imaging in behaving mice.}
+      \field{isbn}{1932-6203 (Electronic)$\backslash$r1932-6203 (Linking)}
+      \field{issn}{19326203}
+      \field{journaltitle}{PLoS ONE}
+      \field{number}{9}
+      \field{title}{{Thy1-GCaMP6 transgenic mice for neuronal population imaging in vivo}}
+      \field{volume}{9}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1371/journal.pone.0108697
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/Asus/Desktop/Universidade/5{\textordmasculine} Ano 1{\textordmasculine} Trimestre/ProjMEFT/Report Projeto MEFT/Leopoldo's recomendation/Gcamp2014.PDF:PDF
+      \endverb
+    \endentry
   \enddatalist
   \missing{9Marques2018kk}
   \missing{Adesnik2012}
@@ -506,19 +831,22 @@
   \missing{Cavanaugh2002a}
   \missing{Chen2001}
   \missing{Chubb1989}
+  \missing{Cohen1973}
   \missing{Desimone1987}
   \missing{Dragoi2000}
   \missing{Dreher1972}
   \missing{Field1993}
   \missing{Field2013}
-  \missing{GCAMP6}
+  \missing{Frostig1990}
   \missing{Gilbert1977}
   \missing{Gilbert1996}
   \missing{Girard2001}
   \missing{Girman1999}
+  \missing{Grinvald1986)}
   \missing{Heeger1992}
   \missing{Heitger1992}
   \missing{Henry2013}
+  \missing{HillKeynes1949}
   \missing{Hubel1965}
   \missing{Hubel1968}
   \missing{Ichida2007}
@@ -560,7 +888,9 @@
   \missing{Sundberg2009}
   \missing{Sushruth2013}
   \missing{TopDown}
-  \missing{Transgenic}
+  \missing{Vanzetta1999}
+  \missing{Verkhratsky2006}
+  \missing{Villringer1995}
   \missing{Vinje2000}
   \missing{Walker1999}
   \missing{Webb2005}
