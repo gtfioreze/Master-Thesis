@@ -8,11 +8,11 @@
 \BOOKMARK [1][]{lot.1}{List of Tables}{index.0}% 8
 \BOOKMARK [1][]{loac.1}{List of Acronyms}{index.0}% 9
 \BOOKMARK [1][]{los.1}{List of Symbols}{index.0}% 10
-\BOOKMARK [0][]{chapter.1}{1 Introduction}{}% 11
+\BOOKMARK [0][]{chapter.1}{1 Preamble}{}% 11
 \BOOKMARK [1][]{section.1.1}{1.1 A systems neuroscience question: How does the nervous system enable perception of the visual world?}{chapter.1}% 12
 \BOOKMARK [1][]{section.1.2}{1.2 Original Contributions}{chapter.1}% 13
 \BOOKMARK [1][]{section.1.3}{1.3 Thesis Outline}{chapter.1}% 14
-\BOOKMARK [0][]{chapter.2}{2 Theoretical State of the Art}{}% 15
+\BOOKMARK [0][]{chapter.2}{2 Theoretical Introduction}{}% 15
 \BOOKMARK [1][]{section.2.1}{2.1 Brain visual pathways}{chapter.2}% 16
 \BOOKMARK [2][]{subsection.2.1.1}{2.1.1 The eye}{section.2.1}% 17
 \BOOKMARK [2][]{subsection.2.1.2}{2.1.2 Central Visual Pathways}{section.2.1}% 18
@@ -53,14 +53,14 @@
 \BOOKMARK [1][]{section.6.2}{6.2 Images pre-processing: Separating planes and registration}{chapter.6}% 53
 \BOOKMARK [1][]{section.6.3}{6.3 Suit2p pipeline}{chapter.6}% 54
 \BOOKMARK [1][]{section.6.4}{6.4 Data treatment}{chapter.6}% 55
-\BOOKMARK [2][]{subsection.6.4.1}{6.4.1 Receptive field mapping}{section.6.4}% 56
-\BOOKMARK [2][]{subsection.6.4.2}{6.4.2 Tuning mapping}{section.6.4}% 57
-\BOOKMARK [2][]{subsection.6.4.3}{6.4.3 Surround modulation protocol}{section.6.4}% 58
-\BOOKMARK [1][]{section.6.5}{6.5 Statistical Tests}{chapter.6}% 59
-\BOOKMARK [2][]{subsection.6.5.1}{6.5.1 t-tests}{section.6.5}% 60
-\BOOKMARK [2][]{subsection.6.5.2}{6.5.2 Rank-sum tests}{section.6.5}% 61
-\BOOKMARK [2][]{subsection.6.5.3}{6.5.3 Sign-tests}{section.6.5}% 62
-\BOOKMARK [2][]{subsection.6.5.4}{6.5.4 Multivariate comparisons}{section.6.5}% 63
+\BOOKMARK [1][]{section.6.5}{6.5 Statistical Tests}{chapter.6}% 56
+\BOOKMARK [2][]{subsection.6.5.1}{6.5.1 Two-sided sign-tests}{section.6.5}% 57
+\BOOKMARK [2][]{subsection.6.5.2}{6.5.2 Wilcoxon signed rank-sum tests}{section.6.5}% 58
+\BOOKMARK [2][]{subsection.6.5.3}{6.5.3 N-way analysis of variance}{section.6.5}% 59
+\BOOKMARK [2][]{subsection.6.5.4}{6.5.4 Pearson correlation coefficients}{section.6.5}% 60
+\BOOKMARK [2][]{subsection.6.5.5}{6.5.5 Multiple linear regression}{section.6.5}% 61
+\BOOKMARK [2][]{subsection.6.5.6}{6.5.6 Permutation test}{section.6.5}% 62
+\BOOKMARK [2][]{subsection.6.5.7}{6.5.7 Multivariate comparisons: Holm-Bonferroni method}{section.6.5}% 63
 \BOOKMARK [0][]{chapter.7}{7 Results}{}% 64
 \BOOKMARK [1][]{section.7.1}{7.1 RF analysis}{chapter.7}% 65
 \BOOKMARK [1][]{section.7.2}{7.2 Tuning analysis}{chapter.7}% 66
@@ -82,7 +82,7 @@
 \BOOKMARK [3][]{subsubsection.7.4.3.9}{7.4.3.I Surround direction alignment effect \(direction and position\)}{subsection.7.4.3}% 82
 \BOOKMARK [3][]{subsubsection.7.4.3.10}{7.4.3.J Surround and center relative direction effect}{subsection.7.4.3}% 83
 \BOOKMARK [3][]{subsubsection.7.4.3.11}{7.4.3.K Interactions between direction alignment, surround-center relative direction effects and center DS preference}{subsection.7.4.3}% 84
-\BOOKMARK [0][]{chapter.8}{8 Conclusions and Future Work}{}% 85
+\BOOKMARK [0][]{chapter.8}{8 Discussion and Conclusions}{}% 85
 \BOOKMARK [1][]{section.8.1}{8.1 Surround modulation remaining questions and project's plan}{chapter.8}% 86
 \BOOKMARK [0][]{section*.78}{Bibliography}{}% 87
 \BOOKMARK [0][]{appendix.A}{Appendix A Title of AppendixA}{}% 88

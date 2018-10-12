@@ -1,13 +1,185 @@
 \section{Statistical Tests}
 \label{sec:StatisticalTests}
 
-\subsection{t-tests}
-\label{subsec:subasectionC}
+Along the SM analysis, statistical tests were used to test given hypothesis, assess results significance and perform multiple comparisons. These tools were implemented with Matlab ingrained functions (signtest, ranksum, anovan, corrcoef and regress). Here we summarily review these tools and underlying mathematical basis.
 
-\subsection{Rank-sum tests}
+\subsection{Two-sided sign-tests}
+\label{subsec:signtests}
+
+Sign-tests are nonparametric tests, for given independent observations, for the hypothesis that the difference between the correspondent variables has a given median value $\eta_0$. In this work's analysis, the hypothesized median was zero. 
+
+In this test, the only assumption is that data is collected independently from a continuous distribution.
+
+For a two-sided test, as used in this project's analysis, the null hypothesis and alternative hypothesis are given by:
+
+H_0 : $\eta = \eta _0$
+
+H_a : $\eta \neq \eta _0$
+
+We define $S_1$ the counts of the number of observations less than $\eta _0$ and  $S_2$ the counts of the number of observations larger than $\eta _0$. 
+
+The test statistic is the given by:
+
+\begin{equation}
+S=max(S_1, S_2)
+\end{equation}
+
+If the null hypothesis $H_0$ is true, then S follows a binomial distribution $S ~ \text{Binomial} (m, 0.5)$, with $m$ the number of observations, discarding the data points equal to $\eta _0$.
+
+Then, in general, the p-value, \textit{p}, is defined by
+
+\begin{equation}
+p=2 \text{Pr}\left[ X \geq S \right]
+\end{equation}
+
+and we reject the null hypothesis $H_0$ if \textit{p} is smaller or equal to a given significance threshold $\alpha$.
+
+For large samples, as is the case for this project's data sets, it can be shown that if X ~ Binomial (m, 0.5), then the distribution can be approximated by X ~ Normal (0.5m, 0.5(1-0.5)).
+
+Then, the continuity corrected (replacing $S$ by $S-0.5$) z-statistic can be used:
+
+\begin{equation}
+Z=\dfrac{S-E(S)}{\sqrt{V(S)}}= \dfrac{(S-0.5m - 0.5 sign(n_+-n_-))}{\sqrt{(0.5)(0.5)m}}
+\end{equation}
+
+with $E(S)$ and $V(S)$ respectively the expected value and the variance, ($V(S)=E(S^2)-(E(S))^2$)of the random variable S, m the number of elements, $n_{+}$ and $n_{-}$ respectively the number of positive and negative differences from the hypothesized median value.
+
+This statistic follows a normal distribution Z~Norm(0, 1), if the null hypothesis is true. 
+
+The p-value can thus be defined, for large data sets:
+
+\begin{equation}
+p = 2 \text{Pr}\left[X \geq Z\right]
+\end{equation}
+
+and we again reject the null hypothesis $H_0$ if \textit{p} is smaller or equal to a considered significance threshold $\alpha$.
+
+\subsection{Wilcoxon signed rank-sum tests}
 \label{subsec:subbsectionC}
 
-\subsection{Sign-tests}
+Wilcoxon signed rank-sum tests are non-parametric tests used when collected data samples $(y_{11},...,y_{n1})$ and $(y_{12},...,y_{n2})$ is expected to be dependent, that is, data is \textit{paired}.
+
+As for the last test, the only assumption here is that data is collected independently from a continuous distribution.
+
+Fist, for the n sized data set, we compute the within-individual differences, for $i=1,...,n$, $x_i = y_{i1} - y_{i2}$ and discard any data point for which $x_i=0$, adjusting the sample size - let's call it $m$.
+
+Then, the absolute values of $x_1,...,x_m$ are sorted into ascending order, and labelled with a rank from 1 to $m$. In the case of ties, average ranks are given.
+
+Next, we define two rank sums:
+
+$T_+ =$ Sum of ranks for which $x_i>0$
+
+$T_-$ = Sum of ranks for which $x_i<0$
+
+The null hypothesis is then posed:
+
+\begin{center}
+$H_0$: No change between the two measurements
+\end{center} 
+
+and put against three alternative hypothesis: $H_a(1)$ significant decrease, $H_a(2)$ significant increase and $H_a(3)$ significant change between the two measurements.
+
+Critical $T_0$ values are tabled. If $T_- \leq T_0$, we reject $H_0$ in favour of $H_a(1)$; if $T_+ \leq T_0$, we reject $H_0$ in favour of $H_a(2)$; and finally, with a two-sided test with $T=min(T_-, T_+)$, if  $T \leq T_0$, we reject $H_0$ in favour of $H_a(3)$.
+
+For large sample tests, as is the case, the algorithm uses a Z statistic:
+
+\begin{equation}
+Z = \dfrac{T_+ - \dfrac{m(m+1)}{4}}{\sqrt{\dfrac{n(m+1)(2m+1)}{24}}}
+\end{equation}
+
+If $H_0$ is true, Z can be approximated by a normal distribution Z ~ Normal(0,1), with different tabled critical values for each of the alternative hypothesis tested with.
+
+In Matlab's algorithm, continuity correction and tie adjustments are also used, and the tests are carried in an analogous way.
+
+\subsection{N-way analysis of variance}
 \label{subsec:subcsectionC}
 
-\subsection{Multivariate comparisons}
+An n-way analysis of variance (ANOVA) is an extension on the one-way ANOVA. This conservative statistical tool examines the effect of n categorical independent variables on one continuous dependent variable. This results in not only an estimation of each categorical variable's influence but also assesses the influence of the interactions between these variables.
+
+A n-way ANOVA determines if a data set differs as a function of groups of n factors. A n-way ANOVA can be generalized from a two-way ANOVA. For 3 factors A, B and C, for example, a model can be written as:
+
+\begin{equation}
+y_{ijkr}=\mu + \alpha_i + \beta_j + \gamma_k +(\alpha \beta)_{ij}+(\beta \gamma)_{jk}+(\alpha \beta \gamma)_{ijk}+\epsilon_{ijkr}
+\end{equation}
+
+with $y_{ijkr}$, an observation of the response variable; $i$, $j$ and $k$ representing respectively groups from factors A, B and C and r the replication number; $\mu$ the overall mean; $\alpha_i$, $\beta_j$ and $\gamma_k$ respectively the deviations of groups of factor A, B or C from $\mu$ due to corresponding factors A, B or C. $\epsilon_{ijkr}$ are the random disturbances, assumed independent, normally distributed and with constant variance. The 2-way and 3-way interactions between factors are accounted for in the model, within the other terms of the model equation, respectively with two subscripts and three subscripts.
+
+A n-way ANOVA the tests 7 null versus alternative hypothesis:
+
+The hypothesis about the equality of the mean response for groups of factor A, with I the number of groups in A:
+
+\begin{center}
+$H_0=: \alpha_1=\alpha_2...=\alpha_I$
+
+$H_a:$ at least one $\alpha_i$ is different, $i=1,...,I$
+\end{center}
+
+and the equivalent analogous for factors B and C.
+
+The two-factors interaction hypothesis:
+
+\begin{center}
+
+$H_0$:$(\alpha \beta)_{ij}=0$
+
+$H_a$: at least one$(\alpha \beta)_{ij}\neq 0$
+
+\end{center}
+
+and the equivalent analogous for other two-factor interactions.
+
+Finally, the three-factor interaction hypothesis:
+
+\begin{center}
+$H_0$:$(\alpha \beta \gamma)_{ijk}=0$
+
+$H_a$: at least one$(\alpha \beta \gamma)_{ijk}\neq 0$
+\end{center}
+
+\subsection{Pearson correlation coefficients}
+\label{subsec:subcsectionC}
+
+Correlation coefficients between two random variables A and B measure their linear dependence. For N scalar observations from each variable, the Pearson correlation coefficient is given by:
+
+\begin{equation}
+\rho(A, B) = \dfrac{1}{N-1} \sum_{i=1}^N \left( \dfrac{A_i - \mu _A}{\sigma _A}\right) \left( \dfrac{B_i - \mu_B}{\sigma _B}\right)
+\end{equation}
+
+with $\mu_A$ and $\sigma_A$ the mean and standard deviation of A, and $\mu_A$ and $\sigma_A$ the mean and standard deviation of B.
+
+In matlab's algorithm, matrices of correlation coefficients are computed and the matrix of p-values for testing the null hypothesis that there is no relationship between the observed phenomena. If these p-values are smaller than the considered $\alpha$ threshold, the correlations are deemed significant.
+
+\subsection{Multiple linear regression}
+\label{subsec:subcsectionC}
+
+Linear regression models describe the relationship between a dependent variable $y$, and $K$ independent variable(s) $X$.
+
+A multiple linear regression model is given, for $i=1,...,n$, with n the number of responses, by:
+
+\begin{equation}
+y_i=\beta_0 + \beta_1 X_{i1}+...+\beta_p X_{ip}+\epsilon_i
+\end{equation}
+
+with $y_i$ the $ith$ response, $\beta_k$ the $k$th coefficient, $X_{ij}$ the \textit{i}th observation on the \textit{j}th independent variable, with $j=1,...,k$, and $\epsilon_i$ the random error term, assumed uncorrelated, independent and identically normal distributed. 
+
+It follows that the fitted linear function is given, for $i=1, ..., n$ by:
+
+\begin{equation}
+\hat{y_i}= \sum _{k=0}^K b_k f_k(X_{i1},...X{ip})
+\end{equation}
+
+with $f$ a scalar-valued function of the independent variables, and K the number of independent variables.
+\subsection{Permutation test}
+
+When interested on strong null hypothesis, permutation tests can be conducted for assessing sampling distributions. This test builds sampling distributions by resampling the observed data. This is done with no replacement, by simply eliminating the outcome labels on the original sample data and then randomly redistributing the observed values under those same labels. This shuffling process can be repeated to obtain a large number of resamples.
+Significance tests can then be used for the null hypothesis that these resample distributions do not differ from the original distribution.
+
+\subsection{Multivariate comparisons: Holm-Bonferroni method}
+
+Finally, in this work, many comparisons were held on different pools of the dataset. For this reason, the multiple comparisons problem needs to be accounted for: The more statistical inferences that are made simultaneously, the more likely it is for Type I error (false positive) inferences to be made. This issue steams from considering an overall confidence level for the whole set of simultaneous tests, while these threshold levels are to be considered individually. The controlled variable should be the familywise error rate (FWER), the probability of making one or more type-I errors, with a given significance level threshold, $FWER \leq \alpha$.
+
+To compensate for this problem in the multivariate comparisons held, the Holm-Bonferroni method was used to adjust the rejection thresholds for each individual tested hypotheses. 
+
+With $H_1,...,H_m$ a family of $m$ null hypothesis, and $p_1,...,p_m$ the corresponding p-values, we order the p values from lowest to highest $p_{(1)},...,p_{(m)}$, associated to the respective null hypothesis, $H_{(1)},...,H_{(m)}$.
+
+For an established $\alpha$ significance level threshold, we let $k$ be the minimal index such that $P_{(k)}> \dfrac{\alpha}{m+1-k}$. Then, we reject the null hypothesis $H_{(1)}...H_{(k-1)}$. If $k=1$, no null hypothesis is rejected, and if no such $k$ exists, all null hypothesis are rejected. This method ensures that $FWER \leq \alpha$ has intended to appropriately assess the joint multiple inferences.
