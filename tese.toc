@@ -123,9 +123,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {7.4.2}RF center positions and SM protocol center-only: all population and per animal}{72}{subsection.7.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.3}Comparisons between conditions}{74}{subsection.7.4.3}
+\contentsline {subsection}{\numberline {7.4.3}Comparisons between conditions}{75}{subsection.7.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.A}Surround number effect}{74}{subsubsection.7.4.3.1}
+\contentsline {subsubsection}{\numberline {7.4.3.A}Surround number effect}{75}{subsubsection.7.4.3.1}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {7.4.3.B}Surround position effect}{75}{subsubsection.7.4.3.2}
 \defcounter {refsection}{0}\relax 
@@ -141,14 +141,14 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {7.4.3.H}Interactions between surround orientation alignment, surround-center relative orientation effects and center OS preference}{79}{subsubsection.7.4.3.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.I}Surround direction alignment effect (direction and position)}{81}{subsubsection.7.4.3.9}
+\contentsline {subsubsection}{\numberline {7.4.3.I}Surround direction alignment effect (direction and position)}{80}{subsubsection.7.4.3.9}
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {7.4.3.J}Surround and center relative direction effect}{81}{subsubsection.7.4.3.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.K}Interactions between direction alignment, surround-center relative direction effects and center DS preference}{82}{subsubsection.7.4.3.11}
+\contentsline {subsubsection}{\numberline {7.4.3.K}Interactions between direction alignment, surround-center relative direction effects and center DS preference}{81}{subsubsection.7.4.3.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Discussion and Conclusions}{83}{chapter.8}
+\contentsline {chapter}{\numberline {8}Discussion and Conclusions}{82}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{87}{section*.79}
+\contentsline {chapter}{Bibliography}{A-1}{section*.78}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Appendix \numberline {A}Title of AppendixA}{A-1}{appendix.A}
