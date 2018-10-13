@@ -592,6 +592,52 @@
       \endverb
       \keyw{Intrinsic signal optical imaging,Monkey,Temporal resolution,V1,Visual cortex}
     \endentry
+    \entry{Zepeda2004}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8e920ab909f0ec4d1d164307ac2ca38f}{%
+           family={Zepeda},
+           familyi={Z\bibinitperiod},
+           given={Angelica},
+           giveni={A\bibinitperiod}}}%
+        {{hash=da42e705d9cb95fd4af1ac032e6b739a}{%
+           family={Arias},
+           familyi={A\bibinitperiod},
+           given={Clorinda},
+           giveni={C\bibinitperiod}}}%
+        {{hash=80a8cbfce712bc7c98f53cfb7a9d6ce0}{%
+           family={Sengpiel},
+           familyi={S\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{ebb79933c7f9f363f457d719edbe5009}
+      \strng{fullhash}{4bd9e465d7d69194a465600d74cc7d22}
+      \strng{bibnamehash}{4bd9e465d7d69194a465600d74cc7d22}
+      \strng{authorbibnamehash}{4bd9e465d7d69194a465600d74cc7d22}
+      \strng{authornamehash}{ebb79933c7f9f363f457d719edbe5009}
+      \strng{authorfullhash}{4bd9e465d7d69194a465600d74cc7d22}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Since optical imaging (OI) of intrinsic signals was first developed in the 1980s, significant advances have been made regarding our understanding of the origins of the recorded signals. The technique has been refined and the range of its applications has been broadened considerably. Here we review recent developments in methodology and data analysis as well as the latest findings on how intrinsic signals are related to metabolic cost and electrophysiological activity in the brain. We give an overview of what optical imaging has contributed to our knowledge of the functional architecture of sensory cortices, their development and plasticity. Finally, we discuss the utility of OI for functional studies of the human brain as well as in animal models of neuropathology. {©} 2004 Elsevier B.V. All rights reserved.}
+      \field{isbn}{0165-0270 (Print)}
+      \field{issn}{01650270}
+      \field{journaltitle}{Journal of Neuroscience Methods}
+      \field{number}{1}
+      \field{title}{{Optical imaging of intrinsic signals: Recent developments in the methodology and its applications}}
+      \field{volume}{136}
+      \field{year}{2004}
+      \field{pages}{1\bibrangedash 21}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1016/j.jneumeth.2004.02.025
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/Asus/Desktop/Disserta{\c{c}}{\~{a}}o/Thesis' Papers/Zepeda2004.pdf:pdf
+      \endverb
+      \keyw{Development,Event-related,Fourier analysis,Functional architecture,Intrinsic signals,Optical imaging,Plasticity}
+    \endentry
     \entry{Lin2016}{article}{}
       \name{author}{2}{}{%
         {{hash=97a5238494281bf7bd08e33f0ecd61e2}{%
@@ -811,6 +857,7 @@
     \endentry
   \enddatalist
   \missing{9Marques2018kk}
+  \missing{??}
   \missing{Adesnik2012}
   \missing{Allman1985}
   \missing{Anderson2009}
@@ -873,7 +920,6 @@
   \missing{Petrov2006}
   \missing{Polat1998}
   \missing{Roberts2007}
-  \missing{SManisotropy}
   \missing{Sceniak1999}
   \missing{Sceniak2001}
   \missing{Schmidt1997}

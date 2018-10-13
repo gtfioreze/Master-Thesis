@@ -4,49 +4,48 @@
 \chapter{Discussion and Conclusions}
 \label{cap:conclusions}
 
+For this study, two main components were sequenced: a software-development and hardware implementation technical process for developing stimuli presentation protocols with the open access system Bpod, followed by an experimental and analytical study that exploited those tools to investigate surround modulation spatial structure with moving stimuli.
 
-\section{Surround modulation remaining questions and project's plan} \label{Plan}
+The first part produced three protocols - RF mapping; direction, size and frequencies tuning assessment; and SM spatial structure study - that were validated through experiments and correspondent analysis. In this way, a flexible, synchronized and reliable system was put in place for stimuli gratings display protocols, under multiple adaptable configurations.
 
-\begin{itemize}
-\item Summarize process and important findings and contributions
-\item Compare to monkeys findings
-\item Compare to mice findings
-\item Put at the perspective of Tiago's work
-\item Put at the perspective of efficient encoding
-\item Put at the perspective of statistical predominances in the visual world (development?)
-\item highlight relevance for the field
-\item future directions: more data, systematic analysis, optimization of the stimulus size, more animals to do animal specific analysis
-\end{itemize}
+The second part of the project entailed tackling a broad question on the visual perception process of surround modulation, on mice: Are the SM effects on V1 cells' responses dependent on the surround stimulation position, quantity of surround patches, stimuli characteristics such as direction or orientation, the cell's tuning preference, meaningful combinations of these and/or interactions?
 
+For this, TPLSM was used on GCaMP6s expressing transgenic Thy1-mice. Multiple configurations of stimuli on center and surround patches of moving gratings were presented to the subjects, and the responses were analysed, assessed per individual cell and then as a population.
 
-Build on(From project meft):
+This method and animal model enabled recordings of large datasets of cell fluorescence traces with varied selectivity characteristics. In this way, statistical comparisons between surround modulatory effects were made possible.
 
-In a cell, SM might not be isotropic and furthermore, its anisotropy may depend on the stimulus' nature, in general or relative to the regarded neuron's selectivity. However, most previous experiments on SM have been devised with circular stimuli varying in radius, assuming the effect's isotropy. The present project proposes to tackle the possible anisotropy itself.
+The approach was to assess question-targeted effects: Number of surround patches, surround orientation, direction, intuitive combinations of these and then move to testing the effects with regards to the center stimulus movement direction or orientation, as well as it's direction selectivity or orientation selectivity. Interactions between sets of these effects were also evaluated with statistical testing.
 
-Furthermore, so far, studies have mostly regarded individual neuron's SM properties in cat or monkey subjects. In mice, neurons with the same orientation selectivity do not lie in the same column. Neurons with different tunings are mixed. Since this thesis task will be conducted in mice, we can thus regard multiple neurons with different tunings at once, in a more complete approach.
+First, we found that the majority of surround modulated cell responses, across conditions, were suppressed. This was consistent with other SM studies across species and stimuli configurations, for the expanding circle method, the annulus method and for surround static bars (for a review, \cite{Angelucci2014}; \cite{Samonds2017}). 
 
-A recent procedure has also been done with differently localized patches of gratings in the surround \cite{SManisotropy}. However, this was conducted with static stimuli, and was furthermore executed with limited stimuli configurations. Besides using moving gratings, this project's aim is to produce an extensive study on a multitude of neurons, tunings, and stimuli configurations: Only in this way can we pursue the finding of a set of more generalized and integral SM spatial structure rules.
+With single-cell analysis, we observed that different cells could have very different surround modulatory behaviour across various stimuli conditions. To acess the structure of such differential effects, we required population analyses.
 
-Having these objectives in mind, experimental and analytical steps will comprise, for each mouse: 
-\begin{enumerate}
-    \item Imaging large populations of neurons (>1000).
-    \item Measuring the neurons' receptive fields. These will be different from cell to cell. 
-    \item Suiting the larger possible number of neurons, appropriate stimulus RF and surround sizes will be fixed. Only the neurons whose receptive field does not intersect the stimuli surround will be analyzed.
-    \item A central stimulus will be presented. This stimulus will be a moving grating that can have 4 different cardinal directions, thus exciting different neurons, according to their selectivities. First recordings will be for only this center stimuli (4 possibilities).
-    
-    \item For each of these RF's stimuli displays, small patches of moving gratings will be simultaneously presented in the surround, under a variety of configurations:
-    
-        \subitem{Only one patch, that can be presented in 4 angular positions of the ring-shaped surround (N, E, S, W). For each of these locations, surround gratings' will have the two directions and 2 orthogonal orientations (64 possibilities).}
-        
-        \subitem{Two patches located around the surround. These can be located in a vertical or horizontal direction line. For each of these configurations, the patches grating can further be with the same orientation or with opposite directions - no other relative orientation will be presented (16 possibilities).}
-    
-    \item Control recordings will also be operated only with surround gratings, to ensure that these are not directly driving the neuron and are by definition displayed in the surround (16 possibilities).
-        
-    \item The large population of neurons' responses will then be analyzed, for each of these 100 possible configurations. Comparison across neurons and across configurations will then take place, as to produce a set of SM spatial structure rules and discover possible diversity and asymmetries in neurons' responses to stimuli. 
-    
+This experiment's stimuli architecture enabled us to first-hand assess the effect of having two surround patches versus only one surround patch on the center responses. We obtained that, on average, the effect of having two surround patches was significantly and substantially more suppressive than the effect of having a single surround. Moreover, across subsequent comparisons done for the one surround patch condition and the two surround patch condition, we qualitatively found that SM effects across given stimuli configuration condition comparisons were more pronouncedly different when we assessed them over the double surround condition than on the single surround condition.
 
-\end{enumerate}
+The third prevalent finding, was regarding the surround position: For the horizontal axis, we found, with significance, that left surround patches suppressed more than right surround patches, and that this asymmetry was irrespective of the distance between the RF center and the surround patch. This was also never before reported either in other species or in mice. A distance effect was observed as well on this axis, with the distance between RF center and surround being linearly proportional to the corresponding SM effect, with significance.
 
-Conclusions Chapter
+Regarding the surround direction effect, we also found a small significant effect of higher suppression when the surround patches were going nasally than when these were going temporally. On accounts to the surround orientation effect, we found that stronger suppression happened when stimuli was vertical over when it was horizontal.
+
+Pooling across the effects of surround position and surround orientation, we could compare the colinear versus flanking conditions (surround orientation alignment effect). Here we found a large significant effect of higher suppression for the colinear condition over the flanking condition. This comparison had been previously assessed in mouse V1, for static bars (\cite{Samonds2017}), showing that there were cells that were as suppressed by colinear bars as they were by flanking bars, as well as cells more suppressed by colinear stimuli (end-inhibited) and cells more suppressed by flanking stimuli (side-inhibited). However, no differential effect was reported favoring one group over the other in regards to SM strenght and prevalence. This could be due to \cite{Samonds2017} study's lower statistical power (total sample size $n=128$) and/or different stimuli settings. In monkey, for static stimuli, this effect had also been found (\cite{??}).
+
+We then pooled conditions to regard the effect of center and surround relative orientations. We found a significant and high effect of more suppression for iso-oriented stimuli than for cross-oriented surround-center stimuli. This reproduced a result obtained with isotropic stimuli in mice V1(\cite{Self2014}). Notably, our result held for when assessing the effect on OS cells, for which the preferred direction was the one at the center patch and for which the antipreferred direction was being shown at the center. This showed that iso-oriented suppression is more prevalent, regardless of the cell's orientation preference.
+
+At this point, we investigated the interactions between these orientation alignment and surround-center relative orientation effects, and found that the data variance was explained by the alignment, by a larger extent, but also by the relative orientation. The interaction between the two effects was also of significance in explaining the data's variance.
+
+We followed with the analysis of the effects of combinations over the three factor conditions: orientation alignment, relative orientation and cell's preferred orientation. We found that suppression was significantly higher when stimuli were presented in the anti-preferred orientation than when presented in the preferred orientation. This effect explained most of the data variance, followed by the alignment effect and the angle effect. Interactions also significantly explained data's variance:??.
+
+We also regarded the effects that combined with the direction of the surround effect. For the direction alignment, we found that suppression was slightly but significantly higher when surround stimuli gratings moved in the direction towards the center, then when these moved outwards the center.
+
+Interestingly, when we regarded the surround-center relative direction effect, we found no significant effect comparing the conditions when the same stimulus direction was in the surround and in the center versus when these stimuli were moving in the opposite directions. This was unexpected, considering the overall trend of higher suppression for most uniform similar stimuli over dissimilar stimuli, and the high number of points pooled for this comparison.
+
+Then we regarded the combinations of direction alignment and relative direction effects, and were able to extract that when center and surround go in the same directions, the condition of surround going towards the center suppresses significantly more than the condition of surround going outwards the center, and to a higher degree than when pooling across same and opposite center-surround directions. We further assessed if this effect depended on the direction selectivity preferrence of the cells, and while the same assymetry held for when the center was in the preferred direction, there was no significance to that result in the case of the anti-preferred direction, meaning that we cannot reject the hypothesis of this assymetry depending on the neuron's preferrence.
+
+%Conv div after bonferroni
+
+In this way, we did find that SM effect is nonuniform: It is assymetric, depending on the center direction and orientation, the surround directions, orientations and position as well as on combinations thereof. 
+
+Within the field, these results can be used to further restrain computational models on surround modulation circuits and, with data mostly showing an overall rule of \textit{similar supresses more}, these findings could be in accordance to object segmentation functions and efficient encoding strategies. Moreover, the asymmetries in the effects could be related to the feedback connections' bias assymetries found in \cite{Marques2018}. Furthermore, the anisotropic position effect, the direction and the orientation effects could be further explored with developmental studies to assess if and how the origin of these asymmetries is related to the animal's learnings over the statistics of the experienced world.
+
+Overall, this study adds to the established idea that vision and perception are contextual effects: In this work's scope, a global spatial integration is shown to be computed in a given structured way, with asymetric nonuniform rules, amounting to a complex surround modulation effect. This complexity and nonuniformity are fundamentally ingrained as neuronal non-agnostic mechanisms that ultimately deliver an extraordinarily efficient visual percept.
 
 \cleardoublepage

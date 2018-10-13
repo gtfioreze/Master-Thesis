@@ -1,110 +1,111 @@
-[2] Config.pm:302> INFO - This is Biber 2.11
-[2] Config.pm:305> INFO - Logfile is 'tese.blg'
-[161] biber-MSWIN64:313> INFO - === 
-[313] Biber.pm:371> INFO - Reading 'tese.bcf'
-[910] Biber.pm:857> INFO - Found 103 citekeys in bib section 0
-[997] Biber.pm:3976> INFO - Processing section 0
-[1079] Biber.pm:4136> INFO - Looking for bibtex format file '02.biblio.bib' for section 0
-[1209] bibtex.pm:1500> INFO - LaTeX decoding ...
-[1726] bibtex.pm:1316> INFO - Found BibTeX data source '02.biblio.bib'
-[1895] Utils.pm:193> WARN - ISBN '0022-3751 (Print)' in entry 'Hubel1959' is invalid - run biber with '--validate_datamodel' for details.
-[2007] Utils.pm:193> WARN - ISBN '1878-5646 (Electronic)$\backslash$r0042-6989 (Linking)' in entry 'Nurminen2014' is invalid - run biber with '--validate_datamodel' for details.
-[2278] Utils.pm:193> WARN - ISBN '0028-0836 (Print)$\backslash$r0028-0836 (Linking)' in entry 'Grinvald1986' is invalid - run biber with '--validate_datamodel' for details.
-[2344] Utils.pm:193> WARN - ISBN '1546-1726 (Electronic)$\backslash$r1097-6256 (Linking)' in entry 'Lin2016' is invalid - run biber with '--validate_datamodel' for details.
-[2443] Utils.pm:193> WARN - ISBN '0028-0836' in entry 'Chen2013' is invalid - run biber with '--validate_datamodel' for details.
-[2509] Utils.pm:193> WARN - ISBN '1932-6203 (Electronic)$\backslash$r1932-6203 (Linking)' in entry 'Dana2014' is invalid - run biber with '--validate_datamodel' for details.
-[2529] Utils.pm:193> WARN - I didn't find a database entry for 'Hubel1965' (section 0)
-[2530] Utils.pm:193> WARN - I didn't find a database entry for 'Bergh2010' (section 0)
-[2530] Utils.pm:193> WARN - I didn't find a database entry for 'Blakemore1972' (section 0)
-[2531] Utils.pm:193> WARN - I didn't find a database entry for 'Cavanaugh2002a' (section 0)
-[2532] Utils.pm:193> WARN - I didn't find a database entry for 'Chubb1989' (section 0)
-[2533] Utils.pm:193> WARN - I didn't find a database entry for 'Cannon1991' (section 0)
-[2533] Utils.pm:193> WARN - I didn't find a database entry for 'Meese2004' (section 0)
-[2534] Utils.pm:193> WARN - I didn't find a database entry for 'Nurminen2009' (section 0)
-[2535] Utils.pm:193> WARN - I didn't find a database entry for 'McIlwain1964' (section 0)
-[2536] Utils.pm:193> WARN - I didn't find a database entry for 'Solomon2006' (section 0)
-[2536] Utils.pm:193> WARN - I didn't find a database entry for 'Allman1985' (section 0)
-[2537] Utils.pm:193> WARN - I didn't find a database entry for 'Desimone1987' (section 0)
-[2538] Utils.pm:193> WARN - I didn't find a database entry for 'Born2005' (section 0)
-[2538] Utils.pm:193> WARN - I didn't find a database entry for 'Maffei1976' (section 0)
-[2539] Utils.pm:193> WARN - I didn't find a database entry for 'Gilbert1977' (section 0)
-[2540] Utils.pm:193> WARN - I didn't find a database entry for 'Nelson1978' (section 0)
-[2540] Utils.pm:193> WARN - I didn't find a database entry for 'Sceniak2001' (section 0)
-[2541] Utils.pm:193> WARN - I didn't find a database entry for 'Angelucci2013' (section 0)
-[2542] Utils.pm:193> WARN - I didn't find a database entry for 'Angelucci2014' (section 0)
-[2542] Utils.pm:193> WARN - I didn't find a database entry for 'Levitt2002' (section 0)
-[2543] Utils.pm:193> WARN - I didn't find a database entry for 'Shushruth2009' (section 0)
-[2544] Utils.pm:193> WARN - I didn't find a database entry for 'Polat1998' (section 0)
-[2544] Utils.pm:193> WARN - I didn't find a database entry for 'Chen2001' (section 0)
-[2545] Utils.pm:193> WARN - I didn't find a database entry for 'Ichida2007' (section 0)
-[2546] Utils.pm:193> WARN - I didn't find a database entry for 'Shushruth2012' (section 0)
-[2546] Utils.pm:193> WARN - I didn't find a database entry for 'Muller2003' (section 0)
-[2547] Utils.pm:193> WARN - I didn't find a database entry for 'Henry2013' (section 0)
-[2548] Utils.pm:193> WARN - I didn't find a database entry for 'Bair2003' (section 0)
-[2548] Utils.pm:193> WARN - I didn't find a database entry for 'deAngelis1994' (section 0)
-[2549] Utils.pm:193> WARN - I didn't find a database entry for 'Li1994' (section 0)
-[2550] Utils.pm:193> WARN - I didn't find a database entry for 'Sengpiel1997' (section 0)
-[2550] Utils.pm:193> WARN - I didn't find a database entry for 'Walker1999' (section 0)
-[2551] Utils.pm:193> WARN - I didn't find a database entry for 'Webb2005' (section 0)
-[2552] Utils.pm:193> WARN - I didn't find a database entry for 'Self2014' (section 0)
-[2552] Utils.pm:193> WARN - I didn't find a database entry for 'Knierim1992' (section 0)
-[2553] Utils.pm:193> WARN - I didn't find a database entry for 'Nothdurft2000' (section 0)
-[2554] Utils.pm:193> WARN - I didn't find a database entry for 'Lamme1995' (section 0)
-[2554] Utils.pm:193> WARN - I didn't find a database entry for 'Kapadia1995' (section 0)
-[2555] Utils.pm:193> WARN - I didn't find a database entry for 'Field2013' (section 0)
-[2556] Utils.pm:193> WARN - I didn't find a database entry for 'Vinje2000' (section 0)
-[2556] Utils.pm:193> WARN - I didn't find a database entry for 'Wolf2014' (section 0)
-[2557] Utils.pm:193> WARN - I didn't find a database entry for 'Pecka2014' (section 0)
-[2558] Utils.pm:193> WARN - I didn't find a database entry for 'Barlow1961' (section 0)
-[2558] Utils.pm:193> WARN - I didn't find a database entry for 'Sceniak1999' (section 0)
-[2559] Utils.pm:193> WARN - I didn't find a database entry for 'Sushruth2013' (section 0)
-[2560] Utils.pm:193> WARN - I didn't find a database entry for 'Wertheimer1958' (section 0)
-[2560] Utils.pm:193> WARN - I didn't find a database entry for 'Petrov2006' (section 0)
-[2560] Utils.pm:193> WARN - I didn't find a database entry for 'Angelucci2002' (section 0)
-[2561] Utils.pm:193> WARN - I didn't find a database entry for 'Angelucci2006' (section 0)
-[2561] Utils.pm:193> WARN - I didn't find a database entry for 'Nurminem2014' (section 0)
-[2562] Utils.pm:193> WARN - I didn't find a database entry for 'Heeger1992' (section 0)
-[2562] Utils.pm:193> WARN - I didn't find a database entry for 'Carandini2012' (section 0)
-[2562] Utils.pm:193> WARN - I didn't find a database entry for 'Bosking1997' (section 0)
-[2563] Utils.pm:193> WARN - I didn't find a database entry for 'Malach1993' (section 0)
-[2563] Utils.pm:193> WARN - I didn't find a database entry for 'Schmidt1997' (section 0)
-[2564] Utils.pm:193> WARN - I didn't find a database entry for 'Sincich2001' (section 0)
-[2564] Utils.pm:193> WARN - I didn't find a database entry for 'Gilbert1996' (section 0)
-[2565] Utils.pm:193> WARN - I didn't find a database entry for 'Anderson2009' (section 0)
-[2565] Utils.pm:193> WARN - I didn't find a database entry for 'Girard2001' (section 0)
-[2565] Utils.pm:193> WARN - I didn't find a database entry for 'Nurminem2018' (section 0)
-[2566] Utils.pm:193> WARN - I didn't find a database entry for 'McAdams2005' (section 0)
-[2566] Utils.pm:193> WARN - I didn't find a database entry for 'Sundberg2009' (section 0)
-[2566] Utils.pm:193> WARN - I didn't find a database entry for 'Roberts2007' (section 0)
-[2567] Utils.pm:193> WARN - I didn't find a database entry for 'Schwabe2010' (section 0)
-[2567] Utils.pm:193> WARN - I didn't find a database entry for 'Somers1998' (section 0)
-[2568] Utils.pm:193> WARN - I didn't find a database entry for 'Dragoi2000' (section 0)
-[2568] Utils.pm:193> WARN - I didn't find a database entry for 'Dreher1972' (section 0)
-[2568] Utils.pm:193> WARN - I didn't find a database entry for 'Born1991' (section 0)
-[2569] Utils.pm:193> WARN - I didn't find a database entry for 'Heitger1992' (section 0)
-[2569] Utils.pm:193> WARN - I didn't find a database entry for 'Barth2000' (section 0)
-[2570] Utils.pm:193> WARN - I didn't find a database entry for 'Field1993' (section 0)
-[2570] Utils.pm:193> WARN - I didn't find a database entry for 'Adesnik2012' (section 0)
-[2570] Utils.pm:193> WARN - I didn't find a database entry for 'Nienborg2013' (section 0)
-[2571] Utils.pm:193> WARN - I didn't find a database entry for 'TopDown' (section 0)
-[2571] Utils.pm:193> WARN - I didn't find a database entry for '9Marques2018kk' (section 0)
-[2572] Utils.pm:193> WARN - I didn't find a database entry for 'Verkhratsky2006' (section 0)
-[2572] Utils.pm:193> WARN - I didn't find a database entry for 'Cohen1973' (section 0)
-[2572] Utils.pm:193> WARN - I didn't find a database entry for 'Villringer1995' (section 0)
-[2573] Utils.pm:193> WARN - I didn't find a database entry for 'Grinvald1986)' (section 0)
-[2573] Utils.pm:193> WARN - I didn't find a database entry for 'Frostig1990' (section 0)
-[2574] Utils.pm:193> WARN - I didn't find a database entry for 'Vanzetta1999' (section 0)
-[2574] Utils.pm:193> WARN - I didn't find a database entry for 'HillKeynes1949' (section 0)
-[2575] Utils.pm:193> WARN - I didn't find a database entry for 'Hubel1968' (section 0)
-[2575] Utils.pm:193> WARN - I didn't find a database entry for 'Girman1999' (section 0)
-[2575] Utils.pm:193> WARN - I didn't find a database entry for 'Ohki2005' (section 0)
-[2576] Utils.pm:193> WARN - I didn't find a database entry for 'Mazurek2014' (section 0)
-[2576] Utils.pm:193> WARN - I didn't find a database entry for 'Whichpapershowsthis?' (section 0)
-[2576] Utils.pm:193> WARN - I didn't find a database entry for 'SManisotropy' (section 0)
-[2674] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2674] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2675] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[2675] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
-[2774] bbl.pm:617> INFO - Writing 'tese.bbl' with encoding 'UTF-8'
-[2829] bbl.pm:720> INFO - Output to tese.bbl
-[2957] Biber.pm:110> INFO - WARNINGS: 94
+[0] Config.pm:302> INFO - This is Biber 2.11
+[0] Config.pm:305> INFO - Logfile is 'tese.blg'
+[45] biber-MSWIN64:313> INFO - === 
+[89] Biber.pm:371> INFO - Reading 'tese.bcf'
+[256] Biber.pm:857> INFO - Found 104 citekeys in bib section 0
+[285] Biber.pm:3976> INFO - Processing section 0
+[306] Biber.pm:4136> INFO - Looking for bibtex format file '02.biblio.bib' for section 0
+[462] bibtex.pm:1500> INFO - LaTeX decoding ...
+[875] bibtex.pm:1316> INFO - Found BibTeX data source '02.biblio.bib'
+[1086] Utils.pm:193> WARN - ISBN '0022-3751 (Print)' in entry 'Hubel1959' is invalid - run biber with '--validate_datamodel' for details.
+[1199] Utils.pm:193> WARN - ISBN '1878-5646 (Electronic)$\backslash$r0042-6989 (Linking)' in entry 'Nurminen2014' is invalid - run biber with '--validate_datamodel' for details.
+[1478] Utils.pm:193> WARN - ISBN '0028-0836 (Print)$\backslash$r0028-0836 (Linking)' in entry 'Grinvald1986' is invalid - run biber with '--validate_datamodel' for details.
+[1561] Utils.pm:193> WARN - ISBN '0165-0270 (Print)' in entry 'Zepeda2004' is invalid - run biber with '--validate_datamodel' for details.
+[1587] Utils.pm:193> WARN - ISBN '1546-1726 (Electronic)$\backslash$r1097-6256 (Linking)' in entry 'Lin2016' is invalid - run biber with '--validate_datamodel' for details.
+[1695] Utils.pm:193> WARN - ISBN '0028-0836' in entry 'Chen2013' is invalid - run biber with '--validate_datamodel' for details.
+[1779] Utils.pm:193> WARN - ISBN '1932-6203 (Electronic)$\backslash$r1932-6203 (Linking)' in entry 'Dana2014' is invalid - run biber with '--validate_datamodel' for details.
+[1799] Utils.pm:193> WARN - I didn't find a database entry for 'Hubel1965' (section 0)
+[1799] Utils.pm:193> WARN - I didn't find a database entry for 'Bergh2010' (section 0)
+[1800] Utils.pm:193> WARN - I didn't find a database entry for 'Blakemore1972' (section 0)
+[1800] Utils.pm:193> WARN - I didn't find a database entry for 'Cavanaugh2002a' (section 0)
+[1801] Utils.pm:193> WARN - I didn't find a database entry for 'Chubb1989' (section 0)
+[1801] Utils.pm:193> WARN - I didn't find a database entry for 'Cannon1991' (section 0)
+[1802] Utils.pm:193> WARN - I didn't find a database entry for 'Meese2004' (section 0)
+[1802] Utils.pm:193> WARN - I didn't find a database entry for 'Nurminen2009' (section 0)
+[1803] Utils.pm:193> WARN - I didn't find a database entry for 'McIlwain1964' (section 0)
+[1804] Utils.pm:193> WARN - I didn't find a database entry for 'Solomon2006' (section 0)
+[1805] Utils.pm:193> WARN - I didn't find a database entry for 'Allman1985' (section 0)
+[1805] Utils.pm:193> WARN - I didn't find a database entry for 'Desimone1987' (section 0)
+[1806] Utils.pm:193> WARN - I didn't find a database entry for 'Born2005' (section 0)
+[1807] Utils.pm:193> WARN - I didn't find a database entry for 'Maffei1976' (section 0)
+[1808] Utils.pm:193> WARN - I didn't find a database entry for 'Gilbert1977' (section 0)
+[1808] Utils.pm:193> WARN - I didn't find a database entry for 'Nelson1978' (section 0)
+[1809] Utils.pm:193> WARN - I didn't find a database entry for 'Sceniak2001' (section 0)
+[1810] Utils.pm:193> WARN - I didn't find a database entry for 'Angelucci2013' (section 0)
+[1810] Utils.pm:193> WARN - I didn't find a database entry for 'Angelucci2014' (section 0)
+[1811] Utils.pm:193> WARN - I didn't find a database entry for 'Levitt2002' (section 0)
+[1812] Utils.pm:193> WARN - I didn't find a database entry for 'Shushruth2009' (section 0)
+[1812] Utils.pm:193> WARN - I didn't find a database entry for 'Polat1998' (section 0)
+[1813] Utils.pm:193> WARN - I didn't find a database entry for 'Chen2001' (section 0)
+[1814] Utils.pm:193> WARN - I didn't find a database entry for 'Ichida2007' (section 0)
+[1814] Utils.pm:193> WARN - I didn't find a database entry for 'Shushruth2012' (section 0)
+[1815] Utils.pm:193> WARN - I didn't find a database entry for 'Muller2003' (section 0)
+[1816] Utils.pm:193> WARN - I didn't find a database entry for 'Henry2013' (section 0)
+[1816] Utils.pm:193> WARN - I didn't find a database entry for 'Bair2003' (section 0)
+[1817] Utils.pm:193> WARN - I didn't find a database entry for 'deAngelis1994' (section 0)
+[1818] Utils.pm:193> WARN - I didn't find a database entry for 'Li1994' (section 0)
+[1819] Utils.pm:193> WARN - I didn't find a database entry for 'Sengpiel1997' (section 0)
+[1819] Utils.pm:193> WARN - I didn't find a database entry for 'Walker1999' (section 0)
+[1819] Utils.pm:193> WARN - I didn't find a database entry for 'Webb2005' (section 0)
+[1820] Utils.pm:193> WARN - I didn't find a database entry for 'Self2014' (section 0)
+[1820] Utils.pm:193> WARN - I didn't find a database entry for 'Knierim1992' (section 0)
+[1821] Utils.pm:193> WARN - I didn't find a database entry for 'Nothdurft2000' (section 0)
+[1821] Utils.pm:193> WARN - I didn't find a database entry for 'Lamme1995' (section 0)
+[1821] Utils.pm:193> WARN - I didn't find a database entry for 'Kapadia1995' (section 0)
+[1822] Utils.pm:193> WARN - I didn't find a database entry for 'Field2013' (section 0)
+[1822] Utils.pm:193> WARN - I didn't find a database entry for 'Vinje2000' (section 0)
+[1823] Utils.pm:193> WARN - I didn't find a database entry for 'Wolf2014' (section 0)
+[1823] Utils.pm:193> WARN - I didn't find a database entry for 'Pecka2014' (section 0)
+[1824] Utils.pm:193> WARN - I didn't find a database entry for 'Barlow1961' (section 0)
+[1824] Utils.pm:193> WARN - I didn't find a database entry for 'Sceniak1999' (section 0)
+[1825] Utils.pm:193> WARN - I didn't find a database entry for 'Sushruth2013' (section 0)
+[1825] Utils.pm:193> WARN - I didn't find a database entry for 'Wertheimer1958' (section 0)
+[1825] Utils.pm:193> WARN - I didn't find a database entry for 'Petrov2006' (section 0)
+[1826] Utils.pm:193> WARN - I didn't find a database entry for 'Angelucci2002' (section 0)
+[1826] Utils.pm:193> WARN - I didn't find a database entry for 'Angelucci2006' (section 0)
+[1827] Utils.pm:193> WARN - I didn't find a database entry for 'Nurminem2014' (section 0)
+[1827] Utils.pm:193> WARN - I didn't find a database entry for 'Heeger1992' (section 0)
+[1828] Utils.pm:193> WARN - I didn't find a database entry for 'Carandini2012' (section 0)
+[1828] Utils.pm:193> WARN - I didn't find a database entry for 'Bosking1997' (section 0)
+[1829] Utils.pm:193> WARN - I didn't find a database entry for 'Malach1993' (section 0)
+[1829] Utils.pm:193> WARN - I didn't find a database entry for 'Schmidt1997' (section 0)
+[1830] Utils.pm:193> WARN - I didn't find a database entry for 'Sincich2001' (section 0)
+[1830] Utils.pm:193> WARN - I didn't find a database entry for 'Gilbert1996' (section 0)
+[1830] Utils.pm:193> WARN - I didn't find a database entry for 'Anderson2009' (section 0)
+[1831] Utils.pm:193> WARN - I didn't find a database entry for 'Girard2001' (section 0)
+[1831] Utils.pm:193> WARN - I didn't find a database entry for 'Nurminem2018' (section 0)
+[1832] Utils.pm:193> WARN - I didn't find a database entry for 'McAdams2005' (section 0)
+[1832] Utils.pm:193> WARN - I didn't find a database entry for 'Sundberg2009' (section 0)
+[1832] Utils.pm:193> WARN - I didn't find a database entry for 'Roberts2007' (section 0)
+[1833] Utils.pm:193> WARN - I didn't find a database entry for 'Schwabe2010' (section 0)
+[1833] Utils.pm:193> WARN - I didn't find a database entry for 'Somers1998' (section 0)
+[1834] Utils.pm:193> WARN - I didn't find a database entry for 'Dragoi2000' (section 0)
+[1834] Utils.pm:193> WARN - I didn't find a database entry for 'Dreher1972' (section 0)
+[1835] Utils.pm:193> WARN - I didn't find a database entry for 'Born1991' (section 0)
+[1835] Utils.pm:193> WARN - I didn't find a database entry for 'Heitger1992' (section 0)
+[1836] Utils.pm:193> WARN - I didn't find a database entry for 'Barth2000' (section 0)
+[1836] Utils.pm:193> WARN - I didn't find a database entry for 'Field1993' (section 0)
+[1836] Utils.pm:193> WARN - I didn't find a database entry for 'Adesnik2012' (section 0)
+[1837] Utils.pm:193> WARN - I didn't find a database entry for 'Nienborg2013' (section 0)
+[1837] Utils.pm:193> WARN - I didn't find a database entry for 'TopDown' (section 0)
+[1838] Utils.pm:193> WARN - I didn't find a database entry for '9Marques2018kk' (section 0)
+[1838] Utils.pm:193> WARN - I didn't find a database entry for 'Verkhratsky2006' (section 0)
+[1838] Utils.pm:193> WARN - I didn't find a database entry for 'Cohen1973' (section 0)
+[1839] Utils.pm:193> WARN - I didn't find a database entry for 'Villringer1995' (section 0)
+[1839] Utils.pm:193> WARN - I didn't find a database entry for 'Grinvald1986)' (section 0)
+[1840] Utils.pm:193> WARN - I didn't find a database entry for 'Frostig1990' (section 0)
+[1840] Utils.pm:193> WARN - I didn't find a database entry for 'Vanzetta1999' (section 0)
+[1840] Utils.pm:193> WARN - I didn't find a database entry for 'HillKeynes1949' (section 0)
+[1841] Utils.pm:193> WARN - I didn't find a database entry for 'Hubel1968' (section 0)
+[1841] Utils.pm:193> WARN - I didn't find a database entry for 'Girman1999' (section 0)
+[1842] Utils.pm:193> WARN - I didn't find a database entry for 'Ohki2005' (section 0)
+[1842] Utils.pm:193> WARN - I didn't find a database entry for 'Mazurek2014' (section 0)
+[1842] Utils.pm:193> WARN - I didn't find a database entry for 'Whichpapershowsthis?' (section 0)
+[1843] Utils.pm:193> WARN - I didn't find a database entry for '??' (section 0)
+[1967] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1968] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1968] Biber.pm:3804> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1969] Biber.pm:3810> INFO - No sort tailoring available for locale 'en-US'
+[2068] bbl.pm:617> INFO - Writing 'tese.bbl' with encoding 'UTF-8'
+[2179] bbl.pm:720> INFO - Output to tese.bbl
+[2246] Biber.pm:110> INFO - WARNINGS: 95

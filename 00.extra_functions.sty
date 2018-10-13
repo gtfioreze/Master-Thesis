@@ -91,22 +91,22 @@
 \newcommand*{\chapnumfont}{%
 %   \usefont{T1}{\@defaultcnfont}{b}{n}\fontsize{100}{130}\selectfont%
   \usefont{T1}{pbk}{b}{n}
-  \fontsize{150}{130}
+  \fontsize{50}{20}
   \selectfont
   \color{chaptergrey}
 }
 \def\@makechapterhead#1{%
-  \vspace*{50\p@}%
+  %\vspace*{50\p@}%
   {\parindent \z@ \raggedright \normalfont
     {\chapnumfont\ifnum \c@secnumdepth >\m@ne
 %         \huge\bfseries \@chapapp\space \thechapter
-        \raggedleft\bfseries \thechapter
+        \center\bfseries \thechapter
         \par\nobreak
-        \vskip 20\p@
+        \vskip -10\p@
     \fi}
     \interlinepenalty\@M
-    {\raggedleft\Huge \bfseries #1\par\nobreak}
-    \vskip 40\p@
+    {\center\Huge \bfseries #1\par\nobreak}
+    \vskip 10\p@
   }}
 
 \newcommand{\fancychapter}[1]{\chapter{#1}\vfill\minitoc\pagebreak}

@@ -7,105 +7,105 @@
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Theoretical Introduction}{9}{chapter.2}
+\contentsline {xchapter}{Theoretical Introduction}{7}{chapter.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Response curves of a cell in V1 to high-contrast (black curve) and low-contrast (gray curve) as a function of the radius of displayed grating patch stimuli. The point of highest response at high-contrast is termed $sRF_{high}$ and the peak's corresponding size at low-contrast is termed $sRF_{low}$. The near surround is depicted in orange and the far surround in gray. Suppression arises in the near-surround and far-surround for high-contrast stimulation and on the other hand facilitation is evoked in the near surround and suppression in the far-surround for low-contrast gratings. \newline \newline \relax \fontsize {5}{6}\selectfont {Image from \cite {Angelucci2017}, adapted from experimental data tuning curves for macaque V1 in \cite {Shushruth2009}, at different contrast levels.}\relax }}{15}{figure.caption.8}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Response curves of a cell in V1 to high-contrast (black curve) and low-contrast (gray curve) as a function of the radius of displayed grating patch stimuli. The point of highest response at high-contrast is termed $sRF_{high}$ and the peak's corresponding size at low-contrast is termed $sRF_{low}$. The near surround is depicted in orange and the far surround in gray. Suppression arises in the near-surround and far-surround for high-contrast stimulation and on the other hand facilitation is evoked in the near surround and suppression in the far-surround for low-contrast gratings. \newline \newline \relax \fontsize {5}{6}\selectfont {Image from \cite {Angelucci2017}, adapted from experimental data tuning curves for macaque V1 in \cite {Shushruth2009}, at different contrast levels.}\relax }}{13}{figure.caption.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces The near and far components of SM and its hypothesized underlying circuits and functions. Coloured arrows indicate the different connections proposed to generate the different areas of V1 neurons - RF, near and far surround. In color code, the major functional possible roles of each connection type and surround component are presented. \newline \newline \relax \fontsize {5}{6}\selectfont {Image from \cite {Shushruth2013}.}\relax }}{16}{figure.caption.9}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces The near and far components of SM and its hypothesized underlying circuits and functions. Coloured arrows indicate the different connections proposed to generate the different areas of V1 neurons - RF, near and far surround. In color code, the major functional possible roles of each connection type and surround component are presented. \newline \newline \relax \fontsize {5}{6}\selectfont {Image from \cite {Shushruth2013}.}\relax }}{14}{figure.caption.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Basic architecture of \cite {Schwabe2006} recurrent network model. Different connection types are represented as color-coded arrows. Purple and black boxes represent excitatory (E) and inhibitory (I) V1 neurons in layers 2/3 and are labeled for center, near-surround and far-surround visual field representing neurons. $E_{FF}$ green boxes represent excitatory neurons in other V1 layers that relay feedforward signals the excitatory neurons in V1 layers 2/3. The $E_{FB}$ box represent excitatory neurons in extrastriate areas that project to V1 layers 2/3 excitatory neurons. The inhibitory neurons in V1 layers 2/3 only receive direct monosynaptic input from local excitatory neurons, via local recurrent connections (purple arrows) and from horizontal connections (red arrows). Icons at the bottom represent the different visual field areas that are stimulated when each respective submodule is consecutively activated (from left to right) by an expanding circular stimulus. \newline \newline \relax \fontsize {5}{6}\selectfont {Image from \cite {Schwabe2006}.}\relax }}{18}{figure.caption.10}
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Basic architecture of \cite {Schwabe2006} recurrent network model. Different connection types are represented as color-coded arrows. Purple and black boxes represent excitatory (E) and inhibitory (I) V1 neurons in layers 2/3 and are labeled for center, near-surround and far-surround visual field representing neurons. $E_{FF}$ green boxes represent excitatory neurons in other V1 layers that relay feedforward signals the excitatory neurons in V1 layers 2/3. The $E_{FB}$ box represent excitatory neurons in extrastriate areas that project to V1 layers 2/3 excitatory neurons. The inhibitory neurons in V1 layers 2/3 only receive direct monosynaptic input from local excitatory neurons, via local recurrent connections (purple arrows) and from horizontal connections (red arrows). Icons at the bottom represent the different visual field areas that are stimulated when each respective submodule is consecutively activated (from left to right) by an expanding circular stimulus. \newline \newline \relax \fontsize {5}{6}\selectfont {Image from \cite {Schwabe2006}.}\relax }}{16}{figure.caption.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Collinear versus lateral (flanking) stimulus conditions used in the recent nonuniformity study in mice V1. \newline \textbf {A}: The five stimulus conditions used to test the spatial organization of the SM phenomenon. \newline \textbf {B-D}: Behaviour of example neurons in each class of neurons: uniformly surround inhibited (B), end-inhibited (C), side-inhibited (D). In this study, colinear-facilitation was not detected, possibly due to the experimental particular settings and statistical power. \newline \newline \relax \fontsize {5}{6}\selectfont {Image from \cite {Samonds2017}.}\relax }}{20}{figure.caption.11}
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Collinear versus lateral (flanking) stimulus conditions used in the recent nonuniformity study in mice V1. \newline \textbf {A}: The five stimulus conditions used to test the spatial organization of the SM phenomenon. \newline \textbf {B-D}: Behaviour of example neurons in each class of neurons: uniformly surround inhibited (B), end-inhibited (C), side-inhibited (D). In this study, colinear-facilitation was not detected, possibly due to the experimental particular settings and statistical power. \newline \newline \relax \fontsize {5}{6}\selectfont {Image from \cite {Samonds2017}.}\relax }}{18}{figure.caption.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Feedback signals from LM to V1 could convey predictive information about a moving object, if we consider that their wiring is biased according to their own tuning. In this example, we consider direction selectivity tuning as the criteria for the feedback wiring. \newline \textbf {Top:} A stimulus (the cat) moving in a given direction (left to right) will activate neurons in V1 with that direction selectivity and with their receptive fields located at the corresponding region where the stimulus is in the subject's visual field at that time $t_0$ (left-side, blue labeled azimuth angle). \newline \textbf {Middle:} These DS left field-of-view corresponding neurons feedforward to neurons whose RF represents the same left-side location in the visual field. These would project back into V1 neurons corresponding to positions on the middle region (green-labeled azimuth angle) activated by the stimulus at $t_1$. \newline \textbf {Down: } These neurons, activated by the stimuli presentation in that visual field region, also connect retinotopically to LM cells with the same direction selectivity. Again, these project to the neurons corresponding to the RF position ahead (right-side, red-labeled azimuth angle), activated by the stimulus at $t_2$). \newline In this way, predictions on the next cat's position, as assumed by the direction it followed at previous times, could be relayed via feedback from LM to V1 neurons. \newline \newline \relax \fontsize {5}{6}\selectfont {Image from the presentation by the principal co-author of \cite {Marques2018}, Tiago Marques, under the Champalimaud Internal Seminar Series on October $15^{th}$ 2017, \textit {The functional organization of cortical feedback}.}\relax }}{21}{figure.caption.12}
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Feedback signals from LM to V1 could convey predictive information about a moving object, if we consider that their wiring is biased according to their own tuning. In this example, we consider direction selectivity tuning as the criteria for the feedback wiring. \newline \textbf {Top:} A stimulus (the cat) moving in a given direction (left to right) will activate neurons in V1 with that direction selectivity and with their receptive fields located at the corresponding region where the stimulus is in the subject's visual field at that time $t_0$ (left-side, blue labeled azimuth angle). \newline \textbf {Middle:} These DS left field-of-view corresponding neurons feedforward to neurons whose RF represents the same left-side location in the visual field. These would project back into V1 neurons corresponding to positions on the middle region (green-labeled azimuth angle) activated by the stimulus at $t_1$. \newline \textbf {Down: } These neurons, activated by the stimuli presentation in that visual field region, also connect retinotopically to LM cells with the same direction selectivity. Again, these project to the neurons corresponding to the RF position ahead (right-side, red-labeled azimuth angle), activated by the stimulus at $t_2$). \newline In this way, predictions on the next cat's position, as assumed by the direction it followed at previous times, could be relayed via feedback from LM to V1 neurons. \newline \newline \relax \fontsize {5}{6}\selectfont {Image from the presentation by the principal co-author of \cite {Marques2018}, Tiago Marques, under the Champalimaud Internal Seminar Series on October $15^{th}$ 2017, \textit {The functional organization of cortical feedback}.}\relax }}{19}{figure.caption.12}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2.6}{\ignorespaces LM feedback to V1 functional organization according to simple geometrical rules. Planes represent retinotopic maps in V1 and LM, while bars represent preferred orientation of the LM neurons. \newline \textbf {Left:} OS inputs have biased wiring towards neurons encoding positions orthogonal to the input feedback neurons preferred orientation. \newline \textbf {Right:} DS inputs tend to be wired to neurons that encode visual field positions along the opposite direction to the feedback input neuron's preferred motion direction. \newline \newline \relax \fontsize {5}{6}\selectfont {Images from \cite {Marques2018}.}\relax }}{22}{figure.caption.13}
-\defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
-\defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Technology}{23}{chapter.3}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3.1}{\ignorespaces GCaMP6 principle of expression functioning. Process of $Ca^{2+}$ influx, binding, deprotonation and light emission with incread green fluorescence by excitation of blue light (top row) as an absorbance shift with new peak value at ~490 nm is induced by means of chromophore's pH lowering (bottom row). Image adapted from \cite {Lin2016}.\relax }}{27}{figure.caption.14}
+\contentsline {figure}{\numberline {2.6}{\ignorespaces LM feedback to V1 functional organization according to simple geometrical rules. Planes represent retinotopic maps in V1 and LM, while bars represent preferred orientation of the LM neurons. \newline \textbf {Left:} OS inputs have biased wiring towards neurons encoding positions orthogonal to the input feedback neurons preferred orientation. \newline \textbf {Right:} DS inputs tend to be wired to neurons that encode visual field positions along the opposite direction to the feedback input neuron's preferred motion direction. \newline \newline \relax \fontsize {5}{6}\selectfont {Images from \cite {Marques2018}.}\relax }}{20}{figure.caption.13}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Technical Implementations}{33}{chapter.4}
+\contentsline {xchapter}{Technology}{21}{chapter.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.1}{\ignorespaces c1}}{34}{figure.caption.15}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Perspectives of Bpod State Machine device version 0.5, identical parts as in version 0.9, but with fully transparent box container design. Images from Sanworks Bpod wiki page [REFERENCES].\relax }}{38}{figure.caption.16}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces c1}}{41}{figure.caption.17}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces c1}}{43}{figure.caption.18}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces GCaMP6 principle of expression functioning. Process of $Ca^{2+}$ influx, binding, deprotonation and light emission with incread green fluorescence by excitation of blue light (top row) as an absorbance shift with new peak value at ~490 nm is induced by means of chromophore's pH lowering (bottom row). Image adapted from \cite {Lin2016}.\relax }}{25}{figure.caption.14}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Experimental Methods}{45}{chapter.5}
+\contentsline {xchapter}{Technical Implementations}{31}{chapter.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.1}{\ignorespaces animal by Marina.\relax }}{47}{figure.caption.19}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces c1}}{31}{figure.caption.15}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.2}{\ignorespaces animal by Marina.\relax }}{47}{figure.caption.20}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Perspectives of Bpod State Machine device version 0.5, identical parts as in version 0.9, but with fully transparent box container design. Images from Sanworks Bpod wiki page [REFERENCES].\relax }}{35}{figure.caption.16}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.3}{\ignorespaces rf example.\relax }}{51}{figure.caption.23}
+\contentsline {figure}{\numberline {4.3}{\ignorespaces c1}}{38}{figure.caption.17}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.4}{\ignorespaces tuning example.\relax }}{51}{figure.caption.25}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Diagram of stimuli group C.\relax }}{52}{figure.caption.27}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Diagram of stimuli group S1.\relax }}{52}{figure.caption.28}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Diagram of stimuli group S1C.\relax }}{53}{figure.caption.29}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Diagram of stimuli group S2.\relax }}{53}{figure.caption.30}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Diagram of stimuli group S2C.\relax }}{54}{figure.caption.31}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5.10}{\ignorespaces SM examples.\relax }}{54}{figure.caption.32}
+\contentsline {figure}{\numberline {4.4}{\ignorespaces c1}}{40}{figure.caption.18}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Analysis}{55}{chapter.6}
+\contentsline {xchapter}{Experimental Methods}{41}{chapter.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6.1}{\ignorespaces $\Delta F/F$ computation and results for an example ROI. \newline \textbf {Left:} \textbf {Top} First 3 minutes section of raw fluorescence trace, F, for the example ROI (black trace) superimposed with the fluorescence baseline estimation trace for that ROI done by using a 60 s sliding window to discard trace's tails (blue trace); \textbf {Middle} Same fluorescence trace (black trace) superimposed with the baseline estimation value, $F_0$ (red trace), calculated as the average result of the baseline estimation trace in the top panel's blue trace, over the full session; \textbf {Bottom} $\Delta F/F$, computed as $\genfrac \displaystyle {}{}{}{F-F_0}{F_0}$. \newline \textbf {Right:} Example ROI's $\Delta F/F$ distribution histogram. Cell's responses are mostly distributed around zero, with positive tails corresponding to spike responses. \relax }}{59}{figure.caption.34}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces animal by Marina.\relax }}{42}{figure.caption.19}
 \defcounter {refsection}{0}\relax 
-\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.2}{\ignorespaces animal by Marina.\relax }}{43}{figure.caption.20}
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Results}{65}{chapter.7}
+\contentsline {figure}{\numberline {5.3}{\ignorespaces rf example.\relax }}{46}{figure.caption.23}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.1}{\ignorespaces Example receptive field measurements for two different cells. On the left, each of the 14 trial-type repetition trace response is represented in a different colour, for each of the visual field stimulated region. On the middle column, the mean traces, averaging over the 14 repetitions are represented also for each azimuth and elevation center stimulus condition. The right column represents the relative response strengths to each of the stimulus positions, in a gray-scale colour map. \newline \textbf {Top:} Example cell with well centred RF. \textbf {Bottom:} Example cell with RF center in the left portion of the visual field.\relax }}{66}{figure.caption.35}
+\contentsline {figure}{\numberline {5.4}{\ignorespaces tuning example.\relax }}{47}{figure.caption.25}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.2}{\ignorespaces Superimposed 2D gaussian ellipsoidal fits for each neuron in the same plane. Two planes from two different sessions with the same animal are presented as examples.\relax }}{67}{figure.caption.36}
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Diagram of stimuli group C.\relax }}{48}{figure.caption.27}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.3}{\ignorespaces Tuning analysis for an example OS cell.\relax }}{68}{figure.caption.37}
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Diagram of stimuli group S1.\relax }}{48}{figure.caption.28}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.4}{\ignorespaces Tuning analysis for an example DS cell.\relax }}{69}{figure.caption.38}
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Diagram of stimuli group S1C.\relax }}{48}{figure.caption.29}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.5}{\ignorespaces SM protocol responses (dF/F) over time (s), for the example DS cell. Responses were baseline subtracted (0.5s) and stimulus onset centered at 0s. \newline \textbf {Left:} 1240 trial responses (10 repetitions, 124 trial types) as chronologically presented to the subjects, over the trial length. No structure is apparent. \newline \textbf {Right:} Averaged repetition responses per trial type, ordered as determined on the text subsection \ref {DSexamplecell} over the trial length. Consistent structure is visible.\relax }}{71}{figure.caption.39}
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Diagram of stimuli group S2.\relax }}{49}{figure.caption.30}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.6}{\ignorespaces Mean repetition trial response profiles for C conditions in the DS example cell, over trial time. The responses were baseline subtracted and the stimulus onset was centered at 0s. Only the up center gratings direction evoked substantial significant responses.\relax }}{71}{figure.caption.40}
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Diagram of stimuli group S2C.\relax }}{49}{figure.caption.31}
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.7}{\ignorespaces Mean repetition trial response profiles for S1 conditions in the DS example cell, over trial time. The responses were baseline subtracted and the onset was at 0s. No significant responses were present for this surround-only condition, as intended for SM analysis. \relax }}{72}{figure.caption.41}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.8}{\ignorespaces S1+C effects for each center direction condition, averaged over 10 repetitions, over trial time, for the DS example cell. The responses were baseline subtracted and the onset was at 0s. For comparisons, responses for center-only condition are represented as gray curves in each plot. \newline \textbf {Top:} S1L+C, S1R+C, S1T+C and S1B+C respectively at each column, for up center condition. For each, surround gratings can be going temporally (blue curve), nasally (yellow curve), up (purple curve) or down (green curve). \newline \textbf {Bottom:} S1L+C and S1R+C responses for center going temporally (left module), down (middle module) or nasally (right module). S1T+C and S1B+C responses are not shown here, as they portray similar non-responsive profiles.\relax }}{73}{figure.caption.42}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.9}{\ignorespaces Average responses for S1L+C (left panels) and S1R+C (right panels) conditions over all of the center directions. \relax }}{74}{figure.caption.43}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.10}{\ignorespaces SM protocol responses (dF/F) over time (s), for the example OS cell. The responses were baseline subtracted (0.5s) and the stimulus onset was at 0s. \newline \textbf {Left:} 1240 trial responses (10 repetitions, 124 trial types) as chronologically presented to the subjects, over the trial length. No structure is apparent. \newline \textbf {Right:} Averaged repetition responses per trial type, ordered as determined on the text subsection \ref {DSexamplecell} over the trial length. Consistent structure is visible. \relax }}{74}{figure.caption.44}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.11}{\ignorespaces Mean repetition trial response profiles for C conditions in the OS example cell, over trial time. The responses were baseline subtracted and the stimulus onset was centered at 0s. The temporal and nasal center gratings directions evoked substantial significant responses, deeming the horizontal orientation the preferred orientation of this OS cell.\relax }}{75}{figure.caption.45}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.12}{\ignorespaces S1+C effects for each center direction condition, averaged over 10 repetitions, over trial time, for the OS example cell. The responses were baseline subtracted and the onset was at 0s. For comparisons, responses for center-only condition are represented as gray curves in each plot. \newline \textbf {Left:} Modules for center temporal conditions, with horizontally positioned surrounds (top) and vertically positioned surrounds (bottom). For each, surround gratings can be going temporally (blue curve), nasally (yellow curve), up (purple curve) or down (green curve). \newline \textbf {Left:} Modules for center nasal conditions, with horizontally positioned surrounds (top) and vertically positioned surrounds (bottom). \relax }}{76}{figure.caption.46}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.13}{\ignorespaces Scaled depiction of cell numbers for each responsiveness group condition: ROIs selected by Suit2p pipeline (blue), visually responsive ROIs (red) and center-only condition(s) responsive ROIs (green).\relax }}{77}{figure.caption.47}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.14}{\ignorespaces Scaled depiction of cell numbers for each selectivity condition:Center responsive cells (blue), OS cells (red) and DS cells (green).\relax }}{77}{figure.caption.48}
-\defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7.15}{\ignorespaces Diagram of cell numbers for each center and surround responsiveness condition, with detailed most relevant values (left) and scaled (right): Center responsive cells (blue), no S1L stimuli conditions responsive cells (yellow), no S1R stimuli conditions responsive cells (green), no S1T stimuli conditions responsive cells (red) and no S1B stimuli conditions responsive cells (green).\relax }}{78}{figure.caption.49}
+\contentsline {figure}{\numberline {5.10}{\ignorespaces SM examples.\relax }}{50}{figure.caption.32}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
-\contentsline {xchapter}{Discussion and Conclusions}{89}{chapter.8}
+\contentsline {xchapter}{Analysis}{51}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {6.1}{\ignorespaces $\Delta F/F$ computation and results for an example ROI. \newline \textbf {Left:} \textbf {Top} First 3 minutes section of raw fluorescence trace, F, for the example ROI (black trace) superimposed with the fluorescence baseline estimation trace for that ROI done by using a 60 s sliding window to discard trace's tails (blue trace); \textbf {Middle} Same fluorescence trace (black trace) superimposed with the baseline estimation value, $F_0$ (red trace), calculated as the average result of the baseline estimation trace in the top panel's blue trace, over the full session; \textbf {Bottom} $\Delta F/F$, computed as $\genfrac \displaystyle {}{}{}{F-F_0}{F_0}$. \newline \textbf {Right:} Example ROI's $\Delta F/F$ distribution histogram. Cell's responses are mostly distributed around zero, with positive tails corresponding to spike responses. \relax }}{55}{figure.caption.34}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {xchapter}{Results}{61}{chapter.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Example receptive field measurements for two different cells. On the left, each of the 14 trial-type repetition trace response is represented in a different colour, for each of the visual field stimulated region. On the middle column, the mean traces, averaging over the 14 repetitions are represented also for each azimuth and elevation center stimulus condition. The right column represents the relative response strengths to each of the stimulus positions, in a gray-scale colour map. \newline \textbf {Top:} Example cell with well centred RF. \textbf {Bottom:} Example cell with RF center in the left portion of the visual field.\relax }}{61}{figure.caption.35}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Superimposed 2D gaussian ellipsoidal fits for each neuron in the same plane. Two planes from two different sessions with the same animal are presented as examples.\relax }}{62}{figure.caption.36}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Tuning analysis for an example OS cell.\relax }}{64}{figure.caption.37}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Tuning analysis for an example DS cell.\relax }}{64}{figure.caption.38}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.5}{\ignorespaces SM protocol responses (dF/F) over time (s), for the example DS cell. Responses were baseline subtracted (0.5s) and stimulus onset centered at 0s. \newline \textbf {Left:} 1240 trial responses (10 repetitions, 124 trial types) as chronologically presented to the subjects, over the trial length. No structure is apparent. \newline \textbf {Right:} Averaged repetition responses per trial type, ordered as determined on the text subsection \ref {DSexamplecell} over the trial length. Consistent structure is visible.\relax }}{66}{figure.caption.39}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.6}{\ignorespaces Mean repetition trial response profiles for C conditions in the DS example cell, over trial time. The responses were baseline subtracted and the stimulus onset was centered at 0s. Only the up center gratings direction evoked substantial significant responses.\relax }}{67}{figure.caption.40}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.7}{\ignorespaces Mean repetition trial response profiles for S1 conditions in the DS example cell, over trial time. The responses were baseline subtracted and the onset was at 0s. No significant responses were present for this surround-only condition, as intended for SM analysis. \relax }}{67}{figure.caption.41}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.8}{\ignorespaces S1+C effects for each center direction condition, averaged over 10 repetitions, over trial time, for the DS example cell. The responses were baseline subtracted and the onset was at 0s. For comparisons, responses for center-only condition are represented as gray curves in each plot. \newline \textbf {Top:} S1L+C, S1R+C, S1T+C and S1B+C respectively at each column, for up center condition. For each, surround gratings can be going temporally (blue curve), nasally (yellow curve), up (purple curve) or down (green curve). \newline \textbf {Bottom:} S1L+C and S1R+C responses for center going temporally (left module), down (middle module) or nasally (right module). S1T+C and S1B+C responses are not shown here, as they portray similar non-responsive profiles.\relax }}{68}{figure.caption.42}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.9}{\ignorespaces Average responses for S1L+C (left panels) and S1R+C (right panels) conditions over all of the center directions. \relax }}{69}{figure.caption.43}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.10}{\ignorespaces SM protocol responses (dF/F) over time (s), for the example OS cell. The responses were baseline subtracted (0.5s) and the stimulus onset was at 0s. \newline \textbf {Left:} 1240 trial responses (10 repetitions, 124 trial types) as chronologically presented to the subjects, over the trial length. No structure is apparent. \newline \textbf {Right:} Averaged repetition responses per trial type, ordered as determined on the text subsection \ref {DSexamplecell} over the trial length. Consistent structure is visible. \relax }}{69}{figure.caption.44}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.11}{\ignorespaces Mean repetition trial response profiles for C conditions in the OS example cell, over trial time. The responses were baseline subtracted and the stimulus onset was centered at 0s. The temporal and nasal center gratings directions evoked substantial significant responses, deeming the horizontal orientation the preferred orientation of this OS cell.\relax }}{70}{figure.caption.45}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.12}{\ignorespaces S1+C effects for each center direction condition, averaged over 10 repetitions, over trial time, for the OS example cell. The responses were baseline subtracted and the onset was at 0s. For comparisons, responses for center-only condition are represented as gray curves in each plot. \newline \textbf {Left:} Modules for center temporal conditions, with horizontally positioned surrounds (top) and vertically positioned surrounds (bottom). For each, surround gratings can be going temporally (blue curve), nasally (yellow curve), up (purple curve) or down (green curve). \newline \textbf {Left:} Modules for center nasal conditions, with horizontally positioned surrounds (top) and vertically positioned surrounds (bottom). \relax }}{71}{figure.caption.46}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.13}{\ignorespaces Scaled depiction of cell numbers for each responsiveness group condition: ROIs selected by Suit2p pipeline (blue), visually responsive ROIs (red) and center-only condition(s) responsive ROIs (green).\relax }}{72}{figure.caption.47}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.14}{\ignorespaces Scaled depiction of cell numbers for each selectivity condition:Center responsive cells (blue), OS cells (red) and DS cells (green).\relax }}{72}{figure.caption.48}
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {7.15}{\ignorespaces Diagram of cell numbers for each center and surround responsiveness condition, with detailed most relevant values (left) and scaled (right): Center responsive cells (blue), no S1L stimuli conditions responsive cells (yellow), no S1R stimuli conditions responsive cells (green), no S1T stimuli conditions responsive cells (red) and no S1B stimuli conditions responsive cells (green).\relax }}{73}{figure.caption.49}
+\defcounter {refsection}{0}\relax 
+\addvspace {10\p@ }
+\defcounter {refsection}{0}\relax 
+\contentsline {xchapter}{Discussion and Conclusions}{85}{chapter.8}
 \defcounter {refsection}{0}\relax 
 \addvspace {10\p@ }
 \defcounter {refsection}{0}\relax 
