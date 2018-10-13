@@ -1,20 +1,20 @@
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.1}RF analysis}{\reset@font\mtcSfont 61}{section.7.1}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.2}Tuning analysis}{\reset@font\mtcSfont 62}{section.7.2}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.3}SM analysis - individual cells}{\reset@font\mtcSfont 64}{section.7.3}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.3.1}DS example cell}{\reset@font\mtcSSfont 65}{subsection.7.3.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.3.2}OS example cell}{\reset@font\mtcSSfont 69}{subsection.7.3.2}}
-{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.4}SM analysis - cells population}{\reset@font\mtcSfont 71}{section.7.4}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.4.1}Data ROI groups}{\reset@font\mtcSSfont 71}{subsection.7.4.1}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.4.2}RF center positions and SM protocol center-only: all population and per animal}{\reset@font\mtcSSfont 73}{subsection.7.4.2}}
-{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.4.3}Comparisons between conditions}{\reset@font\mtcSSfont 75}{subsection.7.4.3}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.A}Surround number effect}{\reset@font\mtcSSSfont 75}{subsubsection.7.4.3.1}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.B}Surround position effect}{\reset@font\mtcSSSfont 76}{subsubsection.7.4.3.2}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.C}Surround direction effect}{\reset@font\mtcSSSfont 77}{subsubsection.7.4.3.3}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.D}Surround orientation effect}{\reset@font\mtcSSSfont 77}{subsubsection.7.4.3.4}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.E}Surround orientation alignment effect (position and orientation)}{\reset@font\mtcSSSfont 78}{subsubsection.7.4.3.5}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.F}Center and surround relative orientation effect, with center OS preference}{\reset@font\mtcSSSfont 78}{subsubsection.7.4.3.6}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.G}Interactions between surround orientation alignment and surround-center relative orientation effects}{\reset@font\mtcSSSfont 79}{subsubsection.7.4.3.7}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.H}Interactions between surround orientation alignment, surround-center relative orientation effects and center OS preference}{\reset@font\mtcSSSfont 80}{subsubsection.7.4.3.8}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.I}Surround direction alignment effect (direction and position)}{\reset@font\mtcSSSfont 82}{subsubsection.7.4.3.9}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.J}Surround and center relative direction effect}{\reset@font\mtcSSSfont 82}{subsubsection.7.4.3.10}}
-{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.K}Interactions between direction alignment, surround-center relative direction effects and center DS preference}{\reset@font\mtcSSSfont 83}{subsubsection.7.4.3.11}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.1}RF analysis}{\reset@font\mtcSfont 60}{section.7.1}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.2}Tuning analysis}{\reset@font\mtcSfont 61}{section.7.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.3}SM analysis - individual cells}{\reset@font\mtcSfont 63}{section.7.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.3.1}DS example cell}{\reset@font\mtcSSfont 64}{subsection.7.3.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.3.2}OS example cell}{\reset@font\mtcSSfont 68}{subsection.7.3.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {7.4}SM analysis - cells population}{\reset@font\mtcSfont 70}{section.7.4}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.4.1}Data ROI groups}{\reset@font\mtcSSfont 70}{subsection.7.4.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.4.2}RF center positions and SM protocol center-only: all population and per animal}{\reset@font\mtcSSfont 72}{subsection.7.4.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {7.4.3}Comparisons between conditions}{\reset@font\mtcSSfont 74}{subsection.7.4.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.A}Surround number effect}{\reset@font\mtcSSSfont 74}{subsubsection.7.4.3.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.B}Surround position effect}{\reset@font\mtcSSSfont 75}{subsubsection.7.4.3.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.C}Surround direction effect}{\reset@font\mtcSSSfont 76}{subsubsection.7.4.3.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.D}Surround orientation effect}{\reset@font\mtcSSSfont 76}{subsubsection.7.4.3.4}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.E}Surround orientation alignment effect (position and orientation)}{\reset@font\mtcSSSfont 77}{subsubsection.7.4.3.5}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.F}Center and surround relative orientation effect, with center OS preference}{\reset@font\mtcSSSfont 77}{subsubsection.7.4.3.6}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.G}Interactions between surround orientation alignment and surround-center relative orientation effects}{\reset@font\mtcSSSfont 78}{subsubsection.7.4.3.7}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.H}Interactions between surround orientation alignment, surround-center relative orientation effects and center OS preference}{\reset@font\mtcSSSfont 79}{subsubsection.7.4.3.8}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.I}Surround direction alignment effect (direction and position)}{\reset@font\mtcSSSfont 81}{subsubsection.7.4.3.9}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.J}Surround and center relative direction effect}{\reset@font\mtcSSSfont 81}{subsubsection.7.4.3.10}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {7.4.3.K}Interactions between direction alignment, surround-center relative direction effects and center DS preference}{\reset@font\mtcSSSfont 82}{subsubsection.7.4.3.11}}

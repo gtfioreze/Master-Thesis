@@ -105,50 +105,50 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.5.7}Multivariate comparisons: Holm-Bonferroni method}{59}{subsection.6.5.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {7}Results}{61}{chapter.7}
+\contentsline {chapter}{\numberline {7}Results}{60}{chapter.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.1}RF analysis}{61}{section.7.1}
+\contentsline {section}{\numberline {7.1}RF analysis}{60}{section.7.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.2}Tuning analysis}{62}{section.7.2}
+\contentsline {section}{\numberline {7.2}Tuning analysis}{61}{section.7.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.3}SM analysis - individual cells}{64}{section.7.3}
+\contentsline {section}{\numberline {7.3}SM analysis - individual cells}{63}{section.7.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.1}DS example cell}{65}{subsection.7.3.1}
+\contentsline {subsection}{\numberline {7.3.1}DS example cell}{64}{subsection.7.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.3.2}OS example cell}{69}{subsection.7.3.2}
+\contentsline {subsection}{\numberline {7.3.2}OS example cell}{68}{subsection.7.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7.4}SM analysis - cells population}{71}{section.7.4}
+\contentsline {section}{\numberline {7.4}SM analysis - cells population}{70}{section.7.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.1}Data ROI groups}{71}{subsection.7.4.1}
+\contentsline {subsection}{\numberline {7.4.1}Data ROI groups}{70}{subsection.7.4.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.2}RF center positions and SM protocol center-only: all population and per animal}{73}{subsection.7.4.2}
+\contentsline {subsection}{\numberline {7.4.2}RF center positions and SM protocol center-only: all population and per animal}{72}{subsection.7.4.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.4.3}Comparisons between conditions}{75}{subsection.7.4.3}
+\contentsline {subsection}{\numberline {7.4.3}Comparisons between conditions}{74}{subsection.7.4.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.A}Surround number effect}{75}{subsubsection.7.4.3.1}
+\contentsline {subsubsection}{\numberline {7.4.3.A}Surround number effect}{74}{subsubsection.7.4.3.1}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.B}Surround position effect}{76}{subsubsection.7.4.3.2}
+\contentsline {subsubsection}{\numberline {7.4.3.B}Surround position effect}{75}{subsubsection.7.4.3.2}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.C}Surround direction effect}{77}{subsubsection.7.4.3.3}
+\contentsline {subsubsection}{\numberline {7.4.3.C}Surround direction effect}{76}{subsubsection.7.4.3.3}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.D}Surround orientation effect}{77}{subsubsection.7.4.3.4}
+\contentsline {subsubsection}{\numberline {7.4.3.D}Surround orientation effect}{76}{subsubsection.7.4.3.4}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.E}Surround orientation alignment effect (position and orientation)}{78}{subsubsection.7.4.3.5}
+\contentsline {subsubsection}{\numberline {7.4.3.E}Surround orientation alignment effect (position and orientation)}{77}{subsubsection.7.4.3.5}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.F}Center and surround relative orientation effect, with center OS preference}{78}{subsubsection.7.4.3.6}
+\contentsline {subsubsection}{\numberline {7.4.3.F}Center and surround relative orientation effect, with center OS preference}{77}{subsubsection.7.4.3.6}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.G}Interactions between surround orientation alignment and surround-center relative orientation effects}{79}{subsubsection.7.4.3.7}
+\contentsline {subsubsection}{\numberline {7.4.3.G}Interactions between surround orientation alignment and surround-center relative orientation effects}{78}{subsubsection.7.4.3.7}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.H}Interactions between surround orientation alignment, surround-center relative orientation effects and center OS preference}{80}{subsubsection.7.4.3.8}
+\contentsline {subsubsection}{\numberline {7.4.3.H}Interactions between surround orientation alignment, surround-center relative orientation effects and center OS preference}{79}{subsubsection.7.4.3.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.I}Surround direction alignment effect (direction and position)}{82}{subsubsection.7.4.3.9}
+\contentsline {subsubsection}{\numberline {7.4.3.I}Surround direction alignment effect (direction and position)}{81}{subsubsection.7.4.3.9}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.J}Surround and center relative direction effect}{82}{subsubsection.7.4.3.10}
+\contentsline {subsubsection}{\numberline {7.4.3.J}Surround and center relative direction effect}{81}{subsubsection.7.4.3.10}
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {7.4.3.K}Interactions between direction alignment, surround-center relative direction effects and center DS preference}{83}{subsubsection.7.4.3.11}
+\contentsline {subsubsection}{\numberline {7.4.3.K}Interactions between direction alignment, surround-center relative direction effects and center DS preference}{82}{subsubsection.7.4.3.11}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {8}Discussion and Conclusions}{85}{chapter.8}
+\contentsline {chapter}{\numberline {8}Discussion and Conclusions}{83}{chapter.8}
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliography}{89}{section*.79}
+\contentsline {chapter}{Bibliography}{87}{section*.79}
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{Appendix \numberline {A}Title of AppendixA}{A-1}{appendix.A}
